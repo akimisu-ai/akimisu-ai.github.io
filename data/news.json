@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "롯데마트, 베트남 16호점 열었다…3년 만에 출점 재개",
-      "url": "https://n.news.naver.com/mnews/article/018/0006328191"
+      "title": "초고가 주택 보유세 강화… 장특공제 실거주 중심 개편 유력",
+      "url": "https://n.news.naver.com/mnews/article/081/0003660468"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001371672"
+      "title": "곽노정 \"2027년 메모리 공급난 역대 최악\"…美·日·동남아 팹 검토",
+      "url": "https://n.news.naver.com/mnews/article/031/0001041552"
     },
     {
-      "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본질”…전문가들 제시한 해법은?",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142298"
+      "title": "환율 하락에 달러 '줍줍'…은행 달러예금 8조8000억원 ↑",
+      "url": "https://n.news.naver.com/mnews/article/119/0003110465"
     },
     {
-      "title": "중앙일보 워크아웃 개시…“자구계획 차질 없이 이행”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003536816"
+      "title": "[단독] \"로봇에 야근 뺏길라\"…현대차, 60년 만에 중대 결단",
+      "url": "https://n.news.naver.com/mnews/article/015/0005309032"
     },
     {
-      "title": "나스닥 데뷔 SK하이닉스 13% 상승…뉴욕증시 소폭 상승 마감 [뉴욕증시 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308825"
+      "title": "5대 지주, 상반기 포용금융 11.3조 공급…연 목표 85% 달성",
+      "url": "https://n.news.naver.com/mnews/article/016/0002669078"
     },
     {
-      "title": "'세계 D램 4위' 중국 CXMT…6.5조 실탄으로 삼성·SK 추격",
-      "url": "https://n.news.naver.com/mnews/article/001/0016188603"
+      "title": "상반기 팔린 신차 2대 중 1대는 친환경차",
+      "url": "https://n.news.naver.com/mnews/article/020/0003733316"
     },
     {
-      "title": "SK하이닉스, 미국 나스닥 시장 입성···글로벌 AI 파트너 노린다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003457427"
+      "title": "국세청장 “반도체 쏠림형 세수 걱정…새 산업 육성해야”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003987106"
     },
     {
-      "title": "미국은 왜 중앙은행디지털화폐(CBDC)를 반대할까 [도예리의 디지털자산 노트]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640539"
+      "title": "상법 개정 1년… 기업 84% “이사회 운영방식 변화 생겨”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003733315"
     },
     {
-      "title": "최태원 \"AI칩 늘 부족…고객들 공급 5~6배 늘리길 원해\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308813"
+      "title": "\"애플 칩, 인텔 공장서 만들어라\"...트럼프, 관세 협상서 압박",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521209"
     },
     {
-      "title": "\"목표치 넘긴 물가\"…한은, 이번주 기준금리 인상 전망",
-      "url": "https://n.news.naver.com/mnews/article/003/0014061040"
+      "title": "한은 ‘반도체 고점론’ 일축…“반도체 수요 증가보다 공급 확대 더뎌”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537113"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1498.87,
-      "change": -4.48,
-      "change_pct": -0.3
+      "value": 1499.27,
+      "change": -6.64,
+      "change_pct": -0.44
     }
   },
   "gold": {
-    "price_usd": 4104.1,
-    "price_krw": 6151512,
-    "change": -26.5,
-    "change_pct": -0.64
+    "price_usd": 4082.1,
+    "price_krw": 6120170,
+    "change": -22.0,
+    "change_pct": -0.54
   },
-  "updated": "2026-07-12 09:14",
+  "updated": "2026-07-13 08:38",
   "error": null
 }
