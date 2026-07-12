@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "코스피 5% 급등에 매수 사이드카…“AI 투자 기대감 회복”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002813571"
+      "title": "롯데마트, 베트남 16호점 열었다…3년 만에 출점 재개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328191"
     },
     {
-      "title": "여름 휴가철 맞은 백화점…키즈 팝업부터 AI·물놀이 체험까지",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142215"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001371672"
     },
     {
-      "title": "홈플러스 6월 체불임금 333억…정부, 1인당 최대 2100만원 긴급 지원",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660262"
+      "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본질”…전문가들 제시한 해법은?",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142298"
     },
     {
-      "title": "항고포기 수순 MBK·자금 전용 난색 메리츠…파산으로 가는 홈플러스",
-      "url": "https://n.news.naver.com/mnews/article/421/0009052854"
+      "title": "중앙일보 워크아웃 개시…“자구계획 차질 없이 이행”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536816"
     },
     {
-      "title": "LG엔솔, 국내 첫 AI 배전망 ESS 사업 따냈다…에너지 플랫폼 '속도'",
-      "url": "https://n.news.naver.com/mnews/article/119/0003110164"
+      "title": "나스닥 데뷔 SK하이닉스 13% 상승…뉴욕증시 소폭 상승 마감 [뉴욕증시 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308825"
     },
     {
-      "title": "9시30분 벨 누르자 거래 시작…\"웰컴 투 나스닥\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308812"
+      "title": "'세계 D램 4위' 중국 CXMT…6.5조 실탄으로 삼성·SK 추격",
+      "url": "https://n.news.naver.com/mnews/article/001/0016188603"
     },
     {
-      "title": "\"이름도 몰랐는데\"…SK하이닉스 美 상장에 외신 '화들짝'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308819"
+      "title": "SK하이닉스, 미국 나스닥 시장 입성···글로벌 AI 파트너 노린다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457427"
     },
     {
-      "title": "‘건설 위기 돌파구’… 국토부, 30% 비싼 ‘모듈러 주택’ 키운다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142118"
+      "title": "미국은 왜 중앙은행디지털화폐(CBDC)를 반대할까 [도예리의 디지털자산 노트]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640539"
     },
     {
-      "title": "“약정금 5000만원 날릴 판”…대출 절벽에 계약취소·자금계획 올스톱",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640393"
+      "title": "최태원 \"AI칩 늘 부족…고객들 공급 5~6배 늘리길 원해\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308813"
     },
     {
-      "title": "韓 노년층 빈곤율 30%대로 첫 하락… 그래도 OECD 1위",
-      "url": "https://n.news.naver.com/mnews/article/023/0003986805"
+      "title": "\"목표치 넘긴 물가\"…한은, 이번주 기준금리 인상 전망",
+      "url": "https://n.news.naver.com/mnews/article/003/0014061040"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7475.94,
+      "change": 184.03,
+      "change_pct": 2.52
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 837.43,
+      "change": 43.43,
+      "change_pct": 5.47
     },
     "nasdaq": {
       "value": 26281.61,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4128.9,
-    "price_krw": 6188684,
-    "change": -1.7,
-    "change_pct": -0.04
+    "price_usd": 4104.1,
+    "price_krw": 6151512,
+    "change": -26.5,
+    "change_pct": -0.64
   },
-  "updated": "2026-07-11 09:13",
+  "updated": "2026-07-12 09:14",
   "error": null
 }
