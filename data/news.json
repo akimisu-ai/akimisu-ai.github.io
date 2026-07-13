@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "초고가 주택 보유세 강화… 장특공제 실거주 중심 개편 유력",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660468"
+      "title": "박홍근 \"내년 세수 500조 돌파 예상…지출 50조 줄여 미래 투자\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000626501"
     },
     {
-      "title": "곽노정 \"2027년 메모리 공급난 역대 최악\"…美·日·동남아 팹 검토",
-      "url": "https://n.news.naver.com/mnews/article/031/0001041552"
+      "title": "산업은행, 국민성장 정책성펀드 2차 자펀드 위탁운용사 7곳 선정",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521465"
     },
     {
-      "title": "환율 하락에 달러 '줍줍'…은행 달러예금 8조8000억원 ↑",
-      "url": "https://n.news.naver.com/mnews/article/119/0003110465"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258577"
     },
     {
-      "title": "[단독] \"로봇에 야근 뺏길라\"…현대차, 60년 만에 중대 결단",
-      "url": "https://n.news.naver.com/mnews/article/015/0005309032"
+      "title": "스마트폰 사용 10명 중 8명은 갤럭시…20대만 아이폰이 더 많아",
+      "url": "https://n.news.naver.com/mnews/article/654/0000190206"
     },
     {
-      "title": "5대 지주, 상반기 포용금융 11.3조 공급…연 목표 85% 달성",
-      "url": "https://n.news.naver.com/mnews/article/016/0002669078"
+      "title": "7월 1~10일 수출 298억 달러…한 달 만에 최대치 ‘또’ 경신",
+      "url": "https://n.news.naver.com/mnews/article/020/0003733452"
     },
     {
-      "title": "상반기 팔린 신차 2대 중 1대는 친환경차",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733316"
+      "title": "메가프로젝트 전력 수요에…정부, 신규 원전·SMR 카드 공식화",
+      "url": "https://n.news.naver.com/mnews/article/029/0003036847"
     },
     {
-      "title": "국세청장 “반도체 쏠림형 세수 걱정…새 산업 육성해야”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003987106"
+      "title": "코스피 ‘블랙 먼데이’… 2개월만에 7000피 무너져",
+      "url": "https://n.news.naver.com/mnews/article/020/0003733679"
     },
     {
-      "title": "상법 개정 1년… 기업 84% “이사회 운영방식 변화 생겨”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733315"
+      "title": "美 ADR도 9% 급락…밤잠 설친 하이닉스 개미 '어떡해'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258599"
     },
     {
-      "title": "\"애플 칩, 인텔 공장서 만들어라\"...트럼프, 관세 협상서 압박",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521209"
+      "title": "6월 서울 아파트 상승거래 57% 넘었다…중저가 아파트서 확대",
+      "url": "https://n.news.naver.com/mnews/article/028/0002813838"
     },
     {
-      "title": "한은 ‘반도체 고점론’ 일축…“반도체 수요 증가보다 공급 확대 더뎌”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003537113"
+      "title": "홈플러스 회생절차 폐지에 부산 아시아드점 입주업체들 \"생존권 보장을\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009056599"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7475.94,
-      "change": 184.03,
-      "change_pct": 2.52
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 837.43,
-      "change": 43.43,
-      "change_pct": 5.47
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26281.61,
-      "change": 74.72,
-      "change_pct": 0.29
+      "value": 25873.18,
+      "change": -408.43,
+      "change_pct": -1.55
     },
     "usdkrw": {
-      "value": 1499.27,
-      "change": -6.64,
-      "change_pct": -0.44
+      "value": 1497.06,
+      "change": -1.42,
+      "change_pct": -0.09
     }
   },
   "gold": {
-    "price_usd": 4082.1,
-    "price_krw": 6120170,
-    "change": -22.0,
-    "change_pct": -0.54
+    "price_usd": 4004.8,
+    "price_krw": 5995425,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-13 08:38",
+  "updated": "2026-07-14 08:39",
   "error": null
 }
