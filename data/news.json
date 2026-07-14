@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "박홍근 \"내년 세수 500조 돌파 예상…지출 50조 줄여 미래 투자\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000626501"
+      "title": "농관원 강원지원, 휴가철 맞아 축산물 원산지 위반 집중 단속",
+      "url": "https://n.news.naver.com/mnews/article/421/0009059226"
     },
     {
-      "title": "산업은행, 국민성장 정책성펀드 2차 자펀드 위탁운용사 7곳 선정",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521465"
+      "title": "정부, 올해 성장률 목표 2% → 3% 상향... “반도체 호조에 무역 흑자 ‘사상 최대’ 전망”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001178982"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258577"
+      "title": "뉴욕증시, 물가우려 완화 속 반도체 랠리 재개…나스닥 1%↑(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016194806"
     },
     {
-      "title": "스마트폰 사용 10명 중 8명은 갤럭시…20대만 아이폰이 더 많아",
-      "url": "https://n.news.naver.com/mnews/article/654/0000190206"
+      "title": "뉴욕증시, SK하닉 27% 폭등…국내 SK하이닉스·삼성전자 영향은? [수민이가 궁금해요]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004143135"
     },
     {
-      "title": "7월 1~10일 수출 298억 달러…한 달 만에 최대치 ‘또’ 경신",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733452"
+      "title": "'300만닉스 빙고판' 등장…\"홍명보호보다 확률 낮다\" 투자자들 '자조'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009059908"
     },
     {
-      "title": "메가프로젝트 전력 수요에…정부, 신규 원전·SMR 카드 공식화",
-      "url": "https://n.news.naver.com/mnews/article/029/0003036847"
+      "title": "국토부 주관 첫 부동산 토론회‥공공임대·비아파트 확대 목소리",
+      "url": "https://n.news.naver.com/mnews/article/214/0001511637"
     },
     {
-      "title": "코스피 ‘블랙 먼데이’… 2개월만에 7000피 무너져",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733679"
+      "title": "MBK 만나는 홈플러스 노조…'회생 방안·고용 대책' 나올까",
+      "url": "https://n.news.naver.com/mnews/article/003/0014065144"
     },
     {
-      "title": "美 ADR도 9% 급락…밤잠 설친 하이닉스 개미 '어떡해'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258599"
+      "title": "英 공주, HD현대중공업 찾았다…한-영 조선협력 확대 논의",
+      "url": "https://n.news.naver.com/mnews/article/448/0000626731"
     },
     {
-      "title": "6월 서울 아파트 상승거래 57% 넘었다…중저가 아파트서 확대",
-      "url": "https://n.news.naver.com/mnews/article/028/0002813838"
+      "title": "SK 하이닉스 ADR 레버리지, 뉴욕 증시에 대거 상장",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379557"
     },
     {
-      "title": "홈플러스 회생절차 폐지에 부산 아시아드점 입주업체들 \"생존권 보장을\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009056599"
+      "title": "관광새마을운동 13곳서 추진…지방우대 3종패키지 도입[하반기 경제]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014065402"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7475.94,
+      "value": 6806.93,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.43,
+      "value": 799.36,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25873.18,
-      "change": -408.43,
-      "change_pct": -1.55
+      "value": 26107.01,
+      "change": 233.83,
+      "change_pct": 0.9
     },
     "usdkrw": {
-      "value": 1497.06,
-      "change": -1.42,
-      "change_pct": -0.09
+      "value": 1486.79,
+      "change": -10.91,
+      "change_pct": -0.73
     }
   },
   "gold": {
-    "price_usd": 4004.8,
-    "price_krw": 5995425,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4056.9,
+    "price_krw": 6031758,
+    "change": 59.9,
+    "change_pct": 1.5
   },
-  "updated": "2026-07-14 08:39",
+  "updated": "2026-07-15 08:38",
   "error": null
 }
