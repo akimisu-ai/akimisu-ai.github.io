@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "성과급 '6억' 외칠 때 최저임금은 '30원' 두고 줄다리기[노동TALK]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006332076"
+      "title": "MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'[주간사모펀드]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000516957"
     },
     {
-      "title": "떨어지는 칼날 움켜쥐어···삼전닉스 레버리지 7조 '흡수'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549428"
+      "title": "4조 ‘잭팟’ 터진 삼성전자, 온누리상품권 8000억원 푼다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708925"
     },
     {
-      "title": "최태원 “현재 AI ‘4살짜리 아이’ 수준… 메모리 계속 필요”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001861635"
+      "title": "\"약국의 재발견\"…'외국인 관광객 수혜' 화장품주 주목",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201493"
     },
     {
-      "title": "애플, 엔비디아 제치고 한때 시총 1위 탈환…AI 투자 '반도체→플랫폼' 재편",
-      "url": "https://n.news.naver.com/mnews/article/018/0006332268"
+      "title": "IPO 거품이었나...‘공모가 아래’ 스페이스X 시총 1500조원 증발",
+      "url": "https://n.news.naver.com/mnews/article/011/0004642618"
     },
     {
-      "title": "삼성전자 감사 페스티벌 역대급 매출에 배송 지연…\"상품권 환급 차질없다\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004169378"
+      "title": "주유소 기름값 9주째 하락…전국 휘발윳값 1877.5원",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311194"
     },
     {
-      "title": "궤도 “AI 시대 경쟁력은 ‘검증’과 ‘본질’…판단은 인간의 몫”",
-      "url": "https://n.news.naver.com/mnews/article/277/0005791268"
+      "title": "현대차 노조 지난주 최대 26시간만 근무…9년 만에 최대 생산차질 전망",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671788"
     },
     {
-      "title": "年 7%대 주담대 더 오른다… 물가안정 기대속 영끌족 비상",
-      "url": "https://n.news.naver.com/mnews/article/020/0003734559"
+      "title": "美 뉴욕증시 3대 지수 하락 마감… 반도체주 매도세 지속",
+      "url": "https://n.news.naver.com/mnews/article/366/0001180031"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000627422"
+      "title": "올해 1인당 GDP 3만9000달러 추산…'4만달러' 돌파 기대감도",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259134"
     },
     {
-      "title": "“수익률 3배·수수료 3분의 1” 국민연금의 퇴직연금 진격…커지는 금융권의 우려",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671515"
+      "title": "“돈복사 해보려다 계좌 다 녹았어요”…뒤늦게 레버리지 손질 나선 금융당국",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708977"
     },
     {
-      "title": "한국, 자유무역·개방경제 중견국 협의체 FIT-P 가입",
-      "url": "https://n.news.naver.com/mnews/article/003/0014072662"
+      "title": "한화 필리조선소, 미국 미사일시험 계측선 건조 따냈다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259110"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4023.0,
-    "price_krw": 5984051,
-    "change": 37.4,
-    "change_pct": 0.94
+    "price_usd": 4012.7,
+    "price_krw": 5968730,
+    "change": 27.1,
+    "change_pct": 0.68
   },
-  "updated": "2026-07-18 08:38",
+  "updated": "2026-07-19 08:38",
   "error": null
 }
