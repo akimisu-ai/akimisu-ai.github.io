@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'[주간사모펀드]",
-      "url": "https://n.news.naver.com/mnews/article/629/0000516957"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001373701"
     },
     {
-      "title": "4조 ‘잭팟’ 터진 삼성전자, 온누리상품권 8000억원 푼다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708925"
+      "title": "현대차 이어 현대중공업까지… 울산 ‘여름 파업’ 전운",
+      "url": "https://n.news.naver.com/mnews/article/005/0001861762"
     },
     {
-      "title": "\"약국의 재발견\"…'외국인 관광객 수혜' 화장품주 주목",
-      "url": "https://n.news.naver.com/mnews/article/001/0016201493"
+      "title": "“벌 만큼 벌어놨다, 환율 30원만 떨어지면”…1인당 GDP 4만달러 ‘눈앞’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709029"
     },
     {
-      "title": "IPO 거품이었나...‘공모가 아래’ 스페이스X 시총 1500조원 증발",
-      "url": "https://n.news.naver.com/mnews/article/011/0004642618"
+      "title": "대출 한도 줄고, 금리는 오르고…실수요자 시름만 깊어진다",
+      "url": "https://n.news.naver.com/mnews/article/057/0001959204"
     },
     {
-      "title": "주유소 기름값 9주째 하락…전국 휘발윳값 1877.5원",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311194"
+      "title": "신세계百, 강남점 갤러리 개관…최명영 개인전 개최",
+      "url": "https://n.news.naver.com/mnews/article/277/0005791618"
     },
     {
-      "title": "현대차 노조 지난주 최대 26시간만 근무…9년 만에 최대 생산차질 전망",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671788"
+      "title": "금융당국이 내놓은 단일종목 레버리지 대책…증시 변동성 진정될까 [증시레이더]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002234585"
     },
     {
-      "title": "美 뉴욕증시 3대 지수 하락 마감… 반도체주 매도세 지속",
-      "url": "https://n.news.naver.com/mnews/article/366/0001180031"
+      "title": "한화필리조선소, 3조 규모 美 '골든돔' 프로젝트 사업자 선정(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009066568"
     },
     {
-      "title": "올해 1인당 GDP 3만9000달러 추산…'4만달러' 돌파 기대감도",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259134"
+      "title": "LG전자, 압구정 재건축 단지에 가전 구독 서비스 도입",
+      "url": "https://n.news.naver.com/mnews/article/031/0001043029"
     },
     {
-      "title": "“돈복사 해보려다 계좌 다 녹았어요”…뒤늦게 레버리지 손질 나선 금융당국",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708977"
+      "title": "최태원, 성과급 논란에 \"긍정적 영향도 있어…좀더 지켜봐야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201835"
     },
     {
-      "title": "한화 필리조선소, 미국 미사일시험 계측선 건조 따냈다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259110"
+      "title": "中 ‘키미 K3’ 충격에 AI 반도체 급락… 월요일 코스피 시험대",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988343"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6820.6,
-      "change": -463.81,
-      "change_pct": -6.37
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 791.84,
-      "change": -37.59,
-      "change_pct": -4.53
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 25520.24,
@@ -58,17 +58,17 @@
       "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1487.46,
-      "change": 1.26,
-      "change_pct": 0.08
+      "value": 1488.02,
+      "change": 9.17,
+      "change_pct": 0.62
     }
   },
   "gold": {
-    "price_usd": 4012.7,
-    "price_krw": 5968730,
-    "change": 27.1,
-    "change_pct": 0.68
+    "price_usd": 3994.0,
+    "price_krw": 5943151,
+    "change": -18.7,
+    "change_pct": -0.47
   },
-  "updated": "2026-07-19 08:38",
+  "updated": "2026-07-20 09:16",
   "error": null
 }
