@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001373701"
+      "title": "현대차 노조, 올해 네번째 부분파업…22일까지 4시간 파업",
+      "url": "https://n.news.naver.com/mnews/article/003/0014075594"
     },
     {
-      "title": "현대차 이어 현대중공업까지… 울산 ‘여름 파업’ 전운",
-      "url": "https://n.news.naver.com/mnews/article/005/0001861762"
+      "title": "현대차, 새만금 AI 밸리 인재 키운다…전북자치도·전북대와 맞손",
+      "url": "https://n.news.naver.com/mnews/article/092/0002431118"
     },
     {
-      "title": "“벌 만큼 벌어놨다, 환율 30원만 떨어지면”…1인당 GDP 4만달러 ‘눈앞’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005709029"
+      "title": "열에 아홉번 통하는 국장 필승법 있다고?…“○○○ 따라가세요”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709302"
     },
     {
-      "title": "대출 한도 줄고, 금리는 오르고…실수요자 시름만 깊어진다",
-      "url": "https://n.news.naver.com/mnews/article/057/0001959204"
+      "title": "'2000억원 마련' 홈플러스, 즉시항고 제기...회생 불씨 살린다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005550255"
     },
     {
-      "title": "신세계百, 강남점 갤러리 개관…최명영 개인전 개최",
-      "url": "https://n.news.naver.com/mnews/article/277/0005791618"
+      "title": "권대영 “못 갚는 빚도 무조건 상환? 잔인해…금융사도 연체 책임 나눠야”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709633"
     },
     {
-      "title": "금융당국이 내놓은 단일종목 레버리지 대책…증시 변동성 진정될까 [증시레이더]",
-      "url": "https://n.news.naver.com/mnews/article/138/0002234585"
+      "title": "46억 넘어야 서울 상위 1% 아파트",
+      "url": "https://n.news.naver.com/mnews/article/003/0014074969"
     },
     {
-      "title": "한화필리조선소, 3조 규모 美 '골든돔' 프로젝트 사업자 선정(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009066568"
+      "title": "원/달러 환율, 0.1원 내린 1478.4원",
+      "url": "https://n.news.naver.com/mnews/article/008/0005388101"
     },
     {
-      "title": "LG전자, 압구정 재건축 단지에 가전 구독 서비스 도입",
-      "url": "https://n.news.naver.com/mnews/article/031/0001043029"
+      "title": "구윤철 \"첫 대미 투자..상업적 합리성 면밀히 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549930"
     },
     {
-      "title": "최태원, 성과급 논란에 \"긍정적 영향도 있어…좀더 지켜봐야\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016201835"
+      "title": "③'덩치·기술 경쟁'…한단계 끌어올리려면?[CDMO 특별법]",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049037"
     },
     {
-      "title": "中 ‘키미 K3’ 충격에 AI 반도체 급락… 월요일 코스피 시험대",
-      "url": "https://n.news.naver.com/mnews/article/023/0003988343"
+      "title": "오세훈 \"재개발·재건축이 공급 마스터키\"…정부가 최대 리스크\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000627992"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.6,
+      "value": 6516.27,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 791.84,
+      "value": 749.64,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25520.24,
-      "change": -361.71,
-      "change_pct": -1.4
+      "value": 25508.07,
+      "change": -12.17,
+      "change_pct": -0.05
     },
     "usdkrw": {
-      "value": 1488.02,
-      "change": 9.17,
-      "change_pct": 0.62
+      "value": 1476.88,
+      "change": -10.51,
+      "change_pct": -0.71
     }
   },
   "gold": {
-    "price_usd": 3994.0,
-    "price_krw": 5943151,
-    "change": -18.7,
-    "change_pct": -0.47
+    "price_usd": 4012.7,
+    "price_krw": 5926276,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-20 09:16",
+  "updated": "2026-07-21 09:15",
   "error": null
 }
