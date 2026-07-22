@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차 노조, 올해 네번째 부분파업…22일까지 4시간 파업",
-      "url": "https://n.news.naver.com/mnews/article/003/0014075594"
+      "title": "상상인證 \"미래에셋증권, 스페이스X 가치 하락에 평가손실 예상…목표가↓\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014079957"
     },
     {
-      "title": "현대차, 새만금 AI 밸리 인재 키운다…전북자치도·전북대와 맞손",
-      "url": "https://n.news.naver.com/mnews/article/092/0002431118"
+      "title": "7월 1∼20일 수출 549억달러, 전년 동기 대비 52.3% 증가…일평균 62.9%↑",
+      "url": "https://n.news.naver.com/mnews/article/437/0000502184"
     },
     {
-      "title": "열에 아홉번 통하는 국장 필승법 있다고?…“○○○ 따라가세요”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005709302"
+      "title": "노태문 삼성전자 대표, 자사주 상여금 57억…전영현 부회장 26억 수령",
+      "url": "https://n.news.naver.com/mnews/article/421/0009071261"
     },
     {
-      "title": "'2000억원 마련' 홈플러스, 즉시항고 제기...회생 불씨 살린다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005550255"
+      "title": "ETF 아버지의 양심고백 \"단일종목 레버리지 투자 멈춰야\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709842"
     },
     {
-      "title": "권대영 “못 갚는 빚도 무조건 상환? 잔인해…금융사도 연체 책임 나눠야”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005709633"
+      "title": "코오롱티슈진, 두번째 임상 3상 결과 10월 발표",
+      "url": "https://n.news.naver.com/mnews/article/015/0005312192"
     },
     {
-      "title": "46억 넘어야 서울 상위 1% 아파트",
-      "url": "https://n.news.naver.com/mnews/article/003/0014074969"
+      "title": "반도체 다음은 로봇… 삼성전자, ‘휴머노이드’ 승부수 던졌다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001862325"
     },
     {
-      "title": "원/달러 환율, 0.1원 내린 1478.4원",
-      "url": "https://n.news.naver.com/mnews/article/008/0005388101"
+      "title": "이찬진 금감원장 “홈플러스 관련 위법사항 제재 절차 신속 진행”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459483"
     },
     {
-      "title": "구윤철 \"첫 대미 투자..상업적 합리성 면밀히 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549930"
+      "title": "임협 결렬 카뱅노조, 31일 첫 파업 나서",
+      "url": "https://n.news.naver.com/mnews/article/020/0003735536"
     },
     {
-      "title": "③'덩치·기술 경쟁'…한단계 끌어올리려면?[CDMO 특별법]",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049037"
+      "title": "정용진 승부수…7500억원 베팅, ‘아만’과 글로벌 호텔 개발",
+      "url": "https://n.news.naver.com/mnews/article/138/0002234740"
     },
     {
-      "title": "오세훈 \"재개발·재건축이 공급 마스터키\"…정부가 최대 리스크\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000627992"
+      "title": "JP모건 \"코스피, 강도 높은 차입 축소 막바지\"…목표치 1만2500p 유지",
+      "url": "https://n.news.naver.com/mnews/article/003/0014078821"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6516.27,
+      "value": 6747.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 749.64,
+      "value": 753.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25508.07,
-      "change": -12.17,
-      "change_pct": -0.05
+      "value": 25837.21,
+      "change": 329.14,
+      "change_pct": 1.29
     },
     "usdkrw": {
-      "value": 1476.88,
-      "change": -10.51,
-      "change_pct": -0.71
+      "value": 1480.18,
+      "change": 5.17,
+      "change_pct": 0.35
     }
   },
   "gold": {
-    "price_usd": 4012.7,
-    "price_krw": 5926276,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4083.9,
+    "price_krw": 6044906,
+    "change": 73.6,
+    "change_pct": 1.84
   },
-  "updated": "2026-07-21 09:15",
+  "updated": "2026-07-22 09:09",
   "error": null
 }
