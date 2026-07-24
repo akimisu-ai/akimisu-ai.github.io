@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "1인당 가계순자산 2억7475만원…주식·주택 상승 영향, 일본 앞서",
-      "url": "https://n.news.naver.com/mnews/article/028/0002815212"
+      "title": "수십억 체납하고 재산 숨겨 호화생활…국세청, 첫 합동수색",
+      "url": "https://n.news.naver.com/mnews/article/003/0014083687"
     },
     {
-      "title": "\"손절할 뻔\"…주가 50% 빠졌는데 삼성 한마디에 '반전' [종목+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005312842"
+      "title": "나무 심고 치과 진료하고…정의선 회장, 브라질 투자·사회공헌 약속 지킨다",
+      "url": "https://n.news.naver.com/mnews/article/629/0000518245"
     },
     {
-      "title": "정부, 여수 산단에 7000억+α 지원한다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005710927"
+      "title": "한화오션, 미국 함정 공동개발 협력…\"마스가 핵심 동력\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016212282"
     },
     {
-      "title": "롯데百, 파트너사 전용 AI 에이전트 론칭",
-      "url": "https://n.news.naver.com/mnews/article/018/0006335044"
+      "title": "SK㈜, SK시그넷 상장폐지 후 매각…소액주주 주식 공개매수",
+      "url": "https://n.news.naver.com/mnews/article/421/0009076396"
     },
     {
-      "title": "대출 연체율 0.67% ‘10년래 최고’… 은행권, 하반기 ‘건전성 비상’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003038291"
+      "title": "美 AI협의체 자문위, 이재용·정의선 합류",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313223"
     },
     {
-      "title": "NH투자증권, 퇴직연금 DC·IRP 5년 수익률 증권업계 1위",
-      "url": "https://n.news.naver.com/mnews/article/018/0006334486"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000888302"
     },
     {
-      "title": "은행권 대출 조이며…올해 비은행 주택관련대출 10.5조↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016207089"
+      "title": "금융당국, 단일종목 레버리지 ETF 기본예탁금 강화 조기시행",
+      "url": "https://n.news.naver.com/mnews/article/052/0002383816"
     },
     {
-      "title": "알파벳 2분기 매출 예상치 상회…클라우드 부문 82% 성장",
-      "url": "https://n.news.naver.com/mnews/article/015/0005312830"
+      "title": "삼성전기, 3천억 규모 AI 서버용 MLCC 공급 계약…잇단 수주",
+      "url": "https://n.news.naver.com/mnews/article/422/0000887993"
     },
     {
-      "title": "\"한국만 난리인 줄 알았는데 일본 더 심각\" 엔·달러 환율 40년만에 최저…엔화에 무슨 일이",
-      "url": "https://n.news.naver.com/mnews/article/277/0005793356"
+      "title": "AI로 주문까지 한 번에…헤지스, 명동 수주회서 해외 바이어 공략",
+      "url": "https://n.news.naver.com/mnews/article/374/0000523264"
     },
     {
-      "title": "2400억 일회성 비용 턴 LG디플…5년 만에 상반기 흑자",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049095"
+      "title": "삼성바이오로직스, 2분기 매출 1조3209억원·영업이익 5864억원",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459853"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6797.7,
+      "value": 7096.89,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 751.09,
+      "value": 790.28,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25690.9,
-      "change": -146.31,
-      "change_pct": -0.57
+      "value": 25137.69,
+      "change": -553.21,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1477.28,
-      "change": -2.44,
-      "change_pct": -0.16
+      "value": 1471.83,
+      "change": -3.8,
+      "change_pct": -0.26
     }
   },
   "gold": {
-    "price_usd": 4136.1,
-    "price_krw": 6110177,
-    "change": 65.0,
-    "change_pct": 1.6
+    "price_usd": 4050.0,
+    "price_krw": 5960911,
+    "change": -96.9,
+    "change_pct": -2.34
   },
-  "updated": "2026-07-23 09:16",
+  "updated": "2026-07-24 09:14",
   "error": null
 }
