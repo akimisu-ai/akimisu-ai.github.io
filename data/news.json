@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "수십억 체납하고 재산 숨겨 호화생활…국세청, 첫 합동수색",
-      "url": "https://n.news.naver.com/mnews/article/003/0014083687"
+      "title": "'돈 쓴 만큼 벌었나' 투심 여전히 냉랭…빅테크 실적·금리에 쏠린 월가",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259921"
     },
     {
-      "title": "나무 심고 치과 진료하고…정의선 회장, 브라질 투자·사회공헌 약속 지킨다",
-      "url": "https://n.news.naver.com/mnews/article/629/0000518245"
+      "title": "이재용 회장 \"AI 시대, 한미 강점 결합하면 더 빠르게 혁신하고 성장\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005794479"
     },
     {
-      "title": "한화오션, 미국 함정 공동개발 협력…\"마스가 핵심 동력\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016212282"
+      "title": "정부, 쿠팡 논란 진화 나서…미 정·재계 설득전",
+      "url": "https://n.news.naver.com/mnews/article/057/0001960324"
     },
     {
-      "title": "SK㈜, SK시그넷 상장폐지 후 매각…소액주주 주식 공개매수",
-      "url": "https://n.news.naver.com/mnews/article/421/0009076396"
+      "title": "하나금융, 2분기 순이익 1조 2061억원…증권 실적 ‘껑충’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003664444"
     },
     {
-      "title": "美 AI협의체 자문위, 이재용·정의선 합류",
-      "url": "https://n.news.naver.com/mnews/article/015/0005313223"
+      "title": "판매·매출 ‘두 토끼’ 잡은 기아, 수익성은 뒷걸음",
+      "url": "https://n.news.naver.com/mnews/article/243/0000100836"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000888302"
+      "title": "국내증시 출렁에 국장 이탈?…서학개미 이달 순매수 4배 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/055/0001375289"
     },
     {
-      "title": "금융당국, 단일종목 레버리지 ETF 기본예탁금 강화 조기시행",
-      "url": "https://n.news.naver.com/mnews/article/052/0002383816"
+      "title": "이재용·정의선·이해진, 엔비디아 본사 방문…젠슨 황 CEO 면담",
+      "url": "https://n.news.naver.com/mnews/article/660/0000113827"
     },
     {
-      "title": "삼성전기, 3천억 규모 AI 서버용 MLCC 공급 계약…잇단 수주",
-      "url": "https://n.news.naver.com/mnews/article/422/0000887993"
+      "title": "잔금대출 막힌 입주자 호소에…'가계대출 총량규제'서 제외 검토",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313552"
     },
     {
-      "title": "AI로 주문까지 한 번에…헤지스, 명동 수주회서 해외 바이어 공략",
-      "url": "https://n.news.naver.com/mnews/article/374/0000523264"
+      "title": "“도박꾼 된 韓 투자자들, 카지노 밖으로 쫓아내기 쉽지 않을 것”…외신 분석 나왔다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004644695"
     },
     {
-      "title": "삼성바이오로직스, 2분기 매출 1조3209억원·영업이익 5864억원",
-      "url": "https://n.news.naver.com/mnews/article/032/0003459853"
+      "title": "서울 폐교 부지에 북한 배경 학생 대안학교 들어선다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552439"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7096.89,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 790.28,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25137.69,
-      "change": -553.21,
-      "change_pct": -2.15
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "usdkrw": {
-      "value": 1471.83,
-      "change": -3.8,
-      "change_pct": -0.26
+      "value": 1462.1,
+      "change": -11.94,
+      "change_pct": -0.81
     }
   },
   "gold": {
-    "price_usd": 4050.0,
-    "price_krw": 5960911,
-    "change": -96.9,
-    "change_pct": -2.34
+    "price_usd": 4067.6,
+    "price_krw": 5947238,
+    "change": 21.0,
+    "change_pct": 0.52
   },
-  "updated": "2026-07-24 09:14",
+  "updated": "2026-07-25 15:06",
   "error": null
 }
