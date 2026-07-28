@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "홈플러스, 내달 10일쯤 영업 재개 전망…'식품 전문매장' 재편",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889380"
+      "title": "LG전자, ‘액체 냉각 솔루션’ 엔비디아 인증 획득",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989812"
     },
     {
-      "title": "HD현대重, 중대재해 잇따르자 전 사업장 생산 중단",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989860"
+      "title": "이재용·최태원, 구글 캠프로…AI 협력 잇는다",
+      "url": "https://n.news.naver.com/mnews/article/031/0001045185"
     },
     {
-      "title": "아모레퍼시픽, 하이어코퍼레이션 손잡고 시술·스킨케어 잇는다",
-      "url": "https://n.news.naver.com/mnews/article/031/0001045050"
+      "title": "한화오션 2분기 영업익 98%↑…고부가 선박·환율효과 반영",
+      "url": "https://n.news.naver.com/mnews/article/374/0000523905"
     },
     {
-      "title": "동아쏘시오홀딩스, 자회사 업고 실적 신기록",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645679"
+      "title": "총리 주재 토론회서 \"거주용 1주택 종부세·장특공제, 현행 유지\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001514179"
     },
     {
-      "title": "한화오션, 분기 매출 5조 돌파…고수익 선박·환율 효과 본격 반영",
-      "url": "https://n.news.naver.com/mnews/article/119/0003115273"
+      "title": "SK하이닉스 ADR 추종 토큰 시총 1000억 육박",
+      "url": "https://n.news.naver.com/mnews/article/020/0003736596"
     },
     {
-      "title": "부산 제조업계 노사 임단협 난항…‘도미노 파업’ 우려",
-      "url": "https://n.news.naver.com/mnews/article/658/0000150601"
+      "title": "與 \"단일종목 레버리지, 상품성 낮춰야…ETF 명칭변경 거론도\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795204"
     },
     {
-      "title": "초고가 1주택자, 비거주 땐 ‘다주택 종부세’",
-      "url": "https://n.news.naver.com/mnews/article/032/0003460497"
+      "title": "구자흠 삼성전자 부사장 \"HBM5에 2나노 공정 적용…속도 50% 향상\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014089571"
     },
     {
-      "title": "코오롱티슈진 \"주주들에 사과…2차임상 분석 '외부 전문업체'에 맡길 것\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314125"
+      "title": "“쿠팡·우리은행, 국내 첫 원화 스테이블코인 실시간 정산 검증”",
+      "url": "https://n.news.naver.com/mnews/article/138/0002235613"
     },
     {
-      "title": "\"배달기사도 최저임금 적용해야\" 민주노총, 노동부에 이의제기",
-      "url": "https://n.news.naver.com/mnews/article/421/0009080850"
+      "title": "뉴욕증시 혼조세 마감…中 반도체 추격에 ASML 8% 급락",
+      "url": "https://n.news.naver.com/mnews/article/003/0014091643"
     },
     {
-      "title": "두산에너빌리티, 상반기 영업익 32%↑…\"수주 잔고 26조 돌파\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014090914"
+      "title": "엔비디아, 네이버 3대 주주로…AI 결속 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391565"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6755.75,
-      "change": 65.13,
-      "change_pct": 0.97
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 764.86,
-      "change": 16.64,
-      "change_pct": 2.22
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24975.82,
-      "change": -161.87,
-      "change_pct": -0.64
+      "value": 24932.08,
+      "change": -43.74,
+      "change_pct": -0.18
     },
     "usdkrw": {
-      "value": 1468.63,
-      "change": -5.41,
-      "change_pct": -0.37
+      "value": 1469.67,
+      "change": 11.66,
+      "change_pct": 0.8
     }
   },
   "gold": {
-    "price_usd": 4101.5,
-    "price_krw": 6023585,
+    "price_usd": 4069.8,
+    "price_krw": 5981263,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-27 19:51",
+  "updated": "2026-07-28 09:13",
   "error": null
 }
