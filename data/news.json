@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG전자, ‘액체 냉각 솔루션’ 엔비디아 인증 획득",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989812"
+      "title": "SK하이닉스 2분기 영업이익 60.5조 원...전년 대비 557%↑",
+      "url": "https://n.news.naver.com/mnews/article/052/0002385958"
     },
     {
-      "title": "이재용·최태원, 구글 캠프로…AI 협력 잇는다",
-      "url": "https://n.news.naver.com/mnews/article/031/0001045185"
+      "title": "현대차, 서산에 임산부 전용 PBV 투입…AI 호출 서비스 운영",
+      "url": "https://n.news.naver.com/mnews/article/123/0002387345"
     },
     {
-      "title": "한화오션 2분기 영업익 98%↑…고부가 선박·환율효과 반영",
-      "url": "https://n.news.naver.com/mnews/article/374/0000523905"
+      "title": "한화시스템 '어닝 서프라이즈' 매출 45%, 영업익 219% 증가",
+      "url": "https://n.news.naver.com/mnews/article/469/0000944825"
     },
     {
-      "title": "총리 주재 토론회서 \"거주용 1주택 종부세·장특공제, 현행 유지\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001514179"
+      "title": "금융위, 금융업계에 단일종목 레버리지 보완책 신속 이행 협조 당부",
+      "url": "https://n.news.naver.com/mnews/article/214/0001514306"
     },
     {
-      "title": "SK하이닉스 ADR 추종 토큰 시총 1000억 육박",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736596"
+      "title": "원·엔 환율 800원대 日여행 환전 언제하는 게 좋을까",
+      "url": "https://n.news.naver.com/mnews/article/018/0006338551"
     },
     {
-      "title": "與 \"단일종목 레버리지, 상품성 낮춰야…ETF 명칭변경 거론도\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795204"
+      "title": "금융위, 5대은행 긴급 소집…잔금대출 해법 논의",
+      "url": "https://n.news.naver.com/mnews/article/421/0009082865"
     },
     {
-      "title": "구자흠 삼성전자 부사장 \"HBM5에 2나노 공정 적용…속도 50% 향상\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014089571"
+      "title": "전복 50%·삼겹살 45% 할인…롯데마트, 30일부터 '통큰데이'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005314998"
     },
     {
-      "title": "“쿠팡·우리은행, 국내 첫 원화 스테이블코인 실시간 정산 검증”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002235613"
+      "title": "[단독] 양도세 실거주 공제 10억대로 제한",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989975"
     },
     {
-      "title": "뉴욕증시 혼조세 마감…中 반도체 추격에 ASML 8% 급락",
-      "url": "https://n.news.naver.com/mnews/article/003/0014091643"
+      "title": "BNK금융, 상반기 순이익 4118억원…전년比 13.5% 감소",
+      "url": "https://n.news.naver.com/mnews/article/079/0004172950"
     },
     {
-      "title": "엔비디아, 네이버 3대 주주로…AI 결속 강화",
-      "url": "https://n.news.naver.com/mnews/article/008/0005391565"
+      "title": "\"집값 더 상승\" 소비자 심리, 5년 전 文정부 이후 최고치",
+      "url": "https://n.news.naver.com/mnews/article/079/0004172611"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6755.75,
+      "value": 6023.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 764.86,
+      "value": 705.85,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24932.08,
-      "change": -43.74,
-      "change_pct": -0.18
+      "value": 24876.91,
+      "change": -55.17,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1469.67,
-      "change": 11.66,
-      "change_pct": 0.8
+      "value": 1456.68,
+      "change": -7.76,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4069.8,
-    "price_krw": 5981263,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4020.3,
+    "price_krw": 5856290,
+    "change": -54.2,
+    "change_pct": -1.33
   },
-  "updated": "2026-07-28 09:13",
+  "updated": "2026-07-29 09:12",
   "error": null
 }
