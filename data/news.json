@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK하이닉스 2분기 영업이익 60.5조 원...전년 대비 557%↑",
-      "url": "https://n.news.naver.com/mnews/article/052/0002385958"
+      "title": "SK하이닉스, 2Q 영업이익 60.5조·매출 79.3조 '사상 최대'(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009084653"
     },
     {
-      "title": "현대차, 서산에 임산부 전용 PBV 투입…AI 호출 서비스 운영",
-      "url": "https://n.news.naver.com/mnews/article/123/0002387345"
+      "title": "대웅제약 나보타, 중동 7개국 진출…\"GCC 공략 본격화\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005796560"
     },
     {
-      "title": "한화시스템 '어닝 서프라이즈' 매출 45%, 영업익 219% 증가",
-      "url": "https://n.news.naver.com/mnews/article/469/0000944825"
+      "title": "삼성물산, 2분기 영업익 1조 달성..전년 대비 37%↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005392850"
     },
     {
-      "title": "금융위, 금융업계에 단일종목 레버리지 보완책 신속 이행 협조 당부",
-      "url": "https://n.news.naver.com/mnews/article/214/0001514306"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000524512"
     },
     {
-      "title": "원·엔 환율 800원대 日여행 환전 언제하는 게 좋을까",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338551"
+      "title": "극한의 준중형 세단으로 진화한 '디 올 뉴 아반떼'",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049321"
     },
     {
-      "title": "금융위, 5대은행 긴급 소집…잔금대출 해법 논의",
-      "url": "https://n.news.naver.com/mnews/article/421/0009082865"
+      "title": "금융당국, 단일종목 레버리지 투자한도 설정…개인별 총투자금 20%로 제한 추진",
+      "url": "https://n.news.naver.com/mnews/article/030/0003452406"
     },
     {
-      "title": "전복 50%·삼겹살 45% 할인…롯데마트, 30일부터 '통큰데이'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314998"
+      "title": "LG전자, 897억 중간배당…1000억 자사주 연내 소각",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088295"
     },
     {
-      "title": "[단독] 양도세 실거주 공제 10억대로 제한",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989975"
+      "title": "구윤철 “살지 않는 집엔 합당한 부담”…실거주 중심 세제 개편",
+      "url": "https://n.news.naver.com/mnews/article/032/0003461069"
     },
     {
-      "title": "BNK금융, 상반기 순이익 4118억원…전년比 13.5% 감소",
-      "url": "https://n.news.naver.com/mnews/article/079/0004172950"
+      "title": "'계란값 담합' 산란계협회 설립 허가 취소...계란 값 급등에 철퇴",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945112"
     },
     {
-      "title": "\"집값 더 상승\" 소비자 심리, 5년 전 文정부 이후 최고치",
-      "url": "https://n.news.naver.com/mnews/article/079/0004172611"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000503584"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6023.66,
+      "value": 5663.24,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 705.85,
+      "value": 662.68,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24876.91,
-      "change": -55.17,
-      "change_pct": -0.22
+      "value": 24442.94,
+      "change": -433.97,
+      "change_pct": -1.74
     },
     "usdkrw": {
-      "value": 1456.68,
-      "change": -7.76,
-      "change_pct": -0.53
+      "value": 1436.48,
+      "change": -16.68,
+      "change_pct": -1.15
     }
   },
   "gold": {
-    "price_usd": 4020.3,
-    "price_krw": 5856290,
-    "change": -54.2,
-    "change_pct": -1.33
+    "price_usd": 4139.1,
+    "price_krw": 5945734,
+    "change": 102.8,
+    "change_pct": 2.55
   },
-  "updated": "2026-07-29 09:12",
+  "updated": "2026-07-30 09:15",
   "error": null
 }
