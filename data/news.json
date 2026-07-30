@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "SK하이닉스, 2Q 영업이익 60.5조·매출 79.3조 '사상 최대'(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009084653"
+      "title": "‘가전 덕분에’ LG전자, 2분기 역대 최대 실적…“엔비디아 협력 구체화”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541330"
     },
     {
-      "title": "대웅제약 나보타, 중동 7개국 진출…\"GCC 공략 본격화\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005796560"
+      "title": "케이뱅크, 상반기 당기순익 601억원⋯전년 동기 대비 28.7%↓",
+      "url": "https://n.news.naver.com/mnews/article/031/0001046115"
     },
     {
-      "title": "삼성물산, 2분기 영업익 1조 달성..전년 대비 37%↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005392850"
+      "title": "삼성전자 2분기 반도체 영업이익 89조…완제품은 첫 적자",
+      "url": "https://n.news.naver.com/mnews/article/028/0002816360"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000524512"
+      "title": "국민성장펀드, LGD에 1.3조 지원…OLED 초격차 투자",
+      "url": "https://n.news.naver.com/mnews/article/018/0006340178"
     },
     {
-      "title": "극한의 준중형 세단으로 진화한 '디 올 뉴 아반떼'",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049321"
+      "title": "금투업계, 리밸런싱 장중 분산 등 단일 레버리지 안정 위한 자율 대응 나서",
+      "url": "https://n.news.naver.com/mnews/article/277/0005796533"
     },
     {
-      "title": "금융당국, 단일종목 레버리지 투자한도 설정…개인별 총투자금 20%로 제한 추진",
-      "url": "https://n.news.naver.com/mnews/article/030/0003452406"
+      "title": "연준, 금리 ‘매파적 동결’… 한은, 추가 인상 가능성 고개",
+      "url": "https://n.news.naver.com/mnews/article/005/0001864140"
     },
     {
-      "title": "LG전자, 897억 중간배당…1000억 자사주 연내 소각",
-      "url": "https://n.news.naver.com/mnews/article/293/0000088295"
+      "title": "꿈의 신약 대신 숫자로…제약·바이오 '깜깜이 공시' 막는다",
+      "url": "https://n.news.naver.com/mnews/article/422/0000890667"
     },
     {
-      "title": "구윤철 “살지 않는 집엔 합당한 부담”…실거주 중심 세제 개편",
-      "url": "https://n.news.naver.com/mnews/article/032/0003461069"
+      "title": "GS·현대엔지니어링 오르고… 대우·DL이앤씨 떨어지고",
+      "url": "https://n.news.naver.com/mnews/article/009/0005714609"
     },
     {
-      "title": "'계란값 담합' 산란계협회 설립 허가 취소...계란 값 급등에 철퇴",
-      "url": "https://n.news.naver.com/mnews/article/469/0000945112"
+      "title": "AI 투자 성과 갈랐다…MS '깜짝 실적'·메타 '수익성 실망'",
+      "url": "https://n.news.naver.com/mnews/article/119/0003116315"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000503584"
+      "title": "‘ETF 아버지’의 일갈…한투운용 대표 “레버리지 자연사시켜야”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002677540"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24442.94,
-      "change": -433.97,
-      "change_pct": -1.74
+      "value": 25122.18,
+      "change": 679.24,
+      "change_pct": 2.78
     },
     "usdkrw": {
-      "value": 1436.48,
-      "change": -16.68,
-      "change_pct": -1.15
+      "value": 1421.88,
+      "change": -31.28,
+      "change_pct": -2.15
     }
   },
   "gold": {
-    "price_usd": 4139.1,
-    "price_krw": 5945734,
-    "change": 102.8,
-    "change_pct": 2.55
+    "price_usd": 4162.8,
+    "price_krw": 5919001,
+    "change": 128.1,
+    "change_pct": 3.17
   },
-  "updated": "2026-07-30 09:15",
+  "updated": "2026-07-31 07:07",
   "error": null
 }
