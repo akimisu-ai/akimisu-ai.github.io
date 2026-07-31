@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘가전 덕분에’ LG전자, 2분기 역대 최대 실적…“엔비디아 협력 구체화”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003541330"
+      "title": "LG AI연구원, 국내 최대 7500억 파라미터 ‘K-엑사원 2.0’ 공개",
+      "url": "https://n.news.naver.com/mnews/article/081/0003666441"
     },
     {
-      "title": "케이뱅크, 상반기 당기순익 601억원⋯전년 동기 대비 28.7%↓",
-      "url": "https://n.news.naver.com/mnews/article/031/0001046115"
+      "title": "JP모건 \"韓증시, 매력적인 매수 국면 진입\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001260763"
     },
     {
-      "title": "삼성전자 2분기 반도체 영업이익 89조…완제품은 첫 적자",
-      "url": "https://n.news.naver.com/mnews/article/028/0002816360"
+      "title": "한화오션, 방사청과 KDDX 본계약 체결… 8380억원 규모",
+      "url": "https://n.news.naver.com/mnews/article/366/0001183407"
     },
     {
-      "title": "국민성장펀드, LGD에 1.3조 지원…OLED 초격차 투자",
-      "url": "https://n.news.naver.com/mnews/article/018/0006340178"
+      "title": "두산, 2.3조원에 '반도체 웨이퍼 톱3' 실트론 인수",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316137"
     },
     {
-      "title": "금투업계, 리밸런싱 장중 분산 등 단일 레버리지 안정 위한 자율 대응 나서",
-      "url": "https://n.news.naver.com/mnews/article/277/0005796533"
+      "title": "'긴축 기조 유지' 일본은행 \"추가 금리인상, '중동·AI·환율'로 판단\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005393993"
     },
     {
-      "title": "연준, 금리 ‘매파적 동결’… 한은, 추가 인상 가능성 고개",
-      "url": "https://n.news.naver.com/mnews/article/005/0001864140"
+      "title": "‘297만명 정보유출’ 롯데카드에 1.5개월 업무정지·과징금 50억원",
+      "url": "https://n.news.naver.com/mnews/article/005/0001864274"
     },
     {
-      "title": "꿈의 신약 대신 숫자로…제약·바이오 '깜깜이 공시' 막는다",
-      "url": "https://n.news.naver.com/mnews/article/422/0000890667"
+      "title": "삼성전자, 제주서 가정용 'EHS 히트펌프 보일러' 첫 보급…친환경 난방 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797113"
     },
     {
-      "title": "GS·현대엔지니어링 오르고… 대우·DL이앤씨 떨어지고",
-      "url": "https://n.news.naver.com/mnews/article/009/0005714609"
+      "title": "“적자 나더라도 임금 조정 안돼”… 노조 반발에 SK하이닉스 임단협 평행선",
+      "url": "https://n.news.naver.com/mnews/article/022/0004147433"
     },
     {
-      "title": "AI 투자 성과 갈랐다…MS '깜짝 실적'·메타 '수익성 실망'",
-      "url": "https://n.news.naver.com/mnews/article/119/0003116315"
+      "title": "급락장 속 48억 자사주 매입…최태원 “SK하이닉스 가치 믿는다”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004647082"
     },
     {
-      "title": "‘ETF 아버지’의 일갈…한투운용 대표 “레버리지 자연사시켜야”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002677540"
+      "title": "현대건설, 2분기 영업이익 2618억·전년比 20.7%↑…수주잔고 100조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/020/0003738036"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5663.24,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 662.68,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25122.18,
-      "change": 679.24,
-      "change_pct": 2.78
+      "value": 25373.85,
+      "change": 251.67,
+      "change_pct": 1.0
     },
     "usdkrw": {
-      "value": 1421.88,
-      "change": -31.28,
-      "change_pct": -2.15
+      "value": 1442.07,
+      "change": -0.21,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4162.8,
-    "price_krw": 5919001,
-    "change": 128.1,
-    "change_pct": 3.17
+    "price_usd": 4098.6,
+    "price_krw": 5910468,
+    "change": -1.5,
+    "change_pct": -0.04
   },
-  "updated": "2026-07-31 07:07",
+  "updated": "2026-08-01 07:07",
   "error": null
 }
