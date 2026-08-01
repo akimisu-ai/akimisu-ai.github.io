@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "LG AI연구원, 국내 최대 7500억 파라미터 ‘K-엑사원 2.0’ 공개",
-      "url": "https://n.news.naver.com/mnews/article/081/0003666441"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012229180"
     },
     {
-      "title": "JP모건 \"韓증시, 매력적인 매수 국면 진입\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001260763"
+      "title": "농식품부, 남부지역 극심한 가뭄에 21억원 긴급 추가 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228215"
     },
     {
-      "title": "한화오션, 방사청과 KDDX 본계약 체결… 8380억원 규모",
-      "url": "https://n.news.naver.com/mnews/article/366/0001183407"
+      "title": "7월 수출 988억 달러…반도체가 전체 수출 40% 이끌었다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316273"
     },
     {
-      "title": "두산, 2.3조원에 '반도체 웨이퍼 톱3' 실트론 인수",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316137"
+      "title": "환경 관련 '고의 회계부정' 의혹 영풍, 당국과 법정다툼…증선위 “정화명령 무시하고 오염 방치”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003453261"
     },
     {
-      "title": "'긴축 기조 유지' 일본은행 \"추가 금리인상, '중동·AI·환율'로 판단\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005393993"
+      "title": "SSG닷컴, 여름 클리어런스 행사…패션·뷰티·가전 최대 60% 할인",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797601"
     },
     {
-      "title": "‘297만명 정보유출’ 롯데카드에 1.5개월 업무정지·과징금 50억원",
-      "url": "https://n.news.naver.com/mnews/article/005/0001864274"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000504037"
     },
     {
-      "title": "삼성전자, 제주서 가정용 'EHS 히트펌프 보일러' 첫 보급…친환경 난방 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797113"
+      "title": "주유소 기름값 11주 연속 하락...'휘발유 1800원대' 유지",
+      "url": "https://n.news.naver.com/mnews/article/057/0001961490"
     },
     {
-      "title": "“적자 나더라도 임금 조정 안돼”… 노조 반발에 SK하이닉스 임단협 평행선",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147433"
+      "title": "'수년 준비' 춘천시립미술관 중앙투자심사 공식 의뢰…마지막 관문 돌입",
+      "url": "https://n.news.naver.com/mnews/article/421/0009091574"
     },
     {
-      "title": "급락장 속 48억 자사주 매입…최태원 “SK하이닉스 가치 믿는다”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004647082"
+      "title": "뉴욕증시, 아마존 실적 훈풍에 상승 마감…하이닉스ADR 3.5%↓",
+      "url": "https://n.news.naver.com/mnews/article/215/0001260781"
     },
     {
-      "title": "현대건설, 2분기 영업이익 2618억·전년比 20.7%↑…수주잔고 100조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738036"
+      "title": "\"개인투자자 학살\"…국회 앞 근조화환에 외신도 '주목'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006341790"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6595.45,
+      "change": 1001.89,
+      "change_pct": 17.91
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 719.76,
+      "change": 74.98,
+      "change_pct": 11.63
     },
     "nasdaq": {
       "value": 25373.85,
@@ -58,17 +58,17 @@
       "change_pct": 1.0
     },
     "usdkrw": {
-      "value": 1442.07,
-      "change": -0.21,
-      "change_pct": -0.01
+      "value": 1436.6,
+      "change": 16.0,
+      "change_pct": 1.13
     }
   },
   "gold": {
-    "price_usd": 4098.6,
-    "price_krw": 5910468,
-    "change": -1.5,
-    "change_pct": -0.04
+    "price_usd": 4049.1,
+    "price_krw": 5816937,
+    "change": -51.0,
+    "change_pct": -1.24
   },
-  "updated": "2026-08-01 07:07",
+  "updated": "2026-08-02 06:57",
   "error": null
 }
