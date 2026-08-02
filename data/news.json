@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229180"
+      "title": "'반도체 원톱' 넘어 선박·뷰티까지…수출, 1조달러 보인다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316430"
     },
     {
-      "title": "농식품부, 남부지역 극심한 가뭄에 21억원 긴급 추가 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228215"
+      "title": "“韓증시 호황 극적 붕괴” 어제 이코노미스트 기사",
+      "url": "https://n.news.naver.com/mnews/article/021/0002808611"
     },
     {
-      "title": "7월 수출 988억 달러…반도체가 전체 수출 40% 이끌었다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316273"
+      "title": "9월부터 KTX·SRT ‘통합’…KTX 요금, 3년간 SRT 수준으로 10% 인하",
+      "url": "https://n.news.naver.com/mnews/article/021/0002808551"
     },
     {
-      "title": "환경 관련 '고의 회계부정' 의혹 영풍, 당국과 법정다툼…증선위 “정화명령 무시하고 오염 방치”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003453261"
+      "title": "LG전자, 제주 히트펌프 보급 1위 사업자 선정",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316453"
     },
     {
-      "title": "SSG닷컴, 여름 클리어런스 행사…패션·뷰티·가전 최대 60% 할인",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797601"
+      "title": "삼성화재, 국내 민간기업 최초로 S&P 신용등급 AA 획득",
+      "url": "https://n.news.naver.com/mnews/article/374/0000525022"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000504037"
+      "title": "주담대 11개월만에 최대폭 증가… ‘마통’은 6일간 1.7조↑",
+      "url": "https://n.news.naver.com/mnews/article/020/0003738263"
     },
     {
-      "title": "주유소 기름값 11주 연속 하락...'휘발유 1800원대' 유지",
-      "url": "https://n.news.naver.com/mnews/article/057/0001961490"
+      "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막",
+      "url": "https://n.news.naver.com/mnews/article/422/0000891434"
     },
     {
-      "title": "'수년 준비' 춘천시립미술관 중앙투자심사 공식 의뢰…마지막 관문 돌입",
-      "url": "https://n.news.naver.com/mnews/article/421/0009091574"
+      "title": "레버리지 ETF의 강제 매매…수급은 개인과 기관 혼선",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394536"
     },
     {
-      "title": "뉴욕증시, 아마존 실적 훈풍에 상승 마감…하이닉스ADR 3.5%↓",
-      "url": "https://n.news.naver.com/mnews/article/215/0001260781"
+      "title": "중동지역 재위기시 비축유 스와프 즉시 재개…산업부, 자원 수급 긴급점검",
+      "url": "https://n.news.naver.com/mnews/article/016/0002678396"
     },
     {
-      "title": "\"개인투자자 학살\"…국회 앞 근조화환에 외신도 '주목'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006341790"
+      "title": "원화, 한 달 새 8.8% 절상…금융위기 이후 최대폭",
+      "url": "https://n.news.naver.com/mnews/article/011/0004647753"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4049.1,
-    "price_krw": 5816937,
-    "change": -51.0,
-    "change_pct": -1.24
+    "price_usd": 4107.0,
+    "price_krw": 5900116,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-02 06:57",
+  "updated": "2026-08-03 06:57",
   "error": null
 }
