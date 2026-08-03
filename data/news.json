@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'반도체 원톱' 넘어 선박·뷰티까지…수출, 1조달러 보인다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316430"
+      "title": "테크·라이프 전문성 띄운 한화M&S 출범…김동선, 미래전략 이끈다",
+      "url": "https://n.news.naver.com/mnews/article/586/0000135106"
     },
     {
-      "title": "“韓증시 호황 극적 붕괴” 어제 이코노미스트 기사",
-      "url": "https://n.news.naver.com/mnews/article/021/0002808611"
+      "title": "전기차·하이브리드 날개 단 기아…7월 판매 13.4%↑",
+      "url": "https://n.news.naver.com/mnews/article/018/0006343163"
     },
     {
-      "title": "9월부터 KTX·SRT ‘통합’…KTX 요금, 3년간 SRT 수준으로 10% 인하",
-      "url": "https://n.news.naver.com/mnews/article/021/0002808551"
+      "title": "모건스탠리 “레버리지 36만 계좌 청산... 코스피 9000 갈 것”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991054"
     },
     {
-      "title": "LG전자, 제주 히트펌프 보급 1위 사업자 선정",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316453"
+      "title": "구윤철 “40억 이상 주택 ‘과세 정상화한 것’…공급대책도 곧 발표”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716155"
     },
     {
-      "title": "삼성화재, 국내 민간기업 최초로 S&P 신용등급 AA 획득",
-      "url": "https://n.news.naver.com/mnews/article/374/0000525022"
+      "title": "7월 D램·낸드 가격 역대 최고…\"3분기 PC용 D램값 최대 20%↑\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016230843"
     },
     {
-      "title": "주담대 11개월만에 최대폭 증가… ‘마통’은 6일간 1.7조↑",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738263"
+      "title": "탈세제보 포상금 한도 없어진다 [2026 세제개편안]",
+      "url": "https://n.news.naver.com/mnews/article/123/0002387740"
     },
     {
-      "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막",
-      "url": "https://n.news.naver.com/mnews/article/422/0000891434"
+      "title": "소득·법인세 줄고 종부세 증가…5년간 세수효과 3.4조 원",
+      "url": "https://n.news.naver.com/mnews/article/055/0001377685"
     },
     {
-      "title": "레버리지 ETF의 강제 매매…수급은 개인과 기관 혼선",
-      "url": "https://n.news.naver.com/mnews/article/008/0005394536"
+      "title": "AWS가 증명한 AI 투자…아마존, 시총 3조 달러 클럽 입성",
+      "url": "https://n.news.naver.com/mnews/article/018/0006343545"
     },
     {
-      "title": "중동지역 재위기시 비축유 스와프 즉시 재개…산업부, 자원 수급 긴급점검",
-      "url": "https://n.news.naver.com/mnews/article/016/0002678396"
+      "title": "한국은행, 13년 만에 金 산다…국내시장 활용키로",
+      "url": "https://n.news.naver.com/mnews/article/277/0005798276"
     },
     {
-      "title": "원화, 한 달 새 8.8% 절상…금융위기 이후 최대폭",
-      "url": "https://n.news.naver.com/mnews/article/011/0004647753"
+      "title": "총소득 5200만원이하 맞벌이도 근로장려금…월세세액공제 1200만원[2026세법]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002678942"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6595.45,
-      "change": 1001.89,
-      "change_pct": 17.91
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 719.76,
-      "change": 74.98,
-      "change_pct": 11.63
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25373.85,
-      "change": 251.67,
-      "change_pct": 1.0
+      "value": 25913.9,
+      "change": 540.05,
+      "change_pct": 2.13
     },
     "usdkrw": {
-      "value": 1436.6,
-      "change": 16.0,
-      "change_pct": 1.13
+      "value": 1428.67,
+      "change": 8.07,
+      "change_pct": 0.57
     }
   },
   "gold": {
-    "price_usd": 4107.0,
-    "price_krw": 5900116,
+    "price_usd": 4109.5,
+    "price_krw": 5871119,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-03 06:57",
+  "updated": "2026-08-04 07:10",
   "error": null
 }
