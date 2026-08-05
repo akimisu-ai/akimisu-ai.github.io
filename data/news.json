@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"AI 덕분\" '美경기 가늠자' 훈풍…29% 날아올랐다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001261160"
+      "title": "쿠팡, 국세청 3000억원 과세 예고에 불복 절차 착수",
+      "url": "https://n.news.naver.com/mnews/article/586/0000135233"
     },
     {
-      "title": "[속보] AMD 분기 매출 115억4천만 달러...전망치 뛰어넘어",
-      "url": "https://n.news.naver.com/mnews/article/052/0002388976"
+      "title": "‘2천억 확보’ 홈플러스, 13일 영업 재개",
+      "url": "https://n.news.naver.com/mnews/article/014/0005557798"
     },
     {
-      "title": "전기료 4개로 차등화…원전도시 부산 수혜 미미",
-      "url": "https://n.news.naver.com/mnews/article/658/0000151408"
+      "title": "5대 은행 ‘사실상 회수불능’ 대출 1.2조…7년 만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/016/0002679659"
     },
     {
-      "title": "코스닥 '나홀로 랠리'…3거래일 연속 매수 사이드카",
-      "url": "https://n.news.naver.com/mnews/article/079/0004175260"
+      "title": "55세 이상 고령 취업자 1천만명 첫 돌파…\"73.6세까지 일하고파\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016234784"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002388693"
+      "title": "송전탑 신설 최대 40% 줄이고 지중화 우선…‘전력망 갈등’ 최소화",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648862"
     },
     {
-      "title": "머스크 \"전 세계 인터넷 대부분 제공 가능성…엔비디아와 협력 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005317425"
+      "title": "고려아연, 2분기 영업이익 5870억원…전년비 126.8%↑",
+      "url": "https://n.news.naver.com/mnews/article/119/0003118582"
     },
     {
-      "title": "중기부, 국내 모든 기업 정보 데이터베이스화한다[하반기 업무보고]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005798845"
+      "title": "소상공인들 최저임금 취소소송 제기... \"현장 절규 외면한 탁상행정\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000946411"
     },
     {
-      "title": "‘나이롱 환자’ 잡는다…내달 10일부터 교통사고 경상 8주 넘으면 전문의 심사",
-      "url": "https://n.news.naver.com/mnews/article/022/0004148339"
+      "title": "돌아온 외국인…‘하루 더’ 돌아다니게 하라",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542577"
     },
     {
-      "title": "롯데하이마트, 2분기 매출 플러스 전환…하반기 턴어라운드 가시화",
-      "url": "https://n.news.naver.com/mnews/article/016/0002679451"
+      "title": "김범석 쿠팡 의장 \"고객 대부분 돌아와… 내년 수익성 회복\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005557797"
     },
     {
-      "title": "상반기 車 신규등록 85만대…수입차 10대 중 4대 ‘메이드 인 차이나’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002679118"
+      "title": "HD현대 용접 기술, 미 조선소 첫 활용[Biz & Now]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542595"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6257.45,
+      "value": 6358.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 737.35,
+      "value": 780.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26584.99,
-      "change": 671.09,
-      "change_pct": 2.59
+      "value": 26363.44,
+      "change": -221.55,
+      "change_pct": -0.83
     },
     "usdkrw": {
-      "value": 1429.76,
-      "change": -5.94,
-      "change_pct": -0.41
+      "value": 1422.08,
+      "change": -6.42,
+      "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4134.0,
-    "price_krw": 5910627,
-    "change": 100.3,
-    "change_pct": 2.49
+    "price_usd": 4310.1,
+    "price_krw": 6129307,
+    "change": 214.7,
+    "change_pct": 5.24
   },
-  "updated": "2026-08-05 07:13",
+  "updated": "2026-08-06 07:13",
   "error": null
 }
