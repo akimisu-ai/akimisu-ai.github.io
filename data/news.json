@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "쿠팡, 국세청 3000억원 과세 예고에 불복 절차 착수",
-      "url": "https://n.news.naver.com/mnews/article/586/0000135233"
+      "title": "日닛케이 \"한국도 환율에 개입했나\"…원화 가치도 동시에 치솟아",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799878"
     },
     {
-      "title": "‘2천억 확보’ 홈플러스, 13일 영업 재개",
-      "url": "https://n.news.naver.com/mnews/article/014/0005557798"
+      "title": "홈플러스, 오늘부터 영업재개…운명의 한 달 시작됐다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800074"
     },
     {
-      "title": "5대 은행 ‘사실상 회수불능’ 대출 1.2조…7년 만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/016/0002679659"
+      "title": "\"침수·사고 이력 숨기면 영업정지 \"…중고차 소비자 보호대책 추진",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799781"
     },
     {
-      "title": "55세 이상 고령 취업자 1천만명 첫 돌파…\"73.6세까지 일하고파\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016234784"
+      "title": "\"혼자는 벅찬 해외시장\"…정부, 현대百과 K패션 판로 뚫는다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800078"
     },
     {
-      "title": "송전탑 신설 최대 40% 줄이고 지중화 우선…‘전력망 갈등’ 최소화",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648862"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012232800"
     },
     {
-      "title": "고려아연, 2분기 영업이익 5870억원…전년비 126.8%↑",
-      "url": "https://n.news.naver.com/mnews/article/119/0003118582"
+      "title": "KT&G, 상반기 매출 또 ‘역대 최대’…연간 실적 전망 상향",
+      "url": "https://n.news.naver.com/mnews/article/016/0002680555"
     },
     {
-      "title": "소상공인들 최저임금 취소소송 제기... \"현장 절규 외면한 탁상행정\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000946411"
+      "title": "국고채 담합, 11.4조 과징금 폭탄 맞는다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006345802"
     },
     {
-      "title": "돌아온 외국인…‘하루 더’ 돌아다니게 하라",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542577"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000893226"
     },
     {
-      "title": "김범석 쿠팡 의장 \"고객 대부분 돌아와… 내년 수익성 회복\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005557797"
+      "title": "골드만삭스 \"코스피 급락은 상승장 중 조정…1만2000 전망 유지\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009101125"
     },
     {
-      "title": "HD현대 용접 기술, 미 조선소 첫 활용[Biz & Now]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542595"
+      "title": "BGF리테일 2분기 영업이익 849억 원…전년 대비 22% 늘어",
+      "url": "https://n.news.naver.com/mnews/article/422/0000893074"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6358.95,
+      "value": 6271.4,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 780.72,
+      "value": 801.54,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26363.44,
-      "change": -221.55,
-      "change_pct": -0.83
+      "value": 26348.35,
+      "change": -15.09,
+      "change_pct": -0.06
     },
     "usdkrw": {
-      "value": 1422.08,
-      "change": -6.42,
-      "change_pct": -0.45
+      "value": 1420.98,
+      "change": -0.18,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4310.1,
-    "price_krw": 6129307,
-    "change": 214.7,
-    "change_pct": 5.24
+    "price_usd": 4292.2,
+    "price_krw": 6099130,
+    "change": 46.4,
+    "change_pct": 1.09
   },
-  "updated": "2026-08-06 07:13",
+  "updated": "2026-08-07 10:00",
   "error": null
 }
