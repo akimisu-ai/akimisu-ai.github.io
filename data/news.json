@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK바이오사이언스, 獨 IDT 효과로 2분기 적자 축소",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049682"
+      "title": "SK하이닉스, 日 키옥시아 사실상 최대 주주 됐다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006349414"
+    },
+    {
+      "title": "외국인 국내 카드결제, 3년 반에 10배로…부산 1년새 60%↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016243501"
+    },
+    {
+      "title": "늘어나는 AI 컴퓨팅 수요에…인텔, 150억달러 유증 '승부수'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005319383"
+    },
+    {
+      "title": "MZ·외국인 몰려들더니 '역대 최대실적'…신세계 영업익 121% 폭증",
+      "url": "https://n.news.naver.com/mnews/article/015/0005319560"
+    },
+    {
+      "title": "“그린벨트 해제해서라도 공급”…‘빵장관’ 소환한 김윤덕",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543724"
+    },
+    {
+      "title": "'생산차질 4.2만대' 현대차, 또 멈춘다…\"휴가 끝\" 노조, 더 센 파업 재개",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398475"
     },
     {
       "title": "뉴욕증시, 미·이란 협상 의구심에 약보합 마감…다우 0.1%↓(종합)",
       "url": "https://n.news.naver.com/mnews/article/001/0016243498"
     },
     {
-      "title": "3대 국책은행 노조, 오늘 여의도서 공동집회…\"강제이전 검토 즉각 중단\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000526662"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000526886"
     },
     {
-      "title": "메디톡스, 2분기 매출 11% 증가…‘뉴비쥬’ 新성장 동력 부상",
-      "url": "https://n.news.naver.com/mnews/article/018/0006348965"
+      "title": "원룸 계약 시 ‘깜깜이 관리비’ 차단…공인중개사 확인 사항 늘어난다",
+      "url": "https://n.news.naver.com/mnews/article/666/0000118736"
     },
     {
-      "title": "“온라인 배송도 시동 걸었다”…홈플러스, 회생 속도 붙을까",
-      "url": "https://n.news.naver.com/mnews/article/016/0002681937"
-    },
-    {
-      "title": "수도권 15억~20억 아파트, 지난달 과반은 ‘역대 최고가’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001865898"
-    },
-    {
-      "title": "삼성전자-NTT도코모 AI무선망 품질 최적화",
-      "url": "https://n.news.naver.com/mnews/article/009/0005719104"
-    },
-    {
-      "title": "당국 레버리지 규제 통했나…12조원 육박하던 거래 8000억대로",
-      "url": "https://n.news.naver.com/mnews/article/015/0005319141"
-    },
-    {
-      "title": "원/달러 환율, 2.3원 오른 1418.4원",
-      "url": "https://n.news.naver.com/mnews/article/008/0005397894"
-    },
-    {
-      "title": "인텔 150억달러 유상증자에 美 반도체주 '휘청' 2.94% 급락",
-      "url": "https://n.news.naver.com/mnews/article/421/0009106709"
+      "title": "엔비디아, 순환 금융 대신 월가 금융사들과 700조원 모은다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005319570"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6258.77,
+      "value": 6299.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 798.81,
+      "value": 854.47,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26605.36,
-      "change": -85.26,
-      "change_pct": -0.32
+      "value": 26445.45,
+      "change": -159.91,
+      "change_pct": -0.6
     },
     "usdkrw": {
-      "value": 1417.69,
-      "change": -4.61,
-      "change_pct": -0.32
+      "value": 1412.17,
+      "change": 5.17,
+      "change_pct": 0.37
     }
   },
   "gold": {
-    "price_usd": 4448.6,
-    "price_krw": 6306735,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4427.8,
+    "price_krw": 6252806,
+    "change": 66.0,
+    "change_pct": 1.51
   },
-  "updated": "2026-08-11 06:42",
+  "updated": "2026-08-12 06:49",
   "error": null
 }
