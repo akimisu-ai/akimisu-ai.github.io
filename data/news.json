@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "홈플러스, 67개 점포에서 영업 재개…정부 \"근로자 충분한 지원\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400241"
+      "title": "빌 게이츠 ‘테라파워’ 손잡은 SK…“AI 전력난, SMR로 뚫는다”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003670679"
     },
     {
-      "title": "7월 금융권 가계대출 6조 2천억 원 증가‥이억원 \"실수요 자금 안정 공급\" 지시",
-      "url": "https://n.news.naver.com/mnews/article/214/0001517899"
+      "title": "충청권 기름값 내림세…대전 휘발유 ℓ당 1843원",
+      "url": "https://n.news.naver.com/mnews/article/656/0000184114"
     },
     {
-      "title": "‘국민주’ SK하이닉스 소액주주 346만명…1년 만에 5배 늘어",
-      "url": "https://n.news.naver.com/mnews/article/056/0012238053"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001518005"
     },
     {
-      "title": "美성장주 발굴 나선 국민연금…스페이스X·아이온큐 '찜'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721354"
+      "title": "삼전닉스 주주환원, 연간 200조 넘어 300조 가능할까",
+      "url": "https://n.news.naver.com/mnews/article/001/0016253478"
     },
     {
-      "title": "연쇄 빅딜에 메가 투자까지… 김동관의 거침 없는 ‘뉴 한화’",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186269"
+      "title": "[속보] ‘한미관세협상’ 여한구 통상교섭본부장 전격 경질",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811609"
     },
     {
-      "title": "삼성전자 상반기만 R&D 27조·시설투자 28조…역대 최대 기록",
-      "url": "https://n.news.naver.com/mnews/article/056/0012238059"
+      "title": "주가 급등에 455억 수령…상반기 재계 보수 '1위'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001262456"
     },
     {
-      "title": "빌게이츠 이끄는 테라파워 SMR에 한국 기업 참여 확대",
-      "url": "https://n.news.naver.com/mnews/article/056/0012238013"
+      "title": "SC제일은행 상반기 순익 4244억 ‘역대 최대’...전년比 103%↑",
+      "url": "https://n.news.naver.com/mnews/article/138/0002237917"
     },
     {
-      "title": "해외에서 잘 나가는 불닭 덕분에...삼양식품, 분기 해외매출 첫 6천억원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721274"
+      "title": "백종원 회사 무슨 일?...하루 만에 주가 13% 뛰었다",
+      "url": "https://n.news.naver.com/mnews/article/243/0000101730"
     },
     {
-      "title": "LG·엔비디아, 휴머노이드 내년 1분기 공개…80MW AI팩토리도 구축",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352147"
+      "title": "LS, 상반기에만 영업익 1조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321105"
     },
     {
-      "title": "SC제일은행, 상반기 순익 4244억원… 역대 최대치",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186459"
+      "title": "버핏 물러난 버크셔 2분기 투자 알파벳 껑충…3위권 진입",
+      "url": "https://n.news.naver.com/mnews/article/001/0016253176"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6977.94,
+      "change": 164.6,
+      "change_pct": 2.42
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 864.65,
+      "change": 3.28,
+      "change_pct": 0.38
     },
     "nasdaq": {
       "value": 26729.16,
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": 0.02,
-      "change_pct": 0.0
+      "value": 1412.0,
+      "change": -4.85,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4432.0,
-    "price_krw": 6277839,
-    "change": 68.4,
-    "change_pct": 1.57
+    "price_usd": 4380.4,
+    "price_krw": 6185124,
+    "change": 16.8,
+    "change_pct": 0.39
   },
-  "updated": "2026-08-15 06:26",
+  "updated": "2026-08-16 06:22",
   "error": null
 }
