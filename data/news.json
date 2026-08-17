@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "포스코인터, 멕시코·미국에도 독립운동 사적지 ‘컬러 강판’ 안내",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867082"
+      "title": "누나 이미경·딸 이경후와 LA KCON 관람한 이재현···CJ “미국은 절체절명의 지역”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003464585"
     },
     {
-      "title": "美 “서둘러라” 압박에 통상 수장 공백까지…김정관 3주 만에 긴급 방미",
-      "url": "https://n.news.naver.com/mnews/article/025/0003544693"
+      "title": "뉴욕증시 3대지수 하락···30년물 국채금리 19년래 최고[월가월부]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722068"
     },
     {
-      "title": "동전주·시총미달 줄줄이 관리종목행…'100개 상폐' 현실화하나",
-      "url": "https://n.news.naver.com/mnews/article/001/0016253479"
+      "title": "금감원 노조 \"감독기구 지방이전 즉각 중단해야…금리 상승 등 피해 확산\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000527819"
     },
     {
-      "title": "평범한 만두에 '이것' 넣었을 뿐인데…\"맛있어요\" 인기 폭발 [현장]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321299"
+      "title": "삼전닉스 레버리지에 피눈물났는데…거래소·증권사는 수수료 1170억 벌었다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721869"
     },
     {
-      "title": "용산구 \"용산공원 주택 공급 검토에 강력 반대\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803562"
+      "title": "총량 완화에 숨 트인 카뱅·토뱅... 신규대출 공급 타이밍 앞당긴다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562504"
     },
     {
-      "title": "잔금-이주비 등 실수요자, 이번 주부터 주담대 숨통",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741223"
+      "title": "조각투자도 '증시 데뷔'…11월 KRX 신종증권시장 열린다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562375"
     },
     {
-      "title": "“여보, 삼전닉스 아직 팔지 않았지?”…300조 역대급 주주환원에 빚투도 늘고[투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684441"
+      "title": "삼전닉스 6개월 새 현금 곳간 117조↑…설비투자 대비 압도적 실탄",
+      "url": "https://n.news.naver.com/mnews/article/055/0001381144"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002393821"
+      "title": "김윤덕·오세훈 오는 20일 회동…용산공원 주택공급 '분수령'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016255234"
     },
     {
-      "title": "'가계부채 2000조원' 시대 진입",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562133"
+      "title": "카드업계 홈플러스 대금 지급 재개… 일부는 가압류",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186608"
     },
     {
-      "title": "\"수익률 좋은 게 죄?\" 액티브 ETF 5종 상폐…상관계수 '0.7 족쇄'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009115994"
+      "title": "LH, 신규 아파트 승강기 에어컨 의무화…침수 감지 기능도 도입",
+      "url": "https://n.news.naver.com/mnews/article/001/0016254285"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.38
     },
     "nasdaq": {
-      "value": 26729.16,
-      "change": -73.87,
-      "change_pct": -0.28
+      "value": 26644.91,
+      "change": -84.25,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": -0.37,
-      "change_pct": -0.03
+      "value": 1415.23,
+      "change": -1.62,
+      "change_pct": -0.11
     }
   },
   "gold": {
-    "price_usd": 4437.3,
-    "price_krw": 6285346,
+    "price_usd": 4473.1,
+    "price_krw": 6330465,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-17 06:21",
+  "updated": "2026-08-18 06:27",
   "error": null
 }
