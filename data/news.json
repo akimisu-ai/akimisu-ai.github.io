@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "누나 이미경·딸 이경후와 LA KCON 관람한 이재현···CJ “미국은 절체절명의 지역”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003464585"
+      "title": "\"수익률 좋은데 왜?\" 줄줄이 상폐되는 ETF",
+      "url": "https://n.news.naver.com/mnews/article/018/0006353708"
     },
     {
-      "title": "뉴욕증시 3대지수 하락···30년물 국채금리 19년래 최고[월가월부]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005722068"
+      "title": "김성환 “신규 원전, 답 정해놓지 않고 공론화로 결정…곧 절차 발표”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003545120"
     },
     {
-      "title": "금감원 노조 \"감독기구 지방이전 즉각 중단해야…금리 상승 등 피해 확산\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000527819"
+      "title": "EV5, 독일 전문가 평가서 모델 Y 제쳤지만…판매량은 역부족",
+      "url": "https://n.news.naver.com/mnews/article/028/0002819012"
     },
     {
-      "title": "삼전닉스 레버리지에 피눈물났는데…거래소·증권사는 수수료 1170억 벌었다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721869"
+      "title": "김윤덕 국토장관 “관행 탈피해 공급 속도전”… 세제·금융·규제 완화",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186938"
     },
     {
-      "title": "총량 완화에 숨 트인 카뱅·토뱅... 신규대출 공급 타이밍 앞당긴다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562504"
+      "title": "急방미 김정관, 러트닉 만나 대미투자 조율… 美, ‘15% 파기’ 으름장",
+      "url": "https://n.news.naver.com/mnews/article/021/0002812011"
     },
     {
-      "title": "조각투자도 '증시 데뷔'…11월 KRX 신종증권시장 열린다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562375"
+      "title": "“인크레더블” 외치며 엄지척…매디슨 황, LG와 2시간30분 ‘로봇 회동’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006353408"
     },
     {
-      "title": "삼전닉스 6개월 새 현금 곳간 117조↑…설비투자 대비 압도적 실탄",
-      "url": "https://n.news.naver.com/mnews/article/055/0001381144"
+      "title": "코픽스 금리 0.13%p↑… 주담대 변동금리 6% 육박",
+      "url": "https://n.news.naver.com/mnews/article/469/0000948621"
     },
     {
-      "title": "김윤덕·오세훈 오는 20일 회동…용산공원 주택공급 '분수령'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016255234"
+      "title": "뉴욕증시 3대 지수 동반 하락 마감… 美·이란 임시 휴전 종료 여파",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186704"
     },
     {
-      "title": "카드업계 홈플러스 대금 지급 재개… 일부는 가압류",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186608"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000896759"
     },
     {
-      "title": "LH, 신규 아파트 승강기 에어컨 의무화…침수 감지 기능도 도입",
-      "url": "https://n.news.naver.com/mnews/article/001/0016254285"
+      "title": "삼성 아트스토어에 '빈 미술사 박물관' 소장품 43점 공개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006353184"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6977.94,
-      "change": 164.6,
-      "change_pct": 2.42
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 864.65,
-      "change": 3.28,
-      "change_pct": 0.38
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26644.91,
-      "change": -84.25,
-      "change_pct": -0.32
+      "value": 26289.71,
+      "change": -355.2,
+      "change_pct": -1.33
     },
     "usdkrw": {
-      "value": 1415.23,
-      "change": -1.62,
-      "change_pct": -0.11
+      "value": 1412.25,
+      "change": -3.12,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4473.1,
-    "price_krw": 6330465,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4389.5,
+    "price_krw": 6199071,
+    "change": -28.3,
+    "change_pct": -0.64
   },
-  "updated": "2026-08-18 06:27",
+  "updated": "2026-08-19 06:26",
   "error": null
 }
