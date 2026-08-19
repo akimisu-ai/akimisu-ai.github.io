@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"수익률 좋은데 왜?\" 줄줄이 상폐되는 ETF",
-      "url": "https://n.news.naver.com/mnews/article/018/0006353708"
+      "title": "생산 차질 '10만대+α' 2조 손실…현대차 파업에 신차·실적 비상등",
+      "url": "https://n.news.naver.com/mnews/article/421/0009121842"
     },
     {
-      "title": "김성환 “신규 원전, 답 정해놓지 않고 공론화로 결정…곧 절차 발표”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003545120"
+      "title": "“한국에도 7성급 호텔이?” 서울 한복판에 최고급 호텔 생긴다는데",
+      "url": "https://n.news.naver.com/mnews/article/011/0004653201"
     },
     {
-      "title": "EV5, 독일 전문가 평가서 모델 Y 제쳤지만…판매량은 역부족",
-      "url": "https://n.news.naver.com/mnews/article/028/0002819012"
-    },
-    {
-      "title": "김윤덕 국토장관 “관행 탈피해 공급 속도전”… 세제·금융·규제 완화",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186938"
-    },
-    {
-      "title": "急방미 김정관, 러트닉 만나 대미투자 조율… 美, ‘15% 파기’ 으름장",
-      "url": "https://n.news.naver.com/mnews/article/021/0002812011"
-    },
-    {
-      "title": "“인크레더블” 외치며 엄지척…매디슨 황, LG와 2시간30분 ‘로봇 회동’",
-      "url": "https://n.news.naver.com/mnews/article/018/0006353408"
-    },
-    {
-      "title": "코픽스 금리 0.13%p↑… 주담대 변동금리 6% 육박",
-      "url": "https://n.news.naver.com/mnews/article/469/0000948621"
-    },
-    {
-      "title": "뉴욕증시 3대 지수 동반 하락 마감… 美·이란 임시 휴전 종료 여파",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186704"
+      "title": "환율, 장중 1300원 대로 하락…10개월 반 만에 처음",
+      "url": "https://n.news.naver.com/mnews/article/057/0001964428"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000896759"
+      "url": "https://n.news.naver.com/mnews/article/215/0001262871"
     },
     {
-      "title": "삼성 아트스토어에 '빈 미술사 박물관' 소장품 43점 공개",
-      "url": "https://n.news.naver.com/mnews/article/018/0006353184"
+      "title": "“삼전닉스 턱밑까지 왔다”…키옥시아 꺾은 中 YMTC, 역대급 상장 시동",
+      "url": "https://n.news.naver.com/mnews/article/016/0002685792"
+    },
+    {
+      "title": "김정관 산업장관, 러트닉 이틀간 면담...대미 투자 논의",
+      "url": "https://n.news.naver.com/mnews/article/052/0002395198"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012240461"
+    },
+    {
+      "title": "삼성디스플레이 ‘접힘부 밝기’·LGD ‘금속마스크 제거’… OLED 신기술 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187024"
+    },
+    {
+      "title": "LG전자, 경남 수해 지역서 제조사 관계없이 무상 점검·수리",
+      "url": "https://n.news.naver.com/mnews/article/018/0006354186"
+    },
+    {
+      "title": "“행정기관 세종, 공공기관은 혁신도시로”… 서울 잔류 ‘0’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003671782"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6977.94,
+      "value": 6869.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 864.65,
+      "value": 834.2,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26289.71,
-      "change": -355.2,
-      "change_pct": -1.33
+      "value": 26331.09,
+      "change": 41.38,
+      "change_pct": 0.16
     },
     "usdkrw": {
-      "value": 1412.25,
-      "change": -3.12,
-      "change_pct": -0.22
+      "value": 1386.23,
+      "change": -28.5,
+      "change_pct": -2.01
     }
   },
   "gold": {
-    "price_usd": 4389.5,
-    "price_krw": 6199071,
-    "change": -28.3,
-    "change_pct": -0.64
+    "price_usd": 4580.7,
+    "price_krw": 6349904,
+    "change": 214.7,
+    "change_pct": 4.92
   },
-  "updated": "2026-08-19 06:26",
+  "updated": "2026-08-20 06:26",
   "error": null
 }
