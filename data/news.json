@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "생산 차질 '10만대+α' 2조 손실…현대차 파업에 신차·실적 비상등",
-      "url": "https://n.news.naver.com/mnews/article/421/0009121842"
+      "title": "뉴욕증시, 美 국채금리 하락에 상승 마감",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187211"
     },
     {
-      "title": "“한국에도 7성급 호텔이?” 서울 한복판에 최고급 호텔 생긴다는데",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653201"
+      "title": "SK하이닉스, 7억대 '역대급 성과급'…60% 자사주로, 현금은 40%",
+      "url": "https://n.news.naver.com/mnews/article/053/0000060841"
     },
     {
-      "title": "환율, 장중 1300원 대로 하락…10개월 반 만에 처음",
-      "url": "https://n.news.naver.com/mnews/article/057/0001964428"
+      "title": "모더나, 머크와 암 치료제 3상 성공...주가 177% 급등",
+      "url": "https://n.news.naver.com/mnews/article/052/0002395606"
+    },
+    {
+      "title": "오세훈 \"김윤덕 장관과 입장 평행선…용산공원 주택 공급 동의하면 '역사의 죄인'\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005805242"
+    },
+    {
+      "title": "하닉 역대급 주주환원에 시장 환호… 삼전이 릴레이 이어가나",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868134"
+    },
+    {
+      "title": "국제유가 하락에 생산자물가 11개월 만에↓…\"8월엔 상승 압력\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005402801"
+    },
+    {
+      "title": "강남-서초 아파트값 2주연속 하락… 한강벨트-15억 미만은 오름세",
+      "url": "https://n.news.naver.com/mnews/article/020/0003742298"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001262871"
+      "url": "https://n.news.naver.com/mnews/article/056/0012241398"
     },
     {
-      "title": "“삼전닉스 턱밑까지 왔다”…키옥시아 꺾은 中 YMTC, 역대급 상장 시동",
-      "url": "https://n.news.naver.com/mnews/article/016/0002685792"
+      "title": "서울 아파트 6월 실거래가 2.50% 상승…5년 만에 최고 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002686435"
     },
     {
-      "title": "김정관 산업장관, 러트닉 이틀간 면담...대미 투자 논의",
-      "url": "https://n.news.naver.com/mnews/article/052/0002395198"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012240461"
-    },
-    {
-      "title": "삼성디스플레이 ‘접힘부 밝기’·LGD ‘금속마스크 제거’… OLED 신기술 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/366/0001187024"
-    },
-    {
-      "title": "LG전자, 경남 수해 지역서 제조사 관계없이 무상 점검·수리",
-      "url": "https://n.news.naver.com/mnews/article/018/0006354186"
-    },
-    {
-      "title": "“행정기관 세종, 공공기관은 혁신도시로”… 서울 잔류 ‘0’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003671782"
+      "title": "월세 부담 줄이고 전세사기 차단…'전월세 안심신탁' 도입",
+      "url": "https://n.news.naver.com/mnews/article/079/0004180441"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6869.83,
+      "value": 6471.17,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.2,
+      "value": 824.46,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26331.09,
-      "change": 41.38,
-      "change_pct": 0.16
+      "value": 26067.17,
+      "change": -263.92,
+      "change_pct": -1.0
     },
     "usdkrw": {
-      "value": 1386.23,
-      "change": -28.5,
-      "change_pct": -2.01
+      "value": 1393.85,
+      "change": -19.73,
+      "change_pct": -1.4
     }
   },
   "gold": {
-    "price_usd": 4580.7,
-    "price_krw": 6349904,
-    "change": 214.7,
-    "change_pct": 4.92
+    "price_usd": 4575.1,
+    "price_krw": 6377003,
+    "change": 85.7,
+    "change_pct": 1.91
   },
-  "updated": "2026-08-20 06:26",
+  "updated": "2026-08-21 06:29",
   "error": null
 }
