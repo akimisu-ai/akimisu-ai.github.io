@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "두산에너빌리티, 오만 미스파 발전소 공사 수주…9300억 규모",
-      "url": "https://n.news.naver.com/mnews/article/119/0003123783"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000898212"
     },
     {
-      "title": "제네시스, 미국 누적 판매 45만대 돌파…GV90 앞세워 성장 가속",
-      "url": "https://n.news.naver.com/mnews/article/005/0001868202"
+      "title": "코스피 6900 회복…금리불안 밀어낸 삼전닉스, 환원 모멘텀 될까",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403164"
     },
     {
-      "title": "9차 석유 최고가격 다시 동결…정부 \"민생부담·국제유가 고려\"",
-      "url": "https://n.news.naver.com/mnews/article/082/0001394906"
+      "title": "삼성전자 서초사옥 앞 모인  DX 노조…\"경영실패 책임져라\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001382481"
     },
     {
-      "title": "오늘만 3천억 생산 차질…현대차 노조 파업에 최대 2.8조 허공으로",
-      "url": "https://n.news.naver.com/mnews/article/421/0009125883"
+      "title": "\"앤트로픽, 기업가치 2조 달러 IPO 추진\"...성공하면 스페이스X 제친다",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396777"
     },
     {
-      "title": "비트코인 7만3000달러 돌파…가상화폐株 동반 강세",
-      "url": "https://n.news.naver.com/mnews/article/088/0001024543"
+      "title": "'삼전닉스 이어 낸드 출하 3위' 中YMTC, IPO로 6.8조 조달 추진",
+      "url": "https://n.news.naver.com/mnews/article/421/0009127100"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012242279"
+      "url": "https://n.news.naver.com/mnews/article/374/0000528777"
     },
     {
-      "title": "'디에이치 방배' 잔금대출 한도·금리 경쟁…\"5천억→1.5조\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000898114"
+      "title": "‘30만 전자 탈환’ 코앞인데…“공포의 월요일 온다?” 800만 삼성 개미들 ‘초긴장’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002687040"
     },
     {
-      "title": "오세훈 서울시장, \"대출 문턱 부터 낮춰야\"..주거사다리 복구 강조",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564735"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000898348"
     },
     {
-      "title": "삼전닉스, 장중 상승폭 확대해 2∼4% 강세",
-      "url": "https://n.news.naver.com/mnews/article/029/0003043515"
+      "title": "애플, 시리·비전 프로 인력 200여명 감원…AI·스마트 글래스 중심 재편",
+      "url": "https://n.news.naver.com/mnews/article/092/0002434734"
     },
     {
-      "title": "배당 확대도 ‘메가사이클’ 진입…이익 급증에 내년엔 188조 전망",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653988"
+      "title": "주유소 기름값 14주째 하락…휘발유·경유 1800원 중반대",
+      "url": "https://n.news.naver.com/mnews/article/057/0001964928"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6912.95,
+      "change": 60.37,
+      "change_pct": 0.88
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 801.94,
+      "change": -38.95,
+      "change_pct": -4.63
     },
     "nasdaq": {
       "value": 26180.46,
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1385.98,
-      "change": -3.42,
-      "change_pct": -0.25
+      "value": 1383.9,
+      "change": -6.89,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4661.6,
-    "price_krw": 6460884,
-    "change": 145.3,
-    "change_pct": 3.22
+    "price_usd": 4624.1,
+    "price_krw": 6399292,
+    "change": 107.8,
+    "change_pct": 2.39
   },
-  "updated": "2026-08-22 06:25",
+  "updated": "2026-08-23 06:23",
   "error": null
 }
