@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "원화 실질가치는 여전히 금융위기 수준",
-      "url": "https://n.news.naver.com/mnews/article/005/0001868433"
+      "title": "농어촌 기본소득 7개군 추가…28일부터 1인당 월15만~20만원 지급",
+      "url": "https://n.news.naver.com/mnews/article/020/0003743209"
     },
     {
-      "title": "미국보다 일본 국채 금리가 더 중요하다",
-      "url": "https://n.news.naver.com/mnews/article/028/0002819773"
+      "title": "공공기관 2차이전, 10~11월 윤곽 나온다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005404681"
     },
     {
-      "title": "“3년 뒤 빚 폭탄 온다”…헤지펀드 대부의 경고, 금·비트코인 늘리라는데",
-      "url": "https://n.news.naver.com/mnews/article/009/0005725250"
+      "title": "서비스업 실적 개선에 8월 기업 체감 경기 상승해 100포인트 근접",
+      "url": "https://n.news.naver.com/mnews/article/214/0001520082"
     },
     {
-      "title": "위고비·마운자로 불법 반입 급증‥상반기에만 작년 연간의 3.5배",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519640"
+      "title": "기아 ‘6년 연속 무분규’ 임협 타결…성과급 400%+1270만원",
+      "url": "https://n.news.naver.com/mnews/article/025/0003546719"
     },
     {
-      "title": "박정성 신임 통상본부장 \"경제안보 통상질서, 한국이 새 판 짜야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009128763"
+      "title": "근 손실 없이 살 뺀다…한미약품 비만약 3.2조 기술수출",
+      "url": "https://n.news.naver.com/mnews/article/025/0003546472"
     },
     {
-      "title": "[단독] 한투, 단일종목 레버리지 ETF로 220억 벌었다… 증권사 931억 수익 중 상위 5개사가 67% 독식",
-      "url": "https://n.news.naver.com/mnews/article/005/0001868601"
+      "title": "[단독]용산공원, 환경부 평가선 전체가 ‘보호대상 2등급’",
+      "url": "https://n.news.naver.com/mnews/article/020/0003743394"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001383068"
+      "url": "https://n.news.naver.com/mnews/article/214/0001520036"
     },
     {
-      "title": "비거주 1주택 종부세 기본공제 수정 검토…시장선 “일단 지켜보자”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003673058"
+      "title": "덕정~삼성 80분→30분…GTX-C 착공 속도",
+      "url": "https://n.news.naver.com/mnews/article/018/0006357748"
     },
     {
-      "title": "\"금융기관 지방이전 피해 국민에 귀결\"…금감원·예보 노조 기자회견",
-      "url": "https://n.news.naver.com/mnews/article/079/0004181661"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012244379"
     },
     {
-      "title": "‘근손실 없이 뺀다’ 한미약품 3.2조 비만약 기술 수출…역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546400"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000635634"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6912.95,
+      "value": 6696.96,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 801.94,
+      "value": 813.33,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25980.19,
-      "change": -200.27,
-      "change_pct": -0.76
+      "value": 26151.3,
+      "change": 171.11,
+      "change_pct": 0.66
     },
     "usdkrw": {
-      "value": 1382.38,
-      "change": -8.41,
-      "change_pct": -0.6
+      "value": 1382.21,
+      "change": -2.77,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4710.0,
-    "price_krw": 6511009,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4715.9,
+    "price_krw": 6518364,
+    "change": 75.1,
+    "change_pct": 1.62
   },
-  "updated": "2026-08-25 06:30",
+  "updated": "2026-08-26 06:29",
   "error": null
 }
