@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "농어촌 기본소득 7개군 추가…28일부터 1인당 월15만~20만원 지급",
-      "url": "https://n.news.naver.com/mnews/article/020/0003743209"
+      "title": "현대차, 2030년까지 신차 100종 출시…연간 생산 127만 대 확대",
+      "url": "https://n.news.naver.com/mnews/article/011/0004655361"
     },
     {
-      "title": "공공기관 2차이전, 10~11월 윤곽 나온다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005404681"
+      "title": "엔비디아 “AI 붐 2028년까지 간다”…13분기 연속 최대매출 ‘대기록’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005726382"
     },
     {
-      "title": "서비스업 실적 개선에 8월 기업 체감 경기 상승해 100포인트 근접",
-      "url": "https://n.news.naver.com/mnews/article/214/0001520082"
+      "title": "\"아마존 벗어나자\"…美 직접공략 나선 K중기",
+      "url": "https://n.news.naver.com/mnews/article/015/0005325060"
     },
     {
-      "title": "기아 ‘6년 연속 무분규’ 임협 타결…성과급 400%+1270만원",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546719"
+      "title": "듀오, '전문직·명문대 회원 업계 최다' 과장 광고‥과징금 3.4억 원",
+      "url": "https://n.news.naver.com/mnews/article/214/0001520203"
     },
     {
-      "title": "근 손실 없이 살 뺀다…한미약품 비만약 3.2조 기술수출",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546472"
+      "title": "'더 크고 선명해지는 車디플'..삼성·LGD 커지는 OLED 시장 정조준",
+      "url": "https://n.news.naver.com/mnews/article/008/0005405133"
     },
     {
-      "title": "[단독]용산공원, 환경부 평가선 전체가 ‘보호대상 2등급’",
-      "url": "https://n.news.naver.com/mnews/article/020/0003743394"
+      "title": "주담대 4.48%로 껑충…고정금리 선택 12년 5개월 만에 최저",
+      "url": "https://n.news.naver.com/mnews/article/123/0002389042"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001520036"
+      "title": "유통업법 위반 조사 거부해도 형사 고발 못 하는데... 주병기 공정위원장 “쿠팡 고발할 것”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188528"
     },
     {
-      "title": "덕정~삼성 80분→30분…GTX-C 착공 속도",
-      "url": "https://n.news.naver.com/mnews/article/018/0006357748"
+      "title": "보험사 상반기 순익 ‘9조’ 돌파…생보사는 ‘보험 손익’ 악화",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044561"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012244379"
+      "title": "“적자 자회사를 왜 합병시키나”…주가 급락한 SK이노, 이유가 있습니다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005726357"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000635634"
+      "title": "김윤덕, 吳 제안 '탄천'에 \"고급아파트 아닌 공공주택으로 지어야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009134928"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6696.96,
+      "value": 6971.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.33,
+      "value": 831.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26151.3,
-      "change": 171.11,
-      "change_pct": 0.66
+      "value": 26130.2,
+      "change": -21.1,
+      "change_pct": -0.08
     },
     "usdkrw": {
-      "value": 1382.21,
-      "change": -2.77,
-      "change_pct": -0.2
+      "value": 1380.88,
+      "change": -0.61,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4715.9,
-    "price_krw": 6518364,
-    "change": 75.1,
-    "change_pct": 1.62
+    "price_usd": 4673.8,
+    "price_krw": 6453956,
+    "change": 35.7,
+    "change_pct": 0.77
   },
-  "updated": "2026-08-26 06:29",
+  "updated": "2026-08-27 09:31",
   "error": null
 }
