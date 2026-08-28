@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차, 2030년까지 신차 100종 출시…연간 생산 127만 대 확대",
-      "url": "https://n.news.naver.com/mnews/article/011/0004655361"
+      "title": "SK하이닉스, 미국산 HBM 만든다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154387"
     },
     {
-      "title": "엔비디아 “AI 붐 2028년까지 간다”…13분기 연속 최대매출 ‘대기록’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005726382"
+      "title": "작년 건설기성 외환위기 후 최대폭 줄어…2년전 계약감소 후폭풍",
+      "url": "https://n.news.naver.com/mnews/article/001/0016276465"
     },
     {
-      "title": "\"아마존 벗어나자\"…美 직접공략 나선 K중기",
-      "url": "https://n.news.naver.com/mnews/article/015/0005325060"
+      "title": "금감원, 증권신고서 심사 '정정요구 차등화' 제도 도입",
+      "url": "https://n.news.naver.com/mnews/article/003/0014154116"
     },
     {
-      "title": "듀오, '전문직·명문대 회원 업계 최다' 과장 광고‥과징금 3.4억 원",
-      "url": "https://n.news.naver.com/mnews/article/214/0001520203"
+      "title": "코스피, 외인·기관 동반 매도에 6800선까지 밀려…삼전·SK하닉↓",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044821"
     },
     {
-      "title": "'더 크고 선명해지는 車디플'..삼성·LGD 커지는 OLED 시장 정조준",
-      "url": "https://n.news.naver.com/mnews/article/008/0005405133"
+      "title": "불공정 계약 손보고 납품가 올리고…중기부 적극 행정 15건 선정",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188890"
     },
     {
-      "title": "주담대 4.48%로 껑충…고정금리 선택 12년 5개월 만에 최저",
-      "url": "https://n.news.naver.com/mnews/article/123/0002389042"
+      "title": "해상풍력 늘리려면…업계 “싼값보다 예측 가능성 높아야”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002820487"
     },
     {
-      "title": "유통업법 위반 조사 거부해도 형사 고발 못 하는데... 주병기 공정위원장 “쿠팡 고발할 것”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188528"
+      "title": "속도도 사업성도 올렸다…서울 ‘모아주택 1호’ 내달 입주",
+      "url": "https://n.news.naver.com/mnews/article/011/0004655925"
     },
     {
-      "title": "보험사 상반기 순익 ‘9조’ 돌파…생보사는 ‘보험 손익’ 악화",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044561"
+      "title": "삼성전자, 제품 탐색부터 사후관리까지…디지털 고객경험 선도",
+      "url": "https://n.news.naver.com/mnews/article/119/0003126412"
     },
     {
-      "title": "“적자 자회사를 왜 합병시키나”…주가 급락한 SK이노, 이유가 있습니다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005726357"
+      "title": "삼성, 집중호우 피해 지역 복구에 30억원 지원",
+      "url": "https://n.news.naver.com/mnews/article/016/0002689799"
     },
     {
-      "title": "김윤덕, 吳 제안 '탄천'에 \"고급아파트 아닌 공공주택으로 지어야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009134928"
+      "title": "하나은행, 현대모비스·기보와 손잡고 협력 중소기업에 5000억원 대출",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406090"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6971.29,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 6824.35,
+      "change": -88.02,
+      "change_pct": -1.27
     },
     "kosdaq": {
-      "value": 831.81,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 840.27,
+      "change": 2.62,
+      "change_pct": 0.31
     },
     "nasdaq": {
-      "value": 26130.2,
-      "change": -21.1,
-      "change_pct": -0.08
+      "value": 26541.35,
+      "change": 411.15,
+      "change_pct": 1.57
     },
     "usdkrw": {
-      "value": 1380.88,
-      "change": -0.61,
-      "change_pct": -0.04
+      "value": 1376.41,
+      "change": -7.08,
+      "change_pct": -0.51
     }
   },
   "gold": {
-    "price_usd": 4673.8,
-    "price_krw": 6453956,
-    "change": 35.7,
-    "change_pct": 0.77
+    "price_usd": 4634.3,
+    "price_krw": 6378696,
+    "change": 24.6,
+    "change_pct": 0.53
   },
-  "updated": "2026-08-27 09:31",
+  "updated": "2026-08-28 14:08",
   "error": null
 }
