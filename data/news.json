@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK하이닉스, 미국산 HBM 만든다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154387"
+      "title": "국민연금 상반기 수익률 27.22%… 국내주식서 107% 벌었다",
+      "url": "https://n.news.naver.com/mnews/article/656/0000185259"
     },
     {
-      "title": "작년 건설기성 외환위기 후 최대폭 줄어…2년전 계약감소 후폭풍",
-      "url": "https://n.news.naver.com/mnews/article/001/0016276465"
+      "title": "내년 혼인신고하면 100만원 받는다…출산 땐 ‘최대 2000만원’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003547530"
     },
     {
-      "title": "금감원, 증권신고서 심사 '정정요구 차등화' 제도 도입",
-      "url": "https://n.news.naver.com/mnews/article/003/0014154116"
+      "title": "\"수수료 안 받습니다\"…코인거래소, 내년 과세 앞두고 고객 쟁탈전",
+      "url": "https://n.news.naver.com/mnews/article/031/0001053263"
     },
     {
-      "title": "코스피, 외인·기관 동반 매도에 6800선까지 밀려…삼전·SK하닉↓",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044821"
+      "title": "토드 영 美상원의원 “SK에 바이오 투자 요청…최태원 회장도 관심”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006359360"
     },
     {
-      "title": "불공정 계약 손보고 납품가 올리고…중기부 적극 행정 15건 선정",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188890"
+      "title": "코로나 대출 155조 아직 못 갚았다…20년이상 장기 연체재권 소각",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264011"
     },
     {
-      "title": "해상풍력 늘리려면…업계 “싼값보다 예측 가능성 높아야”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002820487"
+      "title": "홈플러스 \"회생 실패 시 채권자 피해 가중…분할 상환 동의해달라\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000528526"
     },
     {
-      "title": "속도도 사업성도 올렸다…서울 ‘모아주택 1호’ 내달 입주",
-      "url": "https://n.news.naver.com/mnews/article/011/0004655925"
+      "title": "신협, 포용금융 연 1조원 쏜다…중저신용 대환도 출시",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727255"
     },
     {
-      "title": "삼성전자, 제품 탐색부터 사후관리까지…디지털 고객경험 선도",
-      "url": "https://n.news.naver.com/mnews/article/119/0003126412"
+      "title": "영끌족 다시 비명…대출금리 뛰고 이자 부담 눈덩이[금리 3% 후폭풍]①",
+      "url": "https://n.news.naver.com/mnews/article/277/0005808680"
     },
     {
-      "title": "삼성, 집중호우 피해 지역 복구에 30억원 지원",
-      "url": "https://n.news.naver.com/mnews/article/016/0002689799"
+      "title": "“C급 샤넬백이 1101만원”…‘고액체납자’ 압류품, 2.4배 비싸게 팔린 이유",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727456"
     },
     {
-      "title": "하나은행, 현대모비스·기보와 손잡고 협력 중소기업에 5000억원 대출",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406090"
+      "title": "기아, 임단협 64.1% 찬성으로 타결…6년 연속 무분규",
+      "url": "https://n.news.naver.com/mnews/article/018/0006359779"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6824.35,
-      "change": -88.02,
-      "change_pct": -1.27
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 840.27,
-      "change": 2.62,
-      "change_pct": 0.31
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26541.35,
-      "change": 411.15,
-      "change_pct": 1.57
+      "value": 26402.42,
+      "change": -138.93,
+      "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1376.41,
-      "change": -7.08,
-      "change_pct": -0.51
+      "value": 1375.67,
+      "change": -7.82,
+      "change_pct": -0.57
     }
   },
   "gold": {
-    "price_usd": 4634.3,
-    "price_krw": 6378696,
-    "change": 24.6,
-    "change_pct": 0.53
+    "price_usd": 4504.1,
+    "price_krw": 6196155,
+    "change": -105.6,
+    "change_pct": -2.29
   },
-  "updated": "2026-08-28 14:08",
+  "updated": "2026-08-29 12:06",
   "error": null
 }
