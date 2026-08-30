@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "두산 박정원 회장·박지원 부회장, 네팔행…연락 두절 직원 수색 지원",
-      "url": "https://n.news.naver.com/mnews/article/028/0002820694"
+      "title": "\"실종좌표 더 수색해야\"…기업대응팀, 헬기 못띄워 '발동동'(종합)[네팔 대홍수]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016279022"
     },
     {
-      "title": "\"종부세는 왜 도입했나\"…강화·완화 '롤러코스터 역사' 살펴보니",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406581"
+      "title": "“삼성전자, 목표가 45만원 간다”…LS증권, 12.5% 상향 조정한 이유는",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727867"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002399802"
+      "title": "한은 \"수요 압력에 물가 상승세 더 광범위하게 확산 가능성\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002400168"
     },
     {
-      "title": "토스, 개인사업자 대출 문턱 낮춘다…우리금융저축은행에 '소호스코어' 적용",
-      "url": "https://n.news.naver.com/mnews/article/119/0003126811"
+      "title": "中 CXMT, 美 국방부 블랙리스트 지정 취소 소송…“중국군과 무관”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001189204"
     },
     {
-      "title": "전국 기름값 15주 연속 하락…휘발유 ℓ당 1861.3원",
-      "url": "https://n.news.naver.com/mnews/article/448/0000636304"
+      "title": "전국 환승센터 65곳에 22.7조 투입…지방은 2배 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003461542"
     },
     {
-      "title": "신선식품부터 대용량 생필품까지…G마켓, '트레이더스 당일배송관' 선보여",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406574"
+      "title": "이형일 부총리 후보자 \"성장 흐름 유지·잠재성장률 반등에 힘쓰겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/057/0001966319"
     },
     {
-      "title": "워시 연준의장, “미국 물가 우려”…추가 긴축 시사에 뉴욕증시 하락세",
-      "url": "https://n.news.naver.com/mnews/article/032/0003467131"
+      "title": "홍지선 국토부 장관 후보자…주택 요직 두루 거친 '현장형 관료'[프로필]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003126982"
     },
     {
-      "title": "태어나면 2000만원, 12세까지 월 30만원, 결혼땐 100만원",
-      "url": "https://n.news.naver.com/mnews/article/020/0003744240"
+      "title": "정부, 첨단산업 특성화대학원 6곳 선정…지역 인재 육성에 180억",
+      "url": "https://n.news.naver.com/mnews/article/277/0005809232"
     },
     {
-      "title": "중국 CXMT, 상반기 매출 10배 증가…D램 공급 부족 영향",
-      "url": "https://n.news.naver.com/mnews/article/057/0001966226"
+      "title": "2030 새 일자리 역대 최소…'바늘구멍' 뚫어도 월급 뒷걸음질",
+      "url": "https://n.news.naver.com/mnews/article/001/0016278235"
     },
     {
-      "title": "CPTPP 가입논의 다시 운 띄운 정부…이번엔 결론 낼까",
-      "url": "https://n.news.naver.com/mnews/article/001/0016277685"
+      "title": "국내은행 2분기 자본비율 개선…순익·유상증자로 자본 확충",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360618"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1371.5,
-      "change": -8.95,
-      "change_pct": -0.65
+      "value": 1377.66,
+      "change": -2.79,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4504.1,
-    "price_krw": 6196155,
-    "change": -105.6,
-    "change_pct": -2.29
+    "price_usd": 4513.6,
+    "price_krw": 6218206,
+    "change": 35.5,
+    "change_pct": 0.79
   },
-  "updated": "2026-08-30 08:02",
+  "updated": "2026-08-31 08:16",
   "error": null
 }
