@@ -1,69 +1,74 @@
 {
   "news": [
     {
-      "title": "李대통령 “경매 물건 증가 유의”… 들여다보니 지방에 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/366/0001189414"
+      "title": "추석 농축산물 최대 40%·수산물 최대 50% 할인···KTX 운임 인하",
+      "url": "https://n.news.naver.com/mnews/article/032/0003467744"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012247999"
+      "title": "구조된 현장소장 “사방이 물보라… 3~4시간 지나서야 현장 보여”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003675240"
     },
     {
-      "title": "홈플러스, 8월 재개장 후 매출 1164억원…\"고객 기반 건재\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009141876"
+      "title": "반도체 수출 역대 최대...\"수출 연간 1조 달러 가능성 높아져\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264415"
     },
     {
-      "title": "홍지선 국토장관 후보자 \"용산공원 등 서울시와 사전협의해 정책 작동\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901093"
+      "title": "내년 총지출 821조, 증가율 역대 최고... 추가세수로 162조 미래기금",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996044"
     },
     {
-      "title": "\"GS25 1+1 뭐 있지?\"…챗GPT가 실시간으로 찾아준다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326988"
+      "title": "금감원, 금융투자상품 허위·과장 광고 막는다… 제작·심사 절차 강화",
+      "url": "https://n.news.naver.com/mnews/article/366/0001189656"
     },
     {
-      "title": "도쿄 한복판에 성수동 그대로 옮겼더니…日 1020 '우르르'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326993"
+      "title": "영풍·MBK \"고려아연 출자 펀드, 엔터 투자금 650억원 회수 불투명\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009143583"
     },
     {
-      "title": "삼전닉스 성과급발 소비 확대…\"내년 성장률 최대 0.1%p↑\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004184159"
+      "title": "상호금융도 가계대출 총량 배분 통지…고삐 풀릴라 당국 '촉각'",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050381"
     },
     {
-      "title": "이마트·롯데마트, 김장 절임배추 3∼9일 예약 개시",
-      "url": "https://n.news.naver.com/mnews/article/001/0016281318"
+      "title": "삼성전기, MLCC 판가 인상 호재…“목표가 150만→200만” [줍줍리포트]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657203"
     },
     {
-      "title": "최태원 SK 회장, 일본 투자 계획 질문에 \"여러 가능성 검토, 구체화된 계획 없어\"",
-      "url": "https://n.news.naver.com/mnews/article/437/0000508698"
+      "title": "HD현대중 노사, 주 2→3회 임단협 교섭 횟수 늘려",
+      "url": "https://n.news.naver.com/mnews/article/003/0014161895"
     },
     {
-      "title": "SK오션플랜트 결국 매각…경남 고성군 \"기회발전특구 해제 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009142459"
+      "title": "다이슨, AI 카메라 달린 전동칫솔 첫선",
+      "url": "https://n.news.naver.com/mnews/article/031/0001054478"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6777.18,
+      "value": 6820.02,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 827.67,
+      "value": 834.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26370.89,
-      "change": -31.53,
-      "change_pct": -0.12
+      "value": 26099.77,
+      "change": -271.12,
+      "change_pct": -1.03
+    },
+    "usdkrw": {
+      "value": 1374.55,
+      "change": 7.93,
+      "change_pct": 0.58
     }
   },
   "gold": {
-    "price_usd": 4502.2,
-    "price_krw": 6077970,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4375.4,
+    "price_krw": 6014205,
+    "change": -55.7,
+    "change_pct": -1.26
   },
-  "updated": "2026-09-01 09:25",
+  "updated": "2026-09-02 08:05",
   "error": null
 }
