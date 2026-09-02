@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "추석 농축산물 최대 40%·수산물 최대 50% 할인···KTX 운임 인하",
-      "url": "https://n.news.naver.com/mnews/article/032/0003467744"
+      "title": "\"중소기업 더 어려워진다\"...'납품대금 정산 단축' 추진에 업계 반발",
+      "url": "https://n.news.naver.com/mnews/article/008/0005408575"
     },
     {
-      "title": "구조된 현장소장 “사방이 물보라… 3~4시간 지나서야 현장 보여”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003675240"
+      "title": "인천공항 1터미널 노후화 공사…스키폴공항서 반면교사 삼는다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014163296"
     },
     {
-      "title": "반도체 수출 역대 최대...\"수출 연간 1조 달러 가능성 높아져\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264415"
+      "title": "은행 부실채권 비율 ‘코로나 팬데믹 수준’",
+      "url": "https://n.news.naver.com/mnews/article/032/0003468114"
     },
     {
-      "title": "내년 총지출 821조, 증가율 역대 최고... 추가세수로 162조 미래기금",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996044"
+      "title": "뉴욕증시, 국채금리 진정에 4일 만에 반등...다우존스 0.6%↑",
+      "url": "https://n.news.naver.com/mnews/article/310/0000139687"
     },
     {
-      "title": "금감원, 금융투자상품 허위·과장 광고 막는다… 제작·심사 절차 강화",
-      "url": "https://n.news.naver.com/mnews/article/366/0001189656"
+      "title": "美 국채 10년물 금리 4.8% 돌파 '34개월만 최고치'…글로벌 채권 발작",
+      "url": "https://n.news.naver.com/mnews/article/008/0005408706"
     },
     {
-      "title": "영풍·MBK \"고려아연 출자 펀드, 엔터 투자금 650억원 회수 불투명\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009143583"
+      "title": "정부 \"석유 최고가격제로 물가 상승률 0.5%p 억제…명절 물가 안정 총력\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000901902"
     },
     {
-      "title": "상호금융도 가계대출 총량 배분 통지…고삐 풀릴라 당국 '촉각'",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050381"
+      "title": "해진공, 국내 기업과 공동 투자한 美 물류센터 본격 운영",
+      "url": "https://n.news.naver.com/mnews/article/016/0002691776"
     },
     {
-      "title": "삼성전기, MLCC 판가 인상 호재…“목표가 150만→200만” [줍줍리포트]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657203"
+      "title": "'회생계획안 인가' 홈플러스, 매출 회복·점포 매각 과제 산적",
+      "url": "https://n.news.naver.com/mnews/article/008/0005408579"
     },
     {
-      "title": "HD현대중 노사, 주 2→3회 임단협 교섭 횟수 늘려",
-      "url": "https://n.news.naver.com/mnews/article/003/0014161895"
+      "title": "김정관 장관, G20서 “AI 혁신, 지식재산·표준·공급망 함께 발전해야”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006362665"
     },
     {
-      "title": "다이슨, AI 카메라 달린 전동칫솔 첫선",
-      "url": "https://n.news.naver.com/mnews/article/031/0001054478"
+      "title": "IR임원, 신약 호재 미리 알고 2천만원 '꿀꺽'…금융당국에 덜미",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264634"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.02,
+      "value": 6835.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.29,
+      "value": 821.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26099.77,
-      "change": -271.12,
-      "change_pct": -1.03
+      "value": 26217.83,
+      "change": 118.06,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.55,
-      "change": 7.93,
-      "change_pct": 0.58
+      "value": 1359.06,
+      "change": -13.8,
+      "change_pct": -1.01
     }
   },
   "gold": {
-    "price_usd": 4375.4,
-    "price_krw": 6014205,
-    "change": -55.7,
-    "change_pct": -1.26
+    "price_usd": 4429.5,
+    "price_krw": 6019956,
+    "change": 81.5,
+    "change_pct": 1.87
   },
-  "updated": "2026-09-02 08:05",
+  "updated": "2026-09-03 08:03",
   "error": null
 }
