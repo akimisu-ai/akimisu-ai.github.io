@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"중소기업 더 어려워진다\"...'납품대금 정산 단축' 추진에 업계 반발",
-      "url": "https://n.news.naver.com/mnews/article/008/0005408575"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002402183"
     },
     {
-      "title": "인천공항 1터미널 노후화 공사…스키폴공항서 반면교사 삼는다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014163296"
+      "title": "서명 17번 해야했던 펀드 가입…이제 3번이면 된다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549026"
     },
     {
-      "title": "은행 부실채권 비율 ‘코로나 팬데믹 수준’",
-      "url": "https://n.news.naver.com/mnews/article/032/0003468114"
+      "title": "생보업계 '골든펠로우' 1000명 선정…평균 23.5년 근속",
+      "url": "https://n.news.naver.com/mnews/article/003/0014168245"
     },
     {
-      "title": "뉴욕증시, 국채금리 진정에 4일 만에 반등...다우존스 0.6%↑",
-      "url": "https://n.news.naver.com/mnews/article/310/0000139687"
+      "title": "한전, 삼성전자·SK하이닉스에 5년치 전기료 25조 선납 제안",
+      "url": "https://n.news.naver.com/mnews/article/056/0012250123"
     },
     {
-      "title": "美 국채 10년물 금리 4.8% 돌파 '34개월만 최고치'…글로벌 채권 발작",
-      "url": "https://n.news.naver.com/mnews/article/008/0005408706"
+      "title": "법원, 홈플러스 회생계획안 인가",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996346"
     },
     {
-      "title": "정부 \"석유 최고가격제로 물가 상승률 0.5%p 억제…명절 물가 안정 총력\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901902"
+      "title": "‘공장 짓는 건 경영권, 직원 옮기는 건 쟁의 대상?’…노란봉투법 지침에도 재계 ‘혼선’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003548963"
     },
     {
-      "title": "해진공, 국내 기업과 공동 투자한 美 물류센터 본격 운영",
-      "url": "https://n.news.naver.com/mnews/article/016/0002691776"
+      "title": "상투 잡은 개미 어쩔꼬…“향후 1년 수익률 떨어진다” 골드만삭스의 경고 [재테크+]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003676599"
     },
     {
-      "title": "'회생계획안 인가' 홈플러스, 매출 회복·점포 매각 과제 산적",
-      "url": "https://n.news.naver.com/mnews/article/008/0005408579"
+      "title": "대학가고 취업하고…우리금융 '원더패밀리' 자립 결실",
+      "url": "https://n.news.naver.com/mnews/article/001/0016288055"
     },
     {
-      "title": "김정관 장관, G20서 “AI 혁신, 지식재산·표준·공급망 함께 발전해야”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006362665"
+      "title": "美 10년물 고점 찍고 진정…일제히 상승 마감[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005811111"
     },
     {
-      "title": "IR임원, 신약 호재 미리 알고 2천만원 '꿀꺽'…금융당국에 덜미",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264634"
+      "title": "환율 하락 어디까지…외환보유액 비공개한 한은 [한강로 경제브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156297"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6835.8,
+      "value": 6562.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 821.25,
+      "value": 803.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26217.83,
-      "change": 118.06,
-      "change_pct": 0.45
+      "value": 26584.06,
+      "change": 366.23,
+      "change_pct": 1.4
     },
     "usdkrw": {
-      "value": 1359.06,
-      "change": -13.8,
-      "change_pct": -1.01
+      "value": 1356.21,
+      "change": -2.18,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4429.5,
-    "price_krw": 6019956,
-    "change": 81.5,
-    "change_pct": 1.87
+    "price_usd": 4521.3,
+    "price_krw": 6131832,
+    "change": 155.0,
+    "change_pct": 3.55
   },
-  "updated": "2026-09-03 08:03",
+  "updated": "2026-09-04 08:01",
   "error": null
 }
