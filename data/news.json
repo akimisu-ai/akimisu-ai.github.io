@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "네이버, 토스 ‘출석 체크 미션’ 경찰에 수사 의뢰…“검색 순위 왜곡”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996702"
+    },
+    {
+      "title": "코스피·코스닥 상폐 기준 유예...코넥스 이전상장 도입",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264862"
+    },
+    {
+      "title": "\"환율 1200원대 가나\"... 14개월 만에 장중 1340원대 하락",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571268"
+    },
+    {
+      "title": "'깜짝 고용' 따른 금리 인상 우려에 하락…테슬라, 5.9% 급락[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571328"
+    },
+    {
+      "title": "국민연금, 퇴직연금 시장 '메기'인가 '얌체'인가",
+      "url": "https://n.news.naver.com/mnews/article/119/0003129187"
+    },
+    {
+      "title": "조각투자 넘어 주식·채권까지 토큰화…내년 2월 첫발",
+      "url": "https://n.news.naver.com/mnews/article/008/0005409409"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002402183"
+      "url": "https://n.news.naver.com/mnews/article/056/0012251285"
     },
     {
-      "title": "서명 17번 해야했던 펀드 가입…이제 3번이면 된다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003549026"
+      "title": "영풍 석포제련소, 오염토 추가 확인⋯정화율 53.6% 그쳐",
+      "url": "https://n.news.naver.com/mnews/article/031/0001055655"
     },
     {
-      "title": "생보업계 '골든펠로우' 1000명 선정…평균 23.5년 근속",
-      "url": "https://n.news.naver.com/mnews/article/003/0014168245"
+      "title": "엔캐리 청산 확산 \"쉬운 캐리 끝\"…헤지펀드 엔화 매도 대규모 축소",
+      "url": "https://n.news.naver.com/mnews/article/421/0009151713"
     },
     {
-      "title": "한전, 삼성전자·SK하이닉스에 5년치 전기료 25조 선납 제안",
-      "url": "https://n.news.naver.com/mnews/article/056/0012250123"
-    },
-    {
-      "title": "법원, 홈플러스 회생계획안 인가",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996346"
-    },
-    {
-      "title": "‘공장 짓는 건 경영권, 직원 옮기는 건 쟁의 대상?’…노란봉투법 지침에도 재계 ‘혼선’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003548963"
-    },
-    {
-      "title": "상투 잡은 개미 어쩔꼬…“향후 1년 수익률 떨어진다” 골드만삭스의 경고 [재테크+]",
-      "url": "https://n.news.naver.com/mnews/article/081/0003676599"
-    },
-    {
-      "title": "대학가고 취업하고…우리금융 '원더패밀리' 자립 결실",
-      "url": "https://n.news.naver.com/mnews/article/001/0016288055"
-    },
-    {
-      "title": "美 10년물 고점 찍고 진정…일제히 상승 마감[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005811111"
-    },
-    {
-      "title": "환율 하락 어디까지…외환보유액 비공개한 한은 [한강로 경제브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004156297"
+      "title": "에이피알, '짝퉁' 피해자였나…국내에서도 \"수단레드 불검출\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328911"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6562.72,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 803.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26584.06,
-      "change": 366.23,
-      "change_pct": 1.4
+      "value": 26506.99,
+      "change": -77.07,
+      "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1356.21,
-      "change": -2.18,
-      "change_pct": -0.16
+      "value": 1345.99,
+      "change": -12.4,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4521.3,
-    "price_krw": 6131832,
-    "change": 155.0,
-    "change_pct": 3.55
+    "price_usd": 4477.2,
+    "price_krw": 6026266,
+    "change": -14.5,
+    "change_pct": -0.32
   },
-  "updated": "2026-09-04 08:01",
+  "updated": "2026-09-05 07:50",
   "error": null
 }
