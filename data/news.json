@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "네이버, 토스 ‘출석 체크 미션’ 경찰에 수사 의뢰…“검색 순위 왜곡”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996702"
+      "title": "\"4억이 6년만에 22억 됐다\"...300만 대란 '그 아파트' 또 난리 [부동산 아토즈]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571380"
     },
     {
-      "title": "코스피·코스닥 상폐 기준 유예...코넥스 이전상장 도입",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264862"
+      "title": "올해 수출 7천억 달러 돌파...지난해 연간 기록 벌써 넘었다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264979"
     },
     {
-      "title": "\"환율 1200원대 가나\"... 14개월 만에 장중 1340원대 하락",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571268"
-    },
-    {
-      "title": "'깜짝 고용' 따른 금리 인상 우려에 하락…테슬라, 5.9% 급락[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571328"
-    },
-    {
-      "title": "국민연금, 퇴직연금 시장 '메기'인가 '얌체'인가",
-      "url": "https://n.news.naver.com/mnews/article/119/0003129187"
-    },
-    {
-      "title": "조각투자 넘어 주식·채권까지 토큰화…내년 2월 첫발",
-      "url": "https://n.news.naver.com/mnews/article/008/0005409409"
+      "title": "김정관 \"현대제철 美제철소, 한미 모두에 '윈윈'\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328958"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012251285"
+      "url": "https://n.news.naver.com/mnews/article/052/0002403053"
     },
     {
-      "title": "영풍 석포제련소, 오염토 추가 확인⋯정화율 53.6% 그쳐",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055655"
+      "title": "5일 여의도 밤하늘 밝힌다…제22회 서울세계불꽃축제",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190534"
     },
     {
-      "title": "엔캐리 청산 확산 \"쉬운 캐리 끝\"…헤지펀드 엔화 매도 대규모 축소",
-      "url": "https://n.news.naver.com/mnews/article/421/0009151713"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/421/0009152761"
     },
     {
-      "title": "에이피알, '짝퉁' 피해자였나…국내에서도 \"수단레드 불검출\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328911"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000509592"
+    },
+    {
+      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016291390"
+    },
+    {
+      "title": "냉장고 옆에 전기차가… ‘가전쇼’에 車가 들어온 이유[IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190514"
+    },
+    {
+      "title": "환율, 이번주 1300원 중반대 박스권…美물가에 촉각[주간외환전망]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364304"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6687.21,
+      "change": 107.73,
+      "change_pct": 1.64
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 813.5,
+      "change": 23.29,
+      "change_pct": 2.95
     },
     "nasdaq": {
       "value": 26506.99,
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1345.99,
-      "change": -12.4,
-      "change_pct": -0.91
+      "value": 1351.1,
+      "change": -4.31,
+      "change_pct": -0.32
     }
   },
   "gold": {
-    "price_usd": 4477.2,
-    "price_krw": 6026266,
-    "change": -14.5,
-    "change_pct": -0.32
+    "price_usd": 4429.8,
+    "price_krw": 5985102,
+    "change": -61.9,
+    "change_pct": -1.38
   },
-  "updated": "2026-09-05 07:50",
+  "updated": "2026-09-06 07:41",
   "error": null
 }
