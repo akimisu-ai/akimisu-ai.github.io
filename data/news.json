@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "\"4억이 6년만에 22억 됐다\"...300만 대란 '그 아파트' 또 난리 [부동산 아토즈]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571380"
-    },
-    {
-      "title": "올해 수출 7천억 달러 돌파...지난해 연간 기록 벌써 넘었다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264979"
-    },
-    {
-      "title": "김정관 \"현대제철 美제철소, 한미 모두에 '윈윈'\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328958"
-    },
-    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002403053"
+      "url": "https://n.news.naver.com/mnews/article/056/0012251967"
     },
     {
-      "title": "5일 여의도 밤하늘 밝힌다…제22회 서울세계불꽃축제",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190534"
+      "title": "“60년 모터 만들었다”… LG전자, ‘로봇 관절’ 빅테크 공급 눈앞",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871136"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/421/0009152761"
+      "title": "“철강 생산 못하면 강대국 될 수 없어” …美, 현대차그룹 투자 반겨",
+      "url": "https://n.news.naver.com/mnews/article/011/0004659064"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000509592"
+      "title": "SK그룹, 11일 울산포럼 개최...‘지역혁신’ 위한 AX 논의",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658969"
     },
     {
-      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016291390"
+      "title": "해수부, 추석 앞두고 수산물 원산지 특별점검",
+      "url": "https://n.news.naver.com/mnews/article/052/0002403363"
     },
     {
-      "title": "냉장고 옆에 전기차가… ‘가전쇼’에 車가 들어온 이유[IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190514"
+      "title": "첨단산업·대미 투자 수요에 국가보증채무 ‘눈덩이’ 될라",
+      "url": "https://n.news.naver.com/mnews/article/032/0003468782"
     },
     {
-      "title": "환율, 이번주 1300원 중반대 박스권…美물가에 촉각[주간외환전망]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364304"
+      "title": "민주당 “역대 최대 수출, 국민주권정부의 저력”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996871"
+    },
+    {
+      "title": "두산에너빌리티, 네팔 홍수 지역 헬기 수색 재개…\"하류 지역 집중 수색\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014172306"
+    },
+    {
+      "title": "미취학 아동 건물주 179명…젖먹이도 임대소득 1000만원 벌었다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549518"
+    },
+    {
+      "title": "2030년 '1000조 예산' 시대 온다…반도체 호황 꺾이면 '확장 재정' 부담",
+      "url": "https://n.news.naver.com/mnews/article/421/0009153967"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1351.1,
-      "change": -4.31,
-      "change_pct": -0.32
+      "value": 1345.56,
+      "change": -9.85,
+      "change_pct": -0.73
     }
   },
   "gold": {
-    "price_usd": 4429.8,
-    "price_krw": 5985102,
-    "change": -61.9,
-    "change_pct": -1.38
+    "price_usd": 4476.6,
+    "price_krw": 6023534,
+    "change": 46.8,
+    "change_pct": 1.06
   },
-  "updated": "2026-09-06 07:41",
+  "updated": "2026-09-07 07:44",
   "error": null
 }
