@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012251967"
+      "title": "성남 분당 아파트값 29.5% 급등… 강남 제치고 전국 상승률 1위 기록",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156906"
     },
     {
-      "title": "“60년 모터 만들었다”… LG전자, ‘로봇 관절’ 빅테크 공급 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/005/0001871136"
+      "title": "약 2년만에 환율 1,330원대…국민연금 환헤지 중단에 낙폭 반납",
+      "url": "https://n.news.naver.com/mnews/article/001/0016295003"
     },
     {
-      "title": "“철강 생산 못하면 강대국 될 수 없어” …美, 현대차그룹 투자 반겨",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659064"
+      "title": "한·미 합의점 찾은 대미투자펀드…韓 기술로 빅테크 전력난 푼다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329651"
     },
     {
-      "title": "SK그룹, 11일 울산포럼 개최...‘지역혁신’ 위한 AX 논의",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658969"
+      "title": "“AI가 美증시 요약하고 ETF 추천”…하나증권, 새 MTS ‘하나증권V’ 출시",
+      "url": "https://n.news.naver.com/mnews/article/138/0002240414"
     },
     {
-      "title": "해수부, 추석 앞두고 수산물 원산지 특별점검",
-      "url": "https://n.news.naver.com/mnews/article/052/0002403363"
+      "title": "약국에서 화장품 판다...무신사, 홍대에 '파머시 뷰티' 첫선",
+      "url": "https://n.news.naver.com/mnews/article/008/0005410170"
     },
     {
-      "title": "첨단산업·대미 투자 수요에 국가보증채무 ‘눈덩이’ 될라",
-      "url": "https://n.news.naver.com/mnews/article/032/0003468782"
+      "title": "반도체만 뜨겁고, 소비는 차가워···KDI “AI 투자가 끌어올린 경기, 가계까지 못 미쳤다”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003468930"
     },
     {
-      "title": "민주당 “역대 최대 수출, 국민주권정부의 저력”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996871"
+      "title": "고려아연 임시주총 D-1…국민연금 찬성에 경영권 수성 '전망'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014175219"
     },
     {
-      "title": "두산에너빌리티, 네팔 홍수 지역 헬기 수색 재개…\"하류 지역 집중 수색\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014172306"
+      "title": "은행, AI 전문가·경력직 선호… 신입 공채 ‘좁은 문’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004157087"
     },
     {
-      "title": "미취학 아동 건물주 179명…젖먹이도 임대소득 1000만원 벌었다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003549518"
+      "title": "올해 서울 주택 2만호 착공... 최근 3년 평균보다 35%↑",
+      "url": "https://n.news.naver.com/mnews/article/009/0005731452"
     },
     {
-      "title": "2030년 '1000조 예산' 시대 온다…반도체 호황 꺾이면 '확장 재정' 부담",
-      "url": "https://n.news.naver.com/mnews/article/421/0009153967"
+      "title": "서경배 아모레퍼시픽 회장 \"고객 변화 읽고 새 영역 개척해야\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000531379"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6687.21,
-      "change": 107.73,
-      "change_pct": 1.64
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 813.5,
-      "change": 23.29,
-      "change_pct": 2.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 26506.99,
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1345.56,
-      "change": -9.85,
-      "change_pct": -0.73
+      "value": 1345.01,
+      "change": -0.05,
+      "change_pct": -0.0
     }
   },
   "gold": {
-    "price_usd": 4476.6,
-    "price_krw": 6023534,
-    "change": 46.8,
-    "change_pct": 1.06
+    "price_usd": 4456.9,
+    "price_krw": 5994574,
+    "change": 27.1,
+    "change_pct": 0.61
   },
-  "updated": "2026-09-07 07:44",
+  "updated": "2026-09-08 08:19",
   "error": null
 }
