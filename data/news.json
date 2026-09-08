@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "성남 분당 아파트값 29.5% 급등… 강남 제치고 전국 상승률 1위 기록",
-      "url": "https://n.news.naver.com/mnews/article/022/0004156906"
+      "title": "새 지침이면 삼전 N% 성과급 요구 파업은 불법?…노동부 장관 “그렇다”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012252995"
     },
     {
-      "title": "약 2년만에 환율 1,330원대…국민연금 환헤지 중단에 낙폭 반납",
-      "url": "https://n.news.naver.com/mnews/article/001/0016295003"
+      "title": "HMM, 브라질 최대 광산업체와 4.7조 장기운송계약",
+      "url": "https://n.news.naver.com/mnews/article/014/0005572608"
     },
     {
-      "title": "한·미 합의점 찾은 대미투자펀드…韓 기술로 빅테크 전력난 푼다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329651"
+      "title": "한국투자증권, 퇴직연금 '개인투자용 국채' 출시… 9일부터 청약 접수",
+      "url": "https://n.news.naver.com/mnews/article/277/0005813317"
     },
     {
-      "title": "“AI가 美증시 요약하고 ETF 추천”…하나증권, 새 MTS ‘하나증권V’ 출시",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240414"
+      "title": "‘영끌족’ 상환 부담 커지나…주담대 연체 3년 반 새 2.2배 ‘폭발’",
+      "url": "https://n.news.naver.com/mnews/article/666/0000122378"
     },
     {
-      "title": "약국에서 화장품 판다...무신사, 홍대에 '파머시 뷰티' 첫선",
-      "url": "https://n.news.naver.com/mnews/article/008/0005410170"
+      "title": "중동 정세 격화에 다우 1.2%↓…국제유가도 100달러 육박(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016298555"
     },
     {
-      "title": "반도체만 뜨겁고, 소비는 차가워···KDI “AI 투자가 끌어올린 경기, 가계까지 못 미쳤다”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003468930"
+      "title": "아성다이소, 공정위 추가 현장조사 받아…부당 반품 등 혐의",
+      "url": "https://n.news.naver.com/mnews/article/629/0000531924"
     },
     {
-      "title": "고려아연 임시주총 D-1…국민연금 찬성에 경영권 수성 '전망'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014175219"
+      "title": "삼성전자, 요코하마에 첨단 패키징 연구소…3500억 투자",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265319"
     },
     {
-      "title": "은행, AI 전문가·경력직 선호… 신입 공채 ‘좁은 문’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004157087"
+      "title": "삼전, 일부 반도체 직원 '회사 주거지원금' 부정수급 의혹 조사 착수",
+      "url": "https://n.news.naver.com/mnews/article/079/0004187276"
     },
     {
-      "title": "올해 서울 주택 2만호 착공... 최근 3년 평균보다 35%↑",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731452"
+      "title": "“20년 살았으면 비워주세요”…오세훈 “연장은 없다”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006365583"
     },
     {
-      "title": "서경배 아모레퍼시픽 회장 \"고객 변화 읽고 새 영역 개척해야\"",
-      "url": "https://n.news.naver.com/mnews/article/629/0000531379"
+      "title": "LH, 서울 도심에 3년간 매입임대 2만 가구 공급",
+      "url": "https://n.news.naver.com/mnews/article/055/0001386747"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6687.21,
+      "value": 6995.39,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.5,
+      "value": 822.19,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26506.99,
-      "change": -77.07,
-      "change_pct": -0.29
+      "value": 26421.41,
+      "change": -85.58,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1345.01,
-      "change": -0.05,
-      "change_pct": -0.0
+      "value": 1340.55,
+      "change": -3.02,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4456.9,
-    "price_krw": 5994574,
-    "change": 27.1,
-    "change_pct": 0.61
+    "price_usd": 4396.6,
+    "price_krw": 5893862,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-08 08:19",
+  "updated": "2026-09-09 08:14",
   "error": null
 }
