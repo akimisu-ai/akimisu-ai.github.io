@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "새 지침이면 삼전 N% 성과급 요구 파업은 불법?…노동부 장관 “그렇다”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012252995"
+      "title": "김재원 의장 \"증명 넘어 성장의 10년으로\"…코스포 새 비전 발표",
+      "url": "https://n.news.naver.com/mnews/article/277/0005814226"
     },
     {
-      "title": "HMM, 브라질 최대 광산업체와 4.7조 장기운송계약",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572608"
+      "title": "약 배송 전면 확대 검토에 약사회 “인프라 없는 확대 철회해야”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012253954"
     },
     {
-      "title": "한국투자증권, 퇴직연금 '개인투자용 국채' 출시… 9일부터 청약 접수",
-      "url": "https://n.news.naver.com/mnews/article/277/0005813317"
+      "title": "증권사 2분기 순익 5.2兆 '사상 최대'…전년비 82% 급증",
+      "url": "https://n.news.naver.com/mnews/article/018/0006366565"
     },
     {
-      "title": "‘영끌족’ 상환 부담 커지나…주담대 연체 3년 반 새 2.2배 ‘폭발’",
-      "url": "https://n.news.naver.com/mnews/article/666/0000122378"
+      "title": "\"집 사느라 4조 끌어썼다\"..8월 주담대 '껑충', 금리 인상에 이자 부담 가중",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573241"
     },
     {
-      "title": "중동 정세 격화에 다우 1.2%↓…국제유가도 100달러 육박(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016298555"
+      "title": "삼성증권, 발행어음 시장 뛰어든다…금융위, 최종 인가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005330456"
     },
     {
-      "title": "아성다이소, 공정위 추가 현장조사 받아…부당 반품 등 혐의",
-      "url": "https://n.news.naver.com/mnews/article/629/0000531924"
+      "title": "강원지역 ATM기 3년 새 15% 넘게 감소",
+      "url": "https://n.news.naver.com/mnews/article/087/0001216831"
     },
     {
-      "title": "삼성전자, 요코하마에 첨단 패키징 연구소…3500억 투자",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265319"
+      "title": "국회·재계 상시협의체 출범… \"성장 동력 확보 총력전\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000953064"
     },
     {
-      "title": "삼전, 일부 반도체 직원 '회사 주거지원금' 부정수급 의혹 조사 착수",
-      "url": "https://n.news.naver.com/mnews/article/079/0004187276"
+      "title": "관세청, 할당관세제도 악용 5468억 규모 적발…탈세액 586억도",
+      "url": "https://n.news.naver.com/mnews/article/421/0009160297"
     },
     {
-      "title": "“20년 살았으면 비워주세요”…오세훈 “연장은 없다”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006365583"
+      "title": "금감원 \"보험사 CEO 평가때 장래 손실 가능성도 고려해야\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005330594"
     },
     {
-      "title": "LH, 서울 도심에 3년간 매입임대 2만 가구 공급",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386747"
+      "title": "SK하이닉스 곽노정 \"메모리 시장 '곡선도로'…고객 시선서 기회 찾아야\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001056695"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6995.39,
+      "value": 6954.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 822.19,
+      "value": 811.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26421.41,
-      "change": -85.58,
-      "change_pct": -0.32
+      "value": 26253.34,
+      "change": -168.07,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1340.55,
-      "change": -3.02,
-      "change_pct": -0.22
+      "value": 1339.45,
+      "change": 0.24,
+      "change_pct": 0.02
     }
   },
   "gold": {
-    "price_usd": 4396.6,
-    "price_krw": 5893862,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4444.5,
+    "price_krw": 5953185,
+    "change": 50.6,
+    "change_pct": 1.15
   },
-  "updated": "2026-09-09 08:14",
+  "updated": "2026-09-10 08:00",
   "error": null
 }
