@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "헬리녹스 웨어, 도산공원에 플래그십 스토어 오픈…글로벌 도약 발판",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240961"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002405885"
     },
     {
-      "title": "자산운용사 2분기 당기순익 2.7조원…굴리는 자산 2777조원으로↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005412320"
+      "title": "한빛 2호기, 40년 설계수명 만료에 가동 정지…“계속운전 신중해야”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003469845"
     },
     {
-      "title": "신동빈 \"AI로 경쟁력 강화해야\" … 롯데, AI디자인 플랫폼 만든다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005733475"
+      "title": "‘세대 교체’ 택한 KB금융, 차기 회장 후보에 이재근 … 양종희 연임 실패",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191852"
     },
     {
-      "title": "한은 “수도권 집값 뛰고 가계대출 증가… 금융 위험성 커져”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003747301"
+      "title": "고유가에 美 30년물 국채금리 18년만 최고…연준 금리인상 전망 강화",
+      "url": "https://n.news.naver.com/mnews/article/293/0000090315"
     },
     {
-      "title": "공정위, 대한항공 좌석유지 의무 완화 요청 기각 의견...조사방해 고발 추진",
-      "url": "https://n.news.naver.com/mnews/article/052/0002405239"
+      "title": "내년 세종 1300명 넘게 이주하는데…올 하반기·내년 입주 '0가구'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009164042"
     },
     {
-      "title": "민자고속도로 운영평가 최우수에 인천대교…우수 4곳",
-      "url": "https://n.news.naver.com/mnews/article/421/0009164059"
+      "title": "‘역대급 불장’에 자산운용사 2분기 순익 2.7조…전년比 83.4%↑",
+      "url": "https://n.news.naver.com/mnews/article/018/0006367345"
     },
     {
-      "title": "“안되는 것 빼고 다 됩니다”…텅빈 수도권 지산, 청년·신혼부부 보금자리로",
-      "url": "https://n.news.naver.com/mnews/article/009/0005733055"
+      "title": "LG AI연구원-국민연금, 기금운용 특화 AI 모델 개발 나선다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014185285"
     },
     {
-      "title": "한은 \"레버리지 ETF 투자 급증, 주가 변동성 확대에 영향\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001387294"
+      "title": "마이크론, 대만 직원들에 특별보상…신입급 1.4억원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016305032"
     },
     {
-      "title": "홈쇼핑 12개사 방미통위 재승인…현대홈쇼핑 평가점수 1위",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331061"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001387707"
     },
     {
-      "title": "HD현대重, 발전엔진·SMR 공장 구축에 1조 투자",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191556"
+      "title": "앤스로픽, 후티 반군 클로드로 유도 무기 개발 시도 의심",
+      "url": "https://n.news.naver.com/mnews/article/014/0005574672"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7051.64,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 830.37,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26081.72,
-      "change": -171.62,
-      "change_pct": -0.65
+      "value": 26333.04,
+      "change": 251.31,
+      "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1349.26,
-      "change": 10.05,
-      "change_pct": 0.75
+      "value": 1341.05,
+      "change": 1.88,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4357.6,
-    "price_krw": 5879535,
-    "change": -58.4,
-    "change_pct": -1.32
+    "price_usd": 4390.0,
+    "price_krw": 5887209,
+    "change": 25.5,
+    "change_pct": 0.58
   },
-  "updated": "2026-09-11 07:57",
+  "updated": "2026-09-12 08:02",
   "error": null
 }
