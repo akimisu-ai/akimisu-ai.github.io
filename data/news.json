@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
-      "url": "https://n.news.naver.com/mnews/article/001/0016306267"
+      "title": "두돌 안 된 아기도 금융소득 4000만원…'금수저' 미성년 1600명",
+      "url": "https://n.news.naver.com/mnews/article/421/0009166735"
     },
     {
-      "title": "클래리티법·금리 분수령…숨죽인 코인시장",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050709"
+      "title": "개미들 삼전닉스 13조 팔았다…'반도체 올인' 멈춘 이유",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368338"
     },
     {
-      "title": "국제유가, 호르무즈 협상 기대에 2%대 하락…여전히 100달러대",
-      "url": "https://n.news.naver.com/mnews/article/055/0001387731"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012255954"
+      "title": "[단독]농심 3세 신상열, 문유석 전 판사 딸과 화촉…재계 하객 발길",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368681"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002406287"
+      "url": "https://n.news.naver.com/mnews/article/469/0000953789"
     },
     {
-      "title": "KB금융 이사회의 '예상 밖 선택'…정부 지배구조 개혁 요구 의식했나",
-      "url": "https://n.news.naver.com/mnews/article/421/0009165996"
+      "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306203"
     },
     {
-      "title": "공모주 받았더니 하루 만에 '잭팟'…179% 폭등에 '들썩들썩'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331507"
+      "title": "롯데, KAIST에 100억 투자 R&D센터 준공",
+      "url": "https://n.news.naver.com/mnews/article/020/0003747748"
     },
     {
-      "title": "분리할 때도 '효율화', 합칠 때도 '효율화'…농협 하나로유통 12년 실험 왜 끝났나[농담]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005412717"
+      "title": "세대교체 택한 KB금융… ‘지주 회장 3연임 금지’ 규제 기조 변화 오나",
+      "url": "https://n.news.naver.com/mnews/article/005/0001872619"
     },
     {
-      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
-      "url": "https://n.news.naver.com/mnews/article/055/0001387807"
+      "title": "서울 아파트값 상승세, 역대 최장 기록 세우나…“83주째 올라”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001872480"
     },
     {
-      "title": "무신사는 왜 하필 'C뷰티'를 선택했을까",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050711"
+      "title": "공시가 30억, 비거주 1주택 내년 종부세 얼마?...'무려'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000532599"
+    },
+    {
+      "title": "'1주 하한가' 또 나올라… 한국거래소 밤 8시 거래, 유동성 숙제로",
+      "url": "https://n.news.naver.com/mnews/article/469/0000953711"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1341.05,
-      "change": -7.12,
-      "change_pct": -0.53
+      "value": 1342.97,
+      "change": -5.2,
+      "change_pct": -0.39
     }
   },
   "gold": {
-    "price_usd": 4366.2,
-    "price_krw": 5855292,
-    "change": 1.7,
-    "change_pct": 0.04
+    "price_usd": 4376.7,
+    "price_krw": 5877777,
+    "change": 10.5,
+    "change_pct": 0.24
   },
-  "updated": "2026-09-13 07:52",
+  "updated": "2026-09-14 07:57",
   "error": null
 }
