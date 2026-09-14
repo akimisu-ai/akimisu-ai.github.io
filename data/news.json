@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "두돌 안 된 아기도 금융소득 4000만원…'금수저' 미성년 1600명",
-      "url": "https://n.news.naver.com/mnews/article/421/0009166735"
+      "title": "서울 집값 '키 맞추기' 확산...성북 99%·광명 102% 수준",
+      "url": "https://n.news.naver.com/mnews/article/052/0002406668"
     },
     {
-      "title": "개미들 삼전닉스 13조 팔았다…'반도체 올인' 멈춘 이유",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368338"
+      "title": "오늘부터 KRX도 오후 8시까지 주식 거래…NXT와 야간시장 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/088/0001028231"
     },
     {
-      "title": "[단독]농심 3세 신상열, 문유석 전 판사 딸과 화촉…재계 하객 발길",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368681"
+      "title": "이재근 KB 회장 후보 \"금융 새 표준 만들 것...1등에 안주하지 않겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005575081"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/469/0000953789"
+      "title": "좌석 마음대로 붙이고 뗀다…기아 ‘PV7’ 세계 첫 공개",
+      "url": "https://n.news.naver.com/mnews/article/025/0003551266"
     },
     {
-      "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
-      "url": "https://n.news.naver.com/mnews/article/001/0016306203"
+      "title": "주식시장 애프터마켓 열리는 첫날, 일부 증권사 전산오류",
+      "url": "https://n.news.naver.com/mnews/article/032/0003470241"
     },
     {
-      "title": "롯데, KAIST에 100억 투자 R&D센터 준공",
-      "url": "https://n.news.naver.com/mnews/article/020/0003747748"
+      "title": "N%성과급·노봉법 파장…줄줄이 깨지는 '무분규 전통'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369274"
     },
     {
-      "title": "세대교체 택한 KB금융… ‘지주 회장 3연임 금지’ 규제 기조 변화 오나",
-      "url": "https://n.news.naver.com/mnews/article/005/0001872619"
+      "title": "국세청, 배민·무신사 등 조사…소비자에 원가 부담 전가 등 혐의",
+      "url": "https://n.news.naver.com/mnews/article/009/0005734926"
     },
     {
-      "title": "서울 아파트값 상승세, 역대 최장 기록 세우나…“83주째 올라”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001872480"
+      "title": "삼성전자·SK하이닉스, ‘전기료 25조 선납’ 한전 제안 거절",
+      "url": "https://n.news.naver.com/mnews/article/022/0004158743"
     },
     {
-      "title": "공시가 30억, 비거주 1주택 내년 종부세 얼마?...'무려'",
-      "url": "https://n.news.naver.com/mnews/article/374/0000532599"
+      "title": "디지털보험사, 수익성 개선 고삐…적자 폭 줄였다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003466616"
     },
     {
-      "title": "'1주 하한가' 또 나올라… 한국거래소 밤 8시 거래, 유동성 숙제로",
-      "url": "https://n.news.naver.com/mnews/article/469/0000953711"
+      "title": "“산업 난제 100건 이상 해결”…LG가 만든 ‘전문가 AI’ 보니",
+      "url": "https://n.news.naver.com/mnews/article/009/0005734758"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6909.91,
-      "change": -124.01,
-      "change_pct": -1.76
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 820.64,
-      "change": -16.28,
-      "change_pct": -1.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26333.04,
-      "change": 251.32,
-      "change_pct": 0.96
+      "value": 26186.41,
+      "change": -146.62,
+      "change_pct": -0.56
     },
     "usdkrw": {
-      "value": 1342.97,
-      "change": -5.2,
-      "change_pct": -0.39
+      "value": 1347.35,
+      "change": 2.71,
+      "change_pct": 0.2
     }
   },
   "gold": {
-    "price_usd": 4376.7,
-    "price_krw": 5877777,
-    "change": 10.5,
-    "change_pct": 0.24
+    "price_usd": 4329.1,
+    "price_krw": 5832813,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-14 07:57",
+  "updated": "2026-09-15 08:42",
   "error": null
 }
