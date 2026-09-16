@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000906316"
+      "title": "삼성 초기업노조 최승호, 조합비 카드혜택 개인귀속 의혹",
+      "url": "https://n.news.naver.com/mnews/article/422/0000906798"
     },
     {
-      "title": "'주담대 기준' 8월 코픽스 연 3.18% 유지‥상승세 일단 '주춤'",
-      "url": "https://n.news.naver.com/mnews/article/214/0001524066"
+      "title": "쿠팡, 소비자원 1인 10만원 배상안 거부…\"수용 어렵다\"",
+      "url": "https://n.news.naver.com/mnews/article/586/0000138320"
     },
     {
-      "title": "미 상원, 가상화폐 '클래리티법' 부결…트럼프 이해충돌이 '발목'",
-      "url": "https://n.news.naver.com/mnews/article/055/0001388592"
+      "title": "수출입은행장, 우즈벡 대통령과 양국 경제협력 논의",
+      "url": "https://n.news.naver.com/mnews/article/014/0005576951"
     },
     {
-      "title": "K자본시장 세계에 알린다…'코리아 프리미엄 위크' 개최",
-      "url": "https://n.news.naver.com/mnews/article/015/0005332613"
+      "title": "대미투자 막판 진통…힘 빠진 원전주",
+      "url": "https://n.news.naver.com/mnews/article/015/0005333108"
     },
     {
-      "title": "포스코·HD현대重 부분파업 확대하나..추석 전 타결 촉각",
-      "url": "https://n.news.naver.com/mnews/article/008/0005414038"
+      "title": "“전기·수소차는 상호보완 관계”…현대차그룹, 수소 생태계 화장",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662547"
     },
     {
-      "title": "美 장기채 금리, 금융위기 이후 최고…일제히 하락[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005816822"
+      "title": "목동 재건축 4곳 공략",
+      "url": "https://n.news.naver.com/mnews/article/020/0003748699"
     },
     {
-      "title": "환율 급락에 8월 수출물가 3.7% 하락",
-      "url": "https://n.news.naver.com/mnews/article/022/0004159272"
+      "title": "BNK금융, 회장·자회사 대표 승계 절차 개선…\"공정성 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016316347"
     },
     {
-      "title": "롯데카드, 382억원 중간배당 의결…주주환원 강화",
-      "url": "https://n.news.naver.com/mnews/article/014/0005576310"
+      "title": "대한항공, 보잉 항공기 103대 ‘60조 베팅’ 확정…통합 기단 새판 짠다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002697936"
     },
     {
-      "title": "은행장 인사 앞두고…이찬진 \"금융지주 자회사 CEO 승계 절차 미흡\" 직격",
-      "url": "https://n.news.naver.com/mnews/article/469/0000954151"
+      "title": "외신 “하이닉스, 인텔과 미국내 첫 메모리 공장 건설 논의중”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005736099"
     },
     {
-      "title": "“잃은거 겨우 복구했더니 세금 1000만원 내라뇨”…코인 투자자들 ‘눈물’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005735263"
+      "title": "TV 소프트웨어부터 콘텐트 제작까지…LG 개발자 1500명, AI 활용법 공유",
+      "url": "https://n.news.naver.com/mnews/article/025/0003551777"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6684.37,
+      "value": 6627.26,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 806.79,
+      "value": 812.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25981.57,
-      "change": -204.84,
-      "change_pct": -0.78
+      "value": 25978.42,
+      "change": -3.15,
+      "change_pct": -0.01
     },
     "usdkrw": {
-      "value": 1363.29,
-      "change": 17.68,
-      "change_pct": 1.31
+      "value": 1376.14,
+      "change": 12.57,
+      "change_pct": 0.92
     }
   },
   "gold": {
-    "price_usd": 4325.5,
-    "price_krw": 5896910,
-    "change": -26.4,
-    "change_pct": -0.61
+    "price_usd": 4309.7,
+    "price_krw": 5930750,
+    "change": -23.1,
+    "change_pct": -0.53
   },
-  "updated": "2026-09-16 08:26",
+  "updated": "2026-09-17 08:34",
   "error": null
 }
