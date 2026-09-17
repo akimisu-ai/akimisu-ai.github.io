@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성 초기업노조 최승호, 조합비 카드혜택 개인귀속 의혹",
-      "url": "https://n.news.naver.com/mnews/article/422/0000906798"
+      "title": "뉴욕증시, 금리인상 하루만에 반등 출발…S&P 1.1%↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014198319"
     },
     {
-      "title": "쿠팡, 소비자원 1인 10만원 배상안 거부…\"수용 어렵다\"",
-      "url": "https://n.news.naver.com/mnews/article/586/0000138320"
+      "title": "두산, 하이엔드 CCL에 9700억 투자",
+      "url": "https://n.news.naver.com/mnews/article/008/0005415569"
     },
     {
-      "title": "수출입은행장, 우즈벡 대통령과 양국 경제협력 논의",
-      "url": "https://n.news.naver.com/mnews/article/014/0005576951"
+      "title": "강남 아파트 낙폭 확대... 수원·동탄 등 삼성 사내대출 여파로 상승",
+      "url": "https://n.news.naver.com/mnews/article/023/0003998998"
     },
     {
-      "title": "대미투자 막판 진통…힘 빠진 원전주",
-      "url": "https://n.news.naver.com/mnews/article/015/0005333108"
+      "title": "메리츠, 발행어음 인가 눈앞 … 증선위 문턱 5개월만에 넘어",
+      "url": "https://n.news.naver.com/mnews/article/009/0005736888"
     },
     {
-      "title": "“전기·수소차는 상호보완 관계”…현대차그룹, 수소 생태계 화장",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662547"
+      "title": "국민성장펀드, 비수도권 투자지 1위는 '호남'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005577545"
     },
     {
-      "title": "목동 재건축 4곳 공략",
-      "url": "https://n.news.naver.com/mnews/article/020/0003748699"
+      "title": "류진 한경협 회장 “한미, 경제·기술 동맹으로”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003681453"
     },
     {
-      "title": "BNK금융, 회장·자회사 대표 승계 절차 개선…\"공정성 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016316347"
+      "title": "한화시스템, UAE 통합 대공망 구축 추진",
+      "url": "https://n.news.naver.com/mnews/article/015/0005333627"
     },
     {
-      "title": "대한항공, 보잉 항공기 103대 ‘60조 베팅’ 확정…통합 기단 새판 짠다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002697936"
+      "title": "구광모, LG 사장단에 “AI 승부처서 이기려면 빠른 속도·집요한 실행력 갖춰라”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002698586"
     },
     {
-      "title": "외신 “하이닉스, 인텔과 미국내 첫 메모리 공장 건설 논의중”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005736099"
+      "title": "금감원장 저격에 BNK금융, CEO 승계 절차 손질",
+      "url": "https://n.news.naver.com/mnews/article/138/0002241817"
     },
     {
-      "title": "TV 소프트웨어부터 콘텐트 제작까지…LG 개발자 1500명, AI 활용법 공유",
-      "url": "https://n.news.naver.com/mnews/article/025/0003551777"
+      "title": "SK바이오팜, 파킨슨병 신약 후보물질 도입 '최대 4300억'",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050867"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6627.26,
+      "value": 6717.97,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 812.41,
+      "value": 815.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25978.42,
-      "change": -3.15,
-      "change_pct": -0.01
+      "value": 26418.3,
+      "change": 439.87,
+      "change_pct": 1.69
     },
     "usdkrw": {
-      "value": 1376.14,
-      "change": 12.57,
-      "change_pct": 0.92
+      "value": 1380.36,
+      "change": 3.76,
+      "change_pct": 0.27
     }
   },
   "gold": {
-    "price_usd": 4309.7,
-    "price_krw": 5930750,
-    "change": -23.1,
-    "change_pct": -0.53
+    "price_usd": 4383.6,
+    "price_krw": 6050946,
+    "change": -3.9,
+    "change_pct": -0.09
   },
-  "updated": "2026-09-17 08:34",
+  "updated": "2026-09-18 08:25",
   "error": null
 }
