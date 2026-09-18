@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "뉴욕증시, 금리인상 하루만에 반등 출발…S&P 1.1%↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014198319"
+      "title": "\"中 전기차 저가 공세 본격화...韓 전기차산업 대응 마련 시급\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005415699"
     },
     {
-      "title": "두산, 하이엔드 CCL에 9700억 투자",
-      "url": "https://n.news.naver.com/mnews/article/008/0005415569"
+      "title": "추석 고속도로 주유소 기름값 100원 내린다…24~27일 할인",
+      "url": "https://n.news.naver.com/mnews/article/057/0001969647"
     },
     {
-      "title": "강남 아파트 낙폭 확대... 수원·동탄 등 삼성 사내대출 여파로 상승",
-      "url": "https://n.news.naver.com/mnews/article/023/0003998998"
+      "title": "하나금융, ADGM·한화자산운용과 스테이블코인 협력",
+      "url": "https://n.news.naver.com/mnews/article/001/0016320428"
     },
     {
-      "title": "메리츠, 발행어음 인가 눈앞 … 증선위 문턱 5개월만에 넘어",
-      "url": "https://n.news.naver.com/mnews/article/009/0005736888"
+      "title": "석탄발전 21기 2039년까지 조기 폐지…석탄발전 자리에 SMR도 검토",
+      "url": "https://n.news.naver.com/mnews/article/422/0000907469"
     },
     {
-      "title": "국민성장펀드, 비수도권 투자지 1위는 '호남'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005577545"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012260140"
     },
     {
-      "title": "류진 한경협 회장 “한미, 경제·기술 동맹으로”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003681453"
+      "title": "유류세 인하 11월 말까지 두 달 연장…“서민 유류비 부담 완화”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003552313"
     },
     {
-      "title": "한화시스템, UAE 통합 대공망 구축 추진",
-      "url": "https://n.news.naver.com/mnews/article/015/0005333627"
+      "title": "SK 손자회사 솔리다임, 미국 내 첫 낸드 생산공장 검토",
+      "url": "https://n.news.naver.com/mnews/article/005/0001873888"
     },
     {
-      "title": "구광모, LG 사장단에 “AI 승부처서 이기려면 빠른 속도·집요한 실행력 갖춰라”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002698586"
+      "title": "국제유가 ↓· 기술주 ↑…S&P500·나스닥 1%대 ↑[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818124"
     },
     {
-      "title": "금감원장 저격에 BNK금융, CEO 승계 절차 손질",
-      "url": "https://n.news.naver.com/mnews/article/138/0002241817"
+      "title": "\"시세보다 싸길래 봤더니\"…부동산 온라인 불법 광고 1만412건",
+      "url": "https://n.news.naver.com/mnews/article/629/0000535172"
     },
     {
-      "title": "SK바이오팜, 파킨슨병 신약 후보물질 도입 '최대 4300억'",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050867"
+      "title": "작년 공공부문 83.1조 적자 '역대 최대'…소비쿠폰 지급 등 영향",
+      "url": "https://n.news.naver.com/mnews/article/003/0014199514"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6717.97,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 815.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26418.3,
-      "change": 439.87,
-      "change_pct": 1.69
+      "value": 26522.54,
+      "change": 104.24,
+      "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1380.36,
-      "change": 3.76,
-      "change_pct": 0.27
+      "value": 1385.95,
+      "change": 9.35,
+      "change_pct": 0.68
     }
   },
   "gold": {
-    "price_usd": 4383.6,
-    "price_krw": 6050946,
-    "change": -3.9,
-    "change_pct": -0.09
+    "price_usd": 4415.9,
+    "price_krw": 6120216,
+    "change": 16.2,
+    "change_pct": 0.37
   },
-  "updated": "2026-09-18 08:25",
+  "updated": "2026-09-19 08:05",
   "error": null
 }
