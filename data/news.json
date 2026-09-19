@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "\"中 전기차 저가 공세 본격화...韓 전기차산업 대응 마련 시급\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005415699"
+      "title": "국힘, 국감 앞두고 레버리지ETF·농지전수조사 부각…특검 추진도",
+      "url": "https://n.news.naver.com/mnews/article/003/0014201945"
     },
     {
-      "title": "추석 고속도로 주유소 기름값 100원 내린다…24~27일 할인",
-      "url": "https://n.news.naver.com/mnews/article/057/0001969647"
-    },
-    {
-      "title": "하나금융, ADGM·한화자산운용과 스테이블코인 협력",
-      "url": "https://n.news.naver.com/mnews/article/001/0016320428"
-    },
-    {
-      "title": "석탄발전 21기 2039년까지 조기 폐지…석탄발전 자리에 SMR도 검토",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907469"
+      "title": "인천 강화 소 농장에서 구제역 확진…올해 13번째",
+      "url": "https://n.news.naver.com/mnews/article/056/0012260564"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012260140"
+      "url": "https://n.news.naver.com/mnews/article/422/0000907860"
     },
     {
-      "title": "유류세 인하 11월 말까지 두 달 연장…“서민 유류비 부담 완화”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003552313"
+      "title": "삼성 초기업노조, 반도체 직원만 가입…완제품 부문 간부 2명 불신임",
+      "url": "https://n.news.naver.com/mnews/article/025/0003552528"
     },
     {
-      "title": "SK 손자회사 솔리다임, 미국 내 첫 낸드 생산공장 검토",
-      "url": "https://n.news.naver.com/mnews/article/005/0001873888"
+      "title": "\"AI·반도체 주도주 2개면 충분\"…압축형 상품 '봇물' [이수의 ETF줌인]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334132"
     },
     {
-      "title": "국제유가 ↓· 기술주 ↑…S&P500·나스닥 1%대 ↑[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818124"
+      "title": "매파 FOMC에도 버틴 코스피…외국인 돌아오며 6900선 눈앞 [선데이 머니카페]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663630"
     },
     {
-      "title": "\"시세보다 싸길래 봤더니\"…부동산 온라인 불법 광고 1만412건",
-      "url": "https://n.news.naver.com/mnews/article/629/0000535172"
+      "title": "선물세트부터 식재료까지…막바지 추석 할인[주말e커머스]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014200867"
     },
     {
-      "title": "작년 공공부문 83.1조 적자 '역대 최대'…소비쿠폰 지급 등 영향",
-      "url": "https://n.news.naver.com/mnews/article/003/0014199514"
+      "title": "“이미 7%인데 여기서 더 뛰면”…연준 금리 인상에 영끌족 ‘눈물’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003048892"
+    },
+    {
+      "title": "“호재는 모른 척, 악재엔 곱절로 반응하더니”…코스피, 요즘 달라졌습니다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005737548"
+    },
+    {
+      "title": "美 클래리티법 좌초에 비트코인 하락…가상자산 미래는[주末머니]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818684"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6894.23,
+      "change": 178.82,
+      "change_pct": 2.66
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 827.12,
+      "change": 4.94,
+      "change_pct": 0.6
     },
     "nasdaq": {
       "value": 26522.54,
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.95,
-      "change": 9.35,
-      "change_pct": 0.68
+      "value": 1385.0,
+      "change": 5.47,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4415.9,
-    "price_krw": 6120216,
-    "change": 16.2,
-    "change_pct": 0.37
+    "price_usd": 4424.9,
+    "price_krw": 6128486,
+    "change": 25.2,
+    "change_pct": 0.57
   },
-  "updated": "2026-09-19 08:05",
+  "updated": "2026-09-20 07:42",
   "error": null
 }
