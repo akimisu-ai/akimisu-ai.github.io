@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "국힘, 국감 앞두고 레버리지ETF·농지전수조사 부각…특검 추진도",
-      "url": "https://n.news.naver.com/mnews/article/003/0014201945"
+      "title": "서울시 '찾아가는 신속통합기획 전시'…건축모형으로 주민 이해↑",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818944"
     },
     {
-      "title": "인천 강화 소 농장에서 구제역 확진…올해 13번째",
-      "url": "https://n.news.naver.com/mnews/article/056/0012260564"
+      "title": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
+      "url": "https://n.news.naver.com/mnews/article/001/0016322998"
+    },
+    {
+      "title": "호반건설, 올해 도시정비사업 '1조 클럽' 달성",
+      "url": "https://n.news.naver.com/mnews/article/629/0000535483"
+    },
+    {
+      "title": "쿠팡, 인천 물류센터 화재 피해 주민·지역에 45억원 지원",
+      "url": "https://n.news.naver.com/mnews/article/032/0003471513"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907860"
+      "url": "https://n.news.naver.com/mnews/article/052/0002409310"
     },
     {
-      "title": "삼성 초기업노조, 반도체 직원만 가입…완제품 부문 간부 2명 불신임",
-      "url": "https://n.news.naver.com/mnews/article/025/0003552528"
+      "title": "'개점 10돌' 대구신세계, 패션·리빙 키운다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006372816"
     },
     {
-      "title": "\"AI·반도체 주도주 2개면 충분\"…압축형 상품 '봇물' [이수의 ETF줌인]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005334132"
+      "title": "폭염 등 피해복구비 305억 추석前 지급 외[이코노 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004160560"
     },
     {
-      "title": "매파 FOMC에도 버틴 코스피…외국인 돌아오며 6900선 눈앞 [선데이 머니카페]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663630"
+      "title": "추석길 '간단 한 끼' 옛말…휴게소 먹거리 줄인상",
+      "url": "https://n.news.naver.com/mnews/article/374/0000533933"
     },
     {
-      "title": "선물세트부터 식재료까지…막바지 추석 할인[주말e커머스]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014200867"
+      "title": "추석 귀성길 얼마나 걸릴까?…연휴 첫날 오전 '가장 혼잡'",
+      "url": "https://n.news.naver.com/mnews/article/057/0001969899"
     },
     {
-      "title": "“이미 7%인데 여기서 더 뛰면”…연준 금리 인상에 영끌족 ‘눈물’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003048892"
-    },
-    {
-      "title": "“호재는 모른 척, 악재엔 곱절로 반응하더니”…코스피, 요즘 달라졌습니다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005737548"
-    },
-    {
-      "title": "美 클래리티법 좌초에 비트코인 하락…가상자산 미래는[주末머니]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818684"
+      "title": "상반기 임금 3.1% 올랐지만…인상분 32%는 반도체 성과급 영향",
+      "url": "https://n.news.naver.com/mnews/article/001/0016323418"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.0,
-      "change": 5.47,
-      "change_pct": 0.4
+      "value": 1385.53,
+      "change": 6.0,
+      "change_pct": 0.43
     }
   },
   "gold": {
-    "price_usd": 4424.9,
-    "price_krw": 6128486,
-    "change": 25.2,
-    "change_pct": 0.57
+    "price_usd": 4412.7,
+    "price_krw": 6113928,
+    "change": -12.2,
+    "change_pct": -0.28
   },
-  "updated": "2026-09-20 07:42",
+  "updated": "2026-09-21 08:03",
   "error": null
 }
