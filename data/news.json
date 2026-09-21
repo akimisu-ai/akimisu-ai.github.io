@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "서울시 '찾아가는 신속통합기획 전시'…건축모형으로 주민 이해↑",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818944"
+      "title": "도심 공공주택 복합사업 첫 철거…방학역 일대 5년 만에 사업 본격화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009184317"
     },
     {
-      "title": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
-      "url": "https://n.news.naver.com/mnews/article/001/0016322998"
+      "title": "HL만도, 유족·대책위에 가로막혀 기자회견장 진입 못 해…사과·안전대책 회견 무산",
+      "url": "https://n.news.naver.com/mnews/article/014/0005579156"
     },
     {
-      "title": "호반건설, 올해 도시정비사업 '1조 클럽' 달성",
-      "url": "https://n.news.naver.com/mnews/article/629/0000535483"
+      "title": "\"우량주 두고 탈출\"…월가 거물 '韓 주식판' 경고 보니",
+      "url": "https://n.news.naver.com/mnews/article/018/0006374015"
     },
     {
-      "title": "쿠팡, 인천 물류센터 화재 피해 주민·지역에 45억원 지원",
-      "url": "https://n.news.naver.com/mnews/article/032/0003471513"
+      "title": "LG디스플레이, 24.5인치 720㎐ 게이밍 OLED 출시…e스포츠 공략",
+      "url": "https://n.news.naver.com/mnews/article/421/0009182539"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002409310"
+      "title": "aT, 올해 추석 차례상 차림 비용은 평균 19만6000원",
+      "url": "https://n.news.naver.com/mnews/article/008/0005416554"
     },
     {
-      "title": "'개점 10돌' 대구신세계, 패션·리빙 키운다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006372816"
+      "title": "원/달러 환율, 8거래일 만에 하락…2.3원 내린 1,381.0원",
+      "url": "https://n.news.naver.com/mnews/article/055/0001390060"
     },
     {
-      "title": "폭염 등 피해복구비 305억 추석前 지급 외[이코노 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004160560"
+      "title": "삼성전자, 광주에 플랙트 HVAC 생산라인 착공…AI 데이터센터 냉각시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663958"
     },
     {
-      "title": "추석길 '간단 한 끼' 옛말…휴게소 먹거리 줄인상",
-      "url": "https://n.news.naver.com/mnews/article/374/0000533933"
+      "title": "최태원 \"AI 활용해 우리 사회 비용 낮춰야\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334822"
     },
     {
-      "title": "추석 귀성길 얼마나 걸릴까?…연휴 첫날 오전 '가장 혼잡'",
-      "url": "https://n.news.naver.com/mnews/article/057/0001969899"
+      "title": "정점식 “가상자산 과세 서두르면 청년 투자자에 부담”…재검토 촉구",
+      "url": "https://n.news.naver.com/mnews/article/138/0002242243"
     },
     {
-      "title": "상반기 임금 3.1% 올랐지만…인상분 32%는 반도체 성과급 영향",
-      "url": "https://n.news.naver.com/mnews/article/001/0016323418"
+      "title": "“기업들 현장조사 거부하면 고발”…공정위원장, 강경대응 예고",
+      "url": "https://n.news.naver.com/mnews/article/009/0005738666"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6894.23,
-      "change": 178.82,
-      "change_pct": 2.66
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 827.12,
-      "change": 4.94,
-      "change_pct": 0.6
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26522.54,
-      "change": 104.24,
-      "change_pct": 0.39
+      "value": 27122.09,
+      "change": 599.55,
+      "change_pct": 2.26
     },
     "usdkrw": {
-      "value": 1385.53,
-      "change": 6.0,
-      "change_pct": 0.43
+      "value": 1374.39,
+      "change": -10.47,
+      "change_pct": -0.76
     }
   },
   "gold": {
-    "price_usd": 4412.7,
-    "price_krw": 6113928,
-    "change": -12.2,
-    "change_pct": -0.28
+    "price_usd": 4404.2,
+    "price_krw": 6053088,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-21 08:03",
+  "updated": "2026-09-22 08:53",
   "error": null
 }
