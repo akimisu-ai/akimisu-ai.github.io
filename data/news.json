@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "7년 기다린 접는 아이폰…‘애플답다’지만 329만원의 벽 [핫 IT(잇)슈]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004161996"
+      "title": "\"뮤즈가 살렸다\" 280만 열광 낙관론 vs \"10억명 사망\" 비관론",
+      "url": "https://n.news.naver.com/mnews/article/008/0005418714"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000909783"
+      "title": "‘1980년생 이하’ 등 채용 기준 논란…한화에어로 이부환 대표 공식 사과",
+      "url": "https://n.news.naver.com/mnews/article/050/0000111345"
     },
     {
-      "title": "환율 하락에 항공주는 웃고 해운주 울고…식음료는 딜레마",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336810"
+      "title": "美는 물가, 中은 경기…글로벌 증시 변수 쏟아진다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336256"
     },
     {
-      "title": "연휴 뒤 3분기 실적 시즌…삼전닉스 영업이익 190조 전망",
-      "url": "https://n.news.naver.com/mnews/article/421/0009192878"
+      "title": "당첨되면 10억 번다…과천·서울 '무순위 청약' 어디?",
+      "url": "https://n.news.naver.com/mnews/article/448/0000641695"
     },
     {
-      "title": "美 국채 금리 5%대 시대…\"시장 근본적 변화, 뉴 노멀로\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336624"
+      "title": "“둘 중 하나는 땅을 쳤다”…외국인은 ‘레버리지’ 개미는 ‘곱버스’ 베팅",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740229"
     },
     {
-      "title": "달러 팔고 엔화로…은행 돈 흐름 확 바뀌었다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534904"
+      "title": "최태원 “韓·멕시코, 기술·제조 역량 합쳐 공동 성장해야”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194550"
     },
     {
-      "title": "명절 앞둔 원산지 표시위반 단속서 최다적발은 '김치·돼지고기'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336707"
+      "title": "반도체가 끌어올린 건설공사…2분기 계약액 27% 늘어 80조원대",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376072"
     },
     {
-      "title": "코스피 30% 반등했지만…ETF 투자자, 지수형 30% 반도체 80% 물렸다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005740172"
+      "title": "초과 세수 50조 넘는다…'200조' 미래대응기금에 '나랏빚 상환' 논란",
+      "url": "https://n.news.naver.com/mnews/article/469/0000956145"
     },
     {
-      "title": "고유가로 여행심리 위축됐지만…일본·중국 여객 20%대↑",
-      "url": "https://n.news.naver.com/mnews/article/422/0000909748"
+      "title": "더 싼 금리 찾아 갈아타는데…은행 16곳 중 11곳서 대환대출이 신규대출 금리 웃돌아",
+      "url": "https://n.news.naver.com/mnews/article/023/0004000515"
     },
     {
-      "title": "美 금리인상에도 비트코인 가격 상승 왜?…8개월 만에 최고점",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750688"
+      "title": "방방곡곡 K푸드!",
+      "url": "https://n.news.naver.com/mnews/article/081/0003683815"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1354.4,
-      "change": -12.96,
-      "change_pct": -0.95
+      "value": 1354.9,
+      "change": -12.46,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4321.2,
-    "price_krw": 5852633,
-    "change": 23.2,
-    "change_pct": 0.54
+    "price_usd": 4296.2,
+    "price_krw": 5820921,
+    "change": -25.0,
+    "change_pct": -0.58
   },
-  "updated": "2026-09-27 08:24",
+  "updated": "2026-09-28 08:41",
   "error": null
 }
