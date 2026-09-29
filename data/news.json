@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"뮤즈가 살렸다\" 280만 열광 낙관론 vs \"10억명 사망\" 비관론",
-      "url": "https://n.news.naver.com/mnews/article/008/0005418714"
+      "title": "진보당 경남도당 “국민의힘, 농지전수조사 규제 완화 시도 중단하라”",
+      "url": "https://n.news.naver.com/mnews/article/003/0014219013"
     },
     {
-      "title": "‘1980년생 이하’ 등 채용 기준 논란…한화에어로 이부환 대표 공식 사과",
-      "url": "https://n.news.naver.com/mnews/article/050/0000111345"
+      "title": "뉴욕 증시, 美의 이란 ‘7일 계획’ 거부에 동반 하락...국채 30년물 금리 22년 만에 최고 [데일리국제금융]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666167"
     },
     {
-      "title": "美는 물가, 中은 경기…글로벌 증시 변수 쏟아진다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336256"
+      "title": "\"건국 이래 처음\" 은행 영업시간 30분 단축, 금융노사 잠정합의",
+      "url": "https://n.news.naver.com/mnews/article/088/0001031020"
     },
     {
-      "title": "당첨되면 10억 번다…과천·서울 '무순위 청약' 어디?",
-      "url": "https://n.news.naver.com/mnews/article/448/0000641695"
+      "title": "전세 씨 마른 대학가…직장인까지 몰리며 원룸 월세 '껑충'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014219339"
     },
     {
-      "title": "“둘 중 하나는 땅을 쳤다”…외국인은 ‘레버리지’ 개미는 ‘곱버스’ 베팅",
-      "url": "https://n.news.naver.com/mnews/article/009/0005740229"
+      "title": "에너지 공급망 불안에 '수소' 재조명…거꾸로 가는 韓 '지원 축소'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009194460"
     },
     {
-      "title": "최태원 “韓·멕시코, 기술·제조 역량 합쳐 공동 성장해야”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194550"
+      "title": "해수부, CPTPP 가입 검토 앞두고 어업인 의견 듣는다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014217104"
     },
     {
-      "title": "반도체가 끌어올린 건설공사…2분기 계약액 27% 늘어 80조원대",
-      "url": "https://n.news.naver.com/mnews/article/018/0006376072"
+      "title": "상반기 금융민원 처리 8만건 육박…분쟁 처리 89%가 보험",
+      "url": "https://n.news.naver.com/mnews/article/277/0005821789"
     },
     {
-      "title": "초과 세수 50조 넘는다…'200조' 미래대응기금에 '나랏빚 상환' 논란",
-      "url": "https://n.news.naver.com/mnews/article/469/0000956145"
+      "title": "5년 내 두 번 담합하면 영업정지…17개 업종 '시장퇴출' 제재",
+      "url": "https://n.news.naver.com/mnews/article/030/0003470201"
     },
     {
-      "title": "더 싼 금리 찾아 갈아타는데…은행 16곳 중 11곳서 대환대출이 신규대출 금리 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/023/0004000515"
+      "title": "모아주택 1호 입주 시작, 2031년까지 4만호 착공",
+      "url": "https://n.news.naver.com/mnews/article/079/0004193216"
     },
     {
-      "title": "방방곡곡 K푸드!",
-      "url": "https://n.news.naver.com/mnews/article/081/0003683815"
+      "title": "공정위, 명륜당·이종근 회장 고발…과징금 총 148억원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016340452"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7080.92,
-      "change": 63.01,
-      "change_pct": 0.9
+      "value": 6879.08,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 844.48,
-      "change": 10.1,
-      "change_pct": 1.21
+      "value": 842.97,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27068.72,
-      "change": 129.35,
-      "change_pct": 0.48
+      "value": 26820.38,
+      "change": -248.34,
+      "change_pct": -0.92
     },
     "usdkrw": {
-      "value": 1354.9,
-      "change": -12.46,
-      "change_pct": -0.91
+      "value": 1360.88,
+      "change": 6.37,
+      "change_pct": 0.47
     }
   },
   "gold": {
-    "price_usd": 4296.2,
-    "price_krw": 5820921,
-    "change": -25.0,
-    "change_pct": -0.58
+    "price_usd": 4155.0,
+    "price_krw": 5654456,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-28 08:41",
+  "updated": "2026-09-29 09:51",
   "error": null
 }
