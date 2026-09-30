@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "진보당 경남도당 “국민의힘, 농지전수조사 규제 완화 시도 중단하라”",
-      "url": "https://n.news.naver.com/mnews/article/003/0014219013"
+      "title": "젠슨 황과 뉴욕서 다시 뭉친 이재용·최태원…\"진정한 동반자\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016342659"
     },
     {
-      "title": "뉴욕 증시, 美의 이란 ‘7일 계획’ 거부에 동반 하락...국채 30년물 금리 22년 만에 최고 [데일리국제금융]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666167"
+      "title": "주병기 공정위원장, 쿠팡 현장조사 집행정지 기각한 법원에 “경제적 약자 권익에 손 들어준 것 매우 다행”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004000971"
     },
     {
-      "title": "\"건국 이래 처음\" 은행 영업시간 30분 단축, 금융노사 잠정합의",
-      "url": "https://n.news.naver.com/mnews/article/088/0001031020"
+      "title": "ISA 가입자 1천만명 돌파 … 국민절세계좌 인기몰이",
+      "url": "https://n.news.naver.com/mnews/article/009/0005741554"
     },
     {
-      "title": "전세 씨 마른 대학가…직장인까지 몰리며 원룸 월세 '껑충'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014219339"
+      "title": "자사주 거의 다 샀고 … 삼전닉스 주가는요?",
+      "url": "https://n.news.naver.com/mnews/article/009/0005741583"
     },
     {
-      "title": "에너지 공급망 불안에 '수소' 재조명…거꾸로 가는 韓 '지원 축소'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009194460"
+      "title": "'2030년 재생에너지 100GW' 위해 기존 전력망 더 연다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016343180"
     },
     {
-      "title": "해수부, CPTPP 가입 검토 앞두고 어업인 의견 듣는다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014217104"
+      "title": "청년 10명 중 8명 \"정년연장 시 신규 채용 감소 우려\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000910785"
     },
     {
-      "title": "상반기 금융민원 처리 8만건 육박…분쟁 처리 89%가 보험",
-      "url": "https://n.news.naver.com/mnews/article/277/0005821789"
+      "title": "삼성 6개사, 美 AI 인프라기업 ‘헬릭스’에 1.3조원 투자",
+      "url": "https://n.news.naver.com/mnews/article/020/0003751329"
     },
     {
-      "title": "5년 내 두 번 담합하면 영업정지…17개 업종 '시장퇴출' 제재",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470201"
+      "title": "\"아침 9시 고객 많지 않다\" 은행 문 30분 늦게...출근도 늦춰질 듯",
+      "url": "https://n.news.naver.com/mnews/article/008/0005419866"
     },
     {
-      "title": "모아주택 1호 입주 시작, 2031년까지 4만호 착공",
-      "url": "https://n.news.naver.com/mnews/article/079/0004193216"
+      "title": "김창수 전 중앙대 총장, 사학연금공단 이사장 취임",
+      "url": "https://n.news.naver.com/mnews/article/277/0005822471"
     },
     {
-      "title": "공정위, 명륜당·이종근 회장 고발…과징금 총 148억원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016340452"
+      "title": "정부, 부동산 세제 특례 조인다...일시적 2주택 처분기한 단축",
+      "url": "https://n.news.naver.com/mnews/article/666/0000125338"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6879.08,
+      "value": 6870.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 842.97,
+      "value": 849.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26820.38,
-      "change": -248.34,
-      "change_pct": -0.92
+      "value": 26797.54,
+      "change": -22.84,
+      "change_pct": -0.09
     },
     "usdkrw": {
-      "value": 1360.88,
-      "change": 6.37,
-      "change_pct": 0.47
+      "value": 1351.88,
+      "change": -7.68,
+      "change_pct": -0.56
     }
   },
   "gold": {
-    "price_usd": 4155.0,
-    "price_krw": 5654456,
+    "price_usd": 4219.7,
+    "price_krw": 5704528,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-09-29 09:51",
+  "updated": "2026-09-30 09:06",
   "error": null
 }
