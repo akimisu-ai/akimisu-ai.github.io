@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "젠슨 황과 뉴욕서 다시 뭉친 이재용·최태원…\"진정한 동반자\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016342659"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000911422"
     },
     {
-      "title": "주병기 공정위원장, 쿠팡 현장조사 집행정지 기각한 법원에 “경제적 약자 권익에 손 들어준 것 매우 다행”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004000971"
+      "title": "“1인 1실·장어 특식까지”…현대차그룹 정의선 회장, 양궁대표팀 밀착 지원",
+      "url": "https://n.news.naver.com/mnews/article/009/0005741860"
     },
     {
-      "title": "ISA 가입자 1천만명 돌파 … 국민절세계좌 인기몰이",
-      "url": "https://n.news.naver.com/mnews/article/009/0005741554"
+      "title": "역대급 세수에 '미래대응기금' 200조원 넘길까(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016347708"
     },
     {
-      "title": "자사주 거의 다 샀고 … 삼전닉스 주가는요?",
-      "url": "https://n.news.naver.com/mnews/article/009/0005741583"
+      "title": "2차 국민참여성장펀드 첫날 2000억대 팔려 ‘흥행’…모집액 36% 소진",
+      "url": "https://n.news.naver.com/mnews/article/005/0001876014"
     },
     {
-      "title": "'2030년 재생에너지 100GW' 위해 기존 전력망 더 연다",
-      "url": "https://n.news.naver.com/mnews/article/001/0016343180"
+      "title": "현대모비스, 램프사업부 매각…佛 OP모빌리티와 계약 체결 [시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666973"
     },
     {
-      "title": "청년 10명 중 8명 \"정년연장 시 신규 채용 감소 우려\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000910785"
+      "title": "국내 민간 기업 최초 해외 LNG 개발·생산…매년 130만t 확보로 에너지 안보 교두보 ‘우뚝’ [호주 다윈 LNG 터미널을 가다]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002703836"
     },
     {
-      "title": "삼성 6개사, 美 AI 인프라기업 ‘헬릭스’에 1.3조원 투자",
-      "url": "https://n.news.naver.com/mnews/article/020/0003751329"
+      "title": "우리금융, 차기 은행장 승계절차 착수⋯'은행 임추위' 권한 강화",
+      "url": "https://n.news.naver.com/mnews/article/031/0001062512"
     },
     {
-      "title": "\"아침 9시 고객 많지 않다\" 은행 문 30분 늦게...출근도 늦춰질 듯",
-      "url": "https://n.news.naver.com/mnews/article/008/0005419866"
+      "title": "뷰익, 한국 상륙 이어 전국 공략…서울·부산·하남·대전서 E7 띄운다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005583364"
     },
     {
-      "title": "김창수 전 중앙대 총장, 사학연금공단 이사장 취임",
-      "url": "https://n.news.naver.com/mnews/article/277/0005822471"
+      "title": "동원, 참존 인수 추진…K뷰티 새 먹거리 키운다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006377947"
     },
     {
-      "title": "정부, 부동산 세제 특례 조인다...일시적 2주택 처분기한 단축",
-      "url": "https://n.news.naver.com/mnews/article/666/0000125338"
+      "title": "SFA, 레인보우로보틱스와 로봇 기술 공동 개발 맞손",
+      "url": "https://n.news.naver.com/mnews/article/030/0003471059"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6870.81,
+      "value": 6787.99,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 849.8,
+      "value": 856.21,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26797.54,
-      "change": -22.84,
-      "change_pct": -0.09
+      "value": 26861.06,
+      "change": 63.53,
+      "change_pct": 0.24
     },
     "usdkrw": {
-      "value": 1351.88,
-      "change": -7.68,
-      "change_pct": -0.56
+      "value": 1358.28,
+      "change": 7.78,
+      "change_pct": 0.58
     }
   },
   "gold": {
-    "price_usd": 4219.7,
-    "price_krw": 5704528,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4182.2,
+    "price_krw": 5680598,
+    "change": 2.5,
+    "change_pct": 0.06
   },
-  "updated": "2026-09-30 09:06",
+  "updated": "2026-10-01 09:24",
   "error": null
 }
