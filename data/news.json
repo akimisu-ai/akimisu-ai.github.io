@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "SK하이닉스, 솔리다임 미국 상장설에 “확정된 것 없다”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012266202"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000911422"
+      "url": "https://n.news.naver.com/mnews/article/052/0002413235"
     },
     {
-      "title": "“1인 1실·장어 특식까지”…현대차그룹 정의선 회장, 양궁대표팀 밀착 지원",
-      "url": "https://n.news.naver.com/mnews/article/009/0005741860"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002413665"
     },
     {
-      "title": "역대급 세수에 '미래대응기금' 200조원 넘길까(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016347708"
+      "title": "롯데하이마트, 10월 이사·웨딩 가전 할인전…생활가전·청소기 대상",
+      "url": "https://n.news.naver.com/mnews/article/421/0009205259"
     },
     {
-      "title": "2차 국민참여성장펀드 첫날 2000억대 팔려 ‘흥행’…모집액 36% 소진",
-      "url": "https://n.news.naver.com/mnews/article/005/0001876014"
+      "title": "한국형 원전 미국 첫 진출…웨스팅하우스 지분 인수 추진",
+      "url": "https://n.news.naver.com/mnews/article/449/0000362608"
     },
     {
-      "title": "현대모비스, 램프사업부 매각…佛 OP모빌리티와 계약 체결 [시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666973"
+      "title": "물가 상승, 수요보다 유가·환율 영향…김영환 \"추가 금리인상 신중해야\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005420927"
     },
     {
-      "title": "국내 민간 기업 최초 해외 LNG 개발·생산…매년 130만t 확보로 에너지 안보 교두보 ‘우뚝’ [호주 다윈 LNG 터미널을 가다]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002703836"
+      "title": "신한은행 \"2만5천명 고객 개인정보 유출…손해 전액 보상\"",
+      "url": "https://n.news.naver.com/mnews/article/437/0000513608"
     },
     {
-      "title": "우리금융, 차기 은행장 승계절차 착수⋯'은행 임추위' 권한 강화",
-      "url": "https://n.news.naver.com/mnews/article/031/0001062512"
+      "title": "삼성전자·SK하이닉스 3분기 영업익 190조 전망…“눈높이 너무 높다” 경계도",
+      "url": "https://n.news.naver.com/mnews/article/366/0001195469"
     },
     {
-      "title": "뷰익, 한국 상륙 이어 전국 공략…서울·부산·하남·대전서 E7 띄운다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005583364"
+      "title": "2차 국민성장펀드, 이틀째 45% 소진…첫날보다 553억 더 팔렸다",
+      "url": "https://n.news.naver.com/mnews/article/374/0000535946"
     },
     {
-      "title": "동원, 참존 인수 추진…K뷰티 새 먹거리 키운다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006377947"
-    },
-    {
-      "title": "SFA, 레인보우로보틱스와 로봇 기술 공동 개발 맞손",
-      "url": "https://n.news.naver.com/mnews/article/030/0003471059"
+      "title": "현대해상 일본지사 설립 50주년…\"日시장서 신뢰받는 동반자로 성장\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006378293"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6787.99,
+      "value": 6958.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 856.21,
+      "value": 899.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26861.06,
-      "change": 63.53,
-      "change_pct": 0.24
+      "value": 26871.6,
+      "change": 10.54,
+      "change_pct": 0.04
     },
     "usdkrw": {
-      "value": 1358.28,
-      "change": 7.78,
-      "change_pct": 0.58
+      "value": 1365.58,
+      "change": 8.74,
+      "change_pct": 0.64
     }
   },
   "gold": {
-    "price_usd": 4182.2,
-    "price_krw": 5680598,
-    "change": 2.5,
-    "change_pct": 0.06
+    "price_usd": 4196.2,
+    "price_krw": 5730247,
+    "change": 9.5,
+    "change_pct": 0.23
   },
-  "updated": "2026-10-01 09:24",
+  "updated": "2026-10-02 09:34",
   "error": null
 }
