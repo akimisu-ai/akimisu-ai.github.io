@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK하이닉스, 솔리다임 미국 상장설에 “확정된 것 없다”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012266202"
+      "title": "마이크론, 2분기 D램 시장서 2위 SK하이닉스 '턱밑' 추격",
+      "url": "https://n.news.naver.com/mnews/article/055/0001392667"
+    },
+    {
+      "title": "‘1호가 될 순 없어’....산안법 개정안 통과에 건설업계 노심초사",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268040"
+    },
+    {
+      "title": "현대차, 뉴욕서 '디 올 뉴 투싼' 공개…글로벌 SUV 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/001/0016352288"
+    },
+    {
+      "title": "이중근, 노인 연령 75세 상향 제안…\"노인 권리보장·사회참여 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/417/0001159930"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002413235"
+      "url": "https://n.news.naver.com/mnews/article/052/0002413997"
+    },
+    {
+      "title": "당국, 은행·카드에 자체 보안점검 지시…\"조속 보고 받을 것\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001392765"
+    },
+    {
+      "title": "최태원, SK 지분 9440억원어치 매각…SK \"경영권 영향 없을 것\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824240"
+    },
+    {
+      "title": "HD현대중공업 노조 임단협 잠정합의안 부결…조합원 52.14% 반대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016354716"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002413665"
+      "url": "https://n.news.naver.com/mnews/article/055/0001392791"
     },
     {
-      "title": "롯데하이마트, 10월 이사·웨딩 가전 할인전…생활가전·청소기 대상",
-      "url": "https://n.news.naver.com/mnews/article/421/0009205259"
-    },
-    {
-      "title": "한국형 원전 미국 첫 진출…웨스팅하우스 지분 인수 추진",
-      "url": "https://n.news.naver.com/mnews/article/449/0000362608"
-    },
-    {
-      "title": "물가 상승, 수요보다 유가·환율 영향…김영환 \"추가 금리인상 신중해야\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005420927"
-    },
-    {
-      "title": "신한은행 \"2만5천명 고객 개인정보 유출…손해 전액 보상\"",
-      "url": "https://n.news.naver.com/mnews/article/437/0000513608"
-    },
-    {
-      "title": "삼성전자·SK하이닉스 3분기 영업익 190조 전망…“눈높이 너무 높다” 경계도",
-      "url": "https://n.news.naver.com/mnews/article/366/0001195469"
-    },
-    {
-      "title": "2차 국민성장펀드, 이틀째 45% 소진…첫날보다 553억 더 팔렸다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000535946"
-    },
-    {
-      "title": "현대해상 일본지사 설립 50주년…\"日시장서 신뢰받는 동반자로 성장\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006378293"
+      "title": "美고용 부진에 금리인상 우려 완화…나스닥 1.2%↑(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016355022"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6958.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 899.81,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26871.6,
-      "change": 10.54,
-      "change_pct": 0.04
+      "value": 27190.86,
+      "change": 319.26,
+      "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1365.58,
-      "change": 8.74,
-      "change_pct": 0.64
+      "value": 1342.51,
+      "change": -14.33,
+      "change_pct": -1.06
     }
   },
   "gold": {
-    "price_usd": 4196.2,
-    "price_krw": 5730247,
-    "change": 9.5,
-    "change_pct": 0.23
+    "price_usd": 4172.1,
+    "price_krw": 5601086,
+    "change": -30.2,
+    "change_pct": -0.72
   },
-  "updated": "2026-10-02 09:34",
+  "updated": "2026-10-03 09:12",
   "error": null
 }
