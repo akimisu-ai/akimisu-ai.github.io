@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "마이크론, 2분기 D램 시장서 2위 SK하이닉스 '턱밑' 추격",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392667"
+      "title": "개인정보 탈탈 털린 은행들…금융위, 연휴 중 금융사 긴급 소집",
+      "url": "https://n.news.naver.com/mnews/article/021/0002822943"
     },
     {
-      "title": "‘1호가 될 순 없어’....산안법 개정안 통과에 건설업계 노심초사",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268040"
-    },
-    {
-      "title": "현대차, 뉴욕서 '디 올 뉴 투싼' 공개…글로벌 SUV 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/001/0016352288"
-    },
-    {
-      "title": "이중근, 노인 연령 75세 상향 제안…\"노인 권리보장·사회참여 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/417/0001159930"
+      "title": "기업은 법원으로, 공정위는 조사국 부활…거세진 힘겨루기[기업 조사 전쟁①]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014231375"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002413997"
+      "url": "https://n.news.naver.com/mnews/article/055/0001392843"
     },
     {
-      "title": "당국, 은행·카드에 자체 보안점검 지시…\"조속 보고 받을 것\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392765"
+      "title": "\"화장품·양주 다 제쳤다\"…외국인들 공항서 싹쓸이한 '이것'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338864"
     },
     {
-      "title": "최태원, SK 지분 9440억원어치 매각…SK \"경영권 영향 없을 것\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824240"
-    },
-    {
-      "title": "HD현대중공업 노조 임단협 잠정합의안 부결…조합원 52.14% 반대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016354716"
+      "title": "휘발유 가격 20주째 내렸다…전국 평균 ℓ당 1857.6원",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824342"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392791"
+      "url": "https://n.news.naver.com/mnews/article/055/0001392798"
     },
     {
-      "title": "美고용 부진에 금리인상 우려 완화…나스닥 1.2%↑(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016355022"
+      "title": "[속보] 영화 ‘암살자(들)’ 투자 외부 개입 논란에…국책은행 “사실무근”",
+      "url": "https://n.news.naver.com/mnews/article/658/0000157368"
+    },
+    {
+      "title": "챗GPT·클로드에도 있는데…메타 '뮤즈'에 월가가 열광한 이유",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421902"
+    },
+    {
+      "title": "노사정, '메가특구 특별법' 원포인트 사회적 대화 2차 실무협의",
+      "url": "https://n.news.naver.com/mnews/article/421/0009207551"
+    },
+    {
+      "title": "美 9월 고용 쇼크… 예상치의 35%인 2만 9000명 증가",
+      "url": "https://n.news.naver.com/mnews/article/023/0004001891"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7003.74,
+      "change": 32.39,
+      "change_pct": 0.46
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 893.29,
+      "change": -1.0,
+      "change_pct": -0.11
     },
     "nasdaq": {
       "value": 27190.86,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4172.1,
-    "price_krw": 5601086,
-    "change": -30.2,
-    "change_pct": -0.72
+    "price_usd": 4162.3,
+    "price_krw": 5587929,
+    "change": -40.0,
+    "change_pct": -0.95
   },
-  "updated": "2026-10-03 09:12",
+  "updated": "2026-10-04 08:34",
   "error": null
 }
