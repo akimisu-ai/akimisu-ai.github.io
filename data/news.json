@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "개인정보 탈탈 털린 은행들…금융위, 연휴 중 금융사 긴급 소집",
-      "url": "https://n.news.naver.com/mnews/article/021/0002822943"
-    },
-    {
-      "title": "기업은 법원으로, 공정위는 조사국 부활…거세진 힘겨루기[기업 조사 전쟁①]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014231375"
-    },
-    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392843"
+      "url": "https://n.news.naver.com/mnews/article/056/0012267485"
     },
     {
-      "title": "\"화장품·양주 다 제쳤다\"…외국인들 공항서 싹쓸이한 '이것'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338864"
+      "title": "당국, 全금융권에 '공격자 IP' 25개 공유…\"불필요한 외부 접속 차단\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009209238"
     },
     {
-      "title": "휘발유 가격 20주째 내렸다…전국 평균 ℓ당 1857.6원",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824342"
+      "title": "산업부, 석유 최고가격제 격차 100원당 예산 1.5조 산정",
+      "url": "https://n.news.naver.com/mnews/article/055/0001393004"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392798"
+      "title": "재경위 “미래대응기금, 재정통제 약화 우려…지속성도 검토해야”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668126"
     },
     {
-      "title": "[속보] 영화 ‘암살자(들)’ 투자 외부 개입 논란에…국책은행 “사실무근”",
-      "url": "https://n.news.naver.com/mnews/article/658/0000157368"
+      "title": "‘AI 해킹’ 금융권 전반에 확산… 당국 “동일인 소행 배제 못해”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004002092"
     },
     {
-      "title": "챗GPT·클로드에도 있는데…메타 '뮤즈'에 월가가 열광한 이유",
-      "url": "https://n.news.naver.com/mnews/article/008/0005421902"
+      "title": "'정보보호 100점'이라더니…AI 해킹에 민망해진 은행들",
+      "url": "https://n.news.naver.com/mnews/article/001/0016357165"
     },
     {
-      "title": "노사정, '메가특구 특별법' 원포인트 사회적 대화 2차 실무협의",
-      "url": "https://n.news.naver.com/mnews/article/421/0009207551"
+      "title": "민간 아파트 '꼼수' 청약 5년새 1600건 돌파",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584618"
     },
     {
-      "title": "美 9월 고용 쇼크… 예상치의 35%인 2만 9000명 증가",
-      "url": "https://n.news.naver.com/mnews/article/023/0004001891"
+      "title": "\"전월세 불안 어떻게 잡나\"…서울시, 전문가들과 해법 찾는다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009208791"
+    },
+    {
+      "title": "한국 금융, 두 달 된 중국산 AI에 뚫렸다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003474216"
+    },
+    {
+      "title": "全금융권 해킹 위협에 금융위 “관리 소홀한 외부 웹 공격…외부 접근 원칙 차단”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668109"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1342.51,
-      "change": -14.33,
-      "change_pct": -1.06
+      "value": 1343.0,
+      "change": -17.59,
+      "change_pct": -1.29
     }
   },
   "gold": {
-    "price_usd": 4162.3,
-    "price_krw": 5587929,
-    "change": -40.0,
-    "change_pct": -0.95
+    "price_usd": 4173.5,
+    "price_krw": 5605010,
+    "change": 11.2,
+    "change_pct": 0.27
   },
-  "updated": "2026-10-04 08:34",
+  "updated": "2026-10-05 08:51",
   "error": null
 }
