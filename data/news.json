@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012267485"
+      "title": "이젠 오프라인으로…큐텐재팬, 'K뷰티'로 일본 정복 나섰다",
+      "url": "https://n.news.naver.com/mnews/article/648/0000051323"
     },
     {
-      "title": "당국, 全금융권에 '공격자 IP' 25개 공유…\"불필요한 외부 접속 차단\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009209238"
+      "title": "머스크, 다시 조만장자…스페이스X 주가 급등 덕",
+      "url": "https://n.news.naver.com/mnews/article/014/0005585182"
     },
     {
-      "title": "산업부, 석유 최고가격제 격차 100원당 예산 1.5조 산정",
-      "url": "https://n.news.naver.com/mnews/article/055/0001393004"
+      "title": "한·사우디, 전기차·AI·방산 등 첨단산업 분야 협력 확대",
+      "url": "https://n.news.naver.com/mnews/article/003/0014234202"
     },
     {
-      "title": "재경위 “미래대응기금, 재정통제 약화 우려…지속성도 검토해야”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668126"
+      "title": "“코스피 7000선 줄다리기”…코스닥은 반도체·바이오 타고 2% 급등",
+      "url": "https://n.news.naver.com/mnews/article/138/0002243696"
     },
     {
-      "title": "‘AI 해킹’ 금융권 전반에 확산… 당국 “동일인 소행 배제 못해”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004002092"
+      "title": "교촌에프앤비, 日 진출 나선다…아라이상사와 맞손",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705673"
     },
     {
-      "title": "'정보보호 100점'이라더니…AI 해킹에 민망해진 은행들",
-      "url": "https://n.news.naver.com/mnews/article/001/0016357165"
+      "title": "소진공, 홈플러스 피해 소상공인 '대출연장·상환유예' 접수",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358448"
     },
     {
-      "title": "민간 아파트 '꼼수' 청약 5년새 1600건 돌파",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584618"
+      "title": "삼성바이오 노조, 회사 2대 주주 삼성전자에 첫 단체교섭 요구",
+      "url": "https://n.news.naver.com/mnews/article/469/0000957845"
     },
     {
-      "title": "\"전월세 불안 어떻게 잡나\"…서울시, 전문가들과 해법 찾는다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009208791"
+      "title": "LG전자, 美 버지니아에 칠러 공장 신설…1500억원 투자해 AI 데이터센터 공략",
+      "url": "https://n.news.naver.com/mnews/article/366/0001196216"
     },
     {
-      "title": "한국 금융, 두 달 된 중국산 AI에 뚫렸다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003474216"
+      "title": "\"엔비디아 믿고 있었다\" 서학개미의 미소...시총 6조달러 눈앞",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422263"
     },
     {
-      "title": "全금융권 해킹 위협에 금융위 “관리 소홀한 외부 웹 공격…외부 접근 원칙 차단”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668109"
+      "title": "늘어나는 '노노 케어'…2인 가구, 내년 30% 처음 웃돈다",
+      "url": "https://n.news.naver.com/mnews/article/055/0001393357"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7003.74,
-      "change": 32.39,
-      "change_pct": 0.46
+      "value": 6980.08,
+      "change": -23.66,
+      "change_pct": -0.34
     },
     "kosdaq": {
-      "value": 893.29,
-      "change": -1.0,
-      "change_pct": -0.11
+      "value": 912.33,
+      "change": 19.04,
+      "change_pct": 2.13
     },
     "nasdaq": {
-      "value": 27190.86,
-      "change": 319.26,
-      "change_pct": 1.19
+      "value": 27477.31,
+      "change": 286.45,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1343.0,
-      "change": -17.59,
-      "change_pct": -1.29
+      "value": 1344.47,
+      "change": 1.91,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4173.5,
-    "price_krw": 5605010,
-    "change": 11.2,
-    "change_pct": 0.27
+    "price_usd": 4162.8,
+    "price_krw": 5596759,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-05 08:51",
+  "updated": "2026-10-06 10:40",
   "error": null
 }
