@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이젠 오프라인으로…큐텐재팬, 'K뷰티'로 일본 정복 나섰다",
-      "url": "https://n.news.naver.com/mnews/article/648/0000051323"
+      "title": "오늘 농식품부 국감…'농지 전수조사'·농협 개혁·CPTPP 쟁점",
+      "url": "https://n.news.naver.com/mnews/article/421/0009213041"
     },
     {
-      "title": "머스크, 다시 조만장자…스페이스X 주가 급등 덕",
-      "url": "https://n.news.naver.com/mnews/article/014/0005585182"
+      "title": "국감 나온 삼전 노조위원장 \"호남 반도체 근로조건 변동 우려 해소돼야\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000957999"
     },
     {
-      "title": "한·사우디, 전기차·AI·방산 등 첨단산업 분야 협력 확대",
-      "url": "https://n.news.naver.com/mnews/article/003/0014234202"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268332"
     },
     {
-      "title": "“코스피 7000선 줄다리기”…코스닥은 반도체·바이오 타고 2% 급등",
-      "url": "https://n.news.naver.com/mnews/article/138/0002243696"
+      "title": "2032년 삼성동에 들어설 ‘체험형 과학관’, 국내 고객에게 처음 선보인다",
+      "url": "https://n.news.naver.com/mnews/article/023/0004002371"
     },
     {
-      "title": "교촌에프앤비, 日 진출 나선다…아라이상사와 맞손",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705673"
+      "title": "美국채금리 24년래 최고에도 기술주 랠리…나스닥 사상 최고[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009210411"
     },
     {
-      "title": "소진공, 홈플러스 피해 소상공인 '대출연장·상환유예' 접수",
-      "url": "https://n.news.naver.com/mnews/article/001/0016358448"
+      "title": "롯데백화점, 올해 외국인 매출 1조 원 돌파…업계 최초",
+      "url": "https://n.news.naver.com/mnews/article/056/0012268523"
     },
     {
-      "title": "삼성바이오 노조, 회사 2대 주주 삼성전자에 첫 단체교섭 요구",
-      "url": "https://n.news.naver.com/mnews/article/469/0000957845"
+      "title": "다올증권 \"코스맥스, 3분기 영업익 전망치 상회할듯…목표가↑\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016361265"
     },
     {
-      "title": "LG전자, 美 버지니아에 칠러 공장 신설…1500억원 투자해 AI 데이터센터 공략",
-      "url": "https://n.news.naver.com/mnews/article/366/0001196216"
+      "title": "보스턴다이나믹스 신임 CEO에 로히트 프라사드..아틀라스 '상용화' 주력",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422957"
     },
     {
-      "title": "\"엔비디아 믿고 있었다\" 서학개미의 미소...시총 6조달러 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/008/0005422263"
+      "title": "전세사기 집 경매 넘어가도 보증금 3분의 1 국가가 보전",
+      "url": "https://n.news.naver.com/mnews/article/009/0005744683"
     },
     {
-      "title": "늘어나는 '노노 케어'…2인 가구, 내년 30% 처음 웃돈다",
-      "url": "https://n.news.naver.com/mnews/article/055/0001393357"
+      "title": "“흔들리지마세요 400만원 갑니다”…IBK투자증권 “하이닉스, 지나친 저평가” [줍줍 리포트]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668840"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6980.08,
-      "change": -23.66,
-      "change_pct": -0.34
+      "value": 6901.56,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 912.33,
-      "change": 19.04,
-      "change_pct": 2.13
+      "value": 917.45,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27477.31,
-      "change": 286.45,
-      "change_pct": 1.05
+      "value": 27599.89,
+      "change": 122.58,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1344.47,
-      "change": 1.91,
-      "change_pct": 0.14
+      "value": 1339.86,
+      "change": -3.89,
+      "change_pct": -0.29
     }
   },
   "gold": {
-    "price_usd": 4162.8,
-    "price_krw": 5596759,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4195.1,
+    "price_krw": 5620846,
+    "change": 38.3,
+    "change_pct": 0.92
   },
-  "updated": "2026-10-06 10:40",
+  "updated": "2026-10-07 09:25",
   "error": null
 }
