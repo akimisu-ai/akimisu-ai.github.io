@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘선박왕’ 권혁, 체납 4천억 납부키로…1000억 선납·배 5척 담보",
-      "url": "https://n.news.naver.com/mnews/article/449/0000363268"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002416309"
     },
     {
-      "title": "보스턴다이나믹스, 피지컬 AI 힘싣는다…로히트 프라사드 신임 CEO 영입",
-      "url": "https://n.news.naver.com/mnews/article/030/0003472889"
+      "title": "“새벽 배송 오나요?” 쿠팡 한밤중 먹통…서비스 업그레이드 과정서 오류",
+      "url": "https://n.news.naver.com/mnews/article/028/0002826733"
     },
     {
-      "title": "KT&G, 印尼 신공장 가동… ‘글로벌 5각 생산체제’",
-      "url": "https://n.news.naver.com/mnews/article/020/0003753497"
+      "title": "중, 한국 금융권 해커 '광둥성 거주' 의혹에 \"구체적 상황 몰라\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001394096"
     },
     {
-      "title": "LG전자 2026년 누적 영업이익 4조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/022/0004164886"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000536816"
     },
     {
-      "title": "SK에너지·현대오일뱅크, 44조원대 유류 담합 혐의…공정위, 제재 착수",
-      "url": "https://n.news.naver.com/mnews/article/018/0006382856"
+      "title": "상속·고령농·임대차 농지, 전수조사 처분서 제외… 특조법 추진",
+      "url": "https://n.news.naver.com/mnews/article/081/0003687185"
     },
     {
-      "title": "HD현대, 조선 총괄 신설·안전경영 최우선",
-      "url": "https://n.news.naver.com/mnews/article/005/0001877432"
+      "title": "반도체 날개 단 경상수지, 8월 61.7조 흑자 ‘역대 2위’",
+      "url": "https://n.news.naver.com/mnews/article/020/0003753749"
     },
     {
-      "title": "삼성전자 성과급 내년 3월말 지급…8천만원 연봉시 최대 7.5억원(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016364285"
+      "title": "삼성전자 역대급 실적에 차익실현 매물…코스피 6600선까지 하락",
+      "url": "https://n.news.naver.com/mnews/article/014/0005587051"
     },
     {
-      "title": "위기의 애플, LG 손잡은 이유가…'새 먹거리 찾았다' 초강수",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340204"
+      "title": "“삼전 들어온 게 인생 최대 업적” 성과급만 30억...맞벌이 부부가 세운 ‘은퇴 계획’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669636"
     },
     {
-      "title": "한화에어로 직원이 비행 통제…'상업 발사 플랫폼' 시대 열린다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340196"
+      "title": "서울 집값 87주째 상승 ‘최장 경신’…강남 낙폭 줄고 상승폭 확대",
+      "url": "https://n.news.naver.com/mnews/article/018/0006383651"
     },
     {
-      "title": "메모리 대호황 올라탄 삼성…엔비디아 넘어 영업익 세계1위 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/001/0016364630"
+      "title": "박홍근 \"미래대응기금, 미래 살리는 기금\"…교부세 총량 안 줄어\"(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009218496"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6760.01,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 884.94,
+      "value": 898.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27538.69,
-      "change": -61.1,
-      "change_pct": -0.22
+      "value": 27193.34,
+      "change": -345.35,
+      "change_pct": -1.25
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": -1.76,
-      "change_pct": -0.13
+      "value": 1343.87,
+      "change": 4.79,
+      "change_pct": 0.36
     }
   },
   "gold": {
-    "price_usd": 4133.4,
-    "price_krw": 5530406,
-    "change": -53.7,
-    "change_pct": -1.28
+    "price_usd": 4168.0,
+    "price_krw": 5601250,
+    "change": 27.3,
+    "change_pct": 0.66
   },
-  "updated": "2026-10-08 09:46",
+  "updated": "2026-10-09 10:01",
   "error": null
 }
