@@ -2,73 +2,73 @@
   "news": [
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416309"
+      "url": "https://n.news.naver.com/mnews/article/052/0002416667"
     },
     {
-      "title": "“새벽 배송 오나요?” 쿠팡 한밤중 먹통…서비스 업그레이드 과정서 오류",
-      "url": "https://n.news.naver.com/mnews/article/028/0002826733"
-    },
-    {
-      "title": "중, 한국 금융권 해커 '광둥성 거주' 의혹에 \"구체적 상황 몰라\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001394096"
+      "title": "삼성전자 주가, 1월까지 기다려봐?…결국 믿을 건 ‘주주환원’ [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002707228"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000536816"
+      "url": "https://n.news.naver.com/mnews/article/025/0003556846"
     },
     {
-      "title": "상속·고령농·임대차 농지, 전수조사 처분서 제외… 특조법 추진",
-      "url": "https://n.news.naver.com/mnews/article/081/0003687185"
+      "title": "쿠팡·쿠팡이츠·쿠팡플레이 새벽 동시 먹통…배송 인증도 2시간 넘게 차질",
+      "url": "https://n.news.naver.com/mnews/article/022/0004165339"
     },
     {
-      "title": "반도체 날개 단 경상수지, 8월 61.7조 흑자 ‘역대 2위’",
-      "url": "https://n.news.naver.com/mnews/article/020/0003753749"
+      "title": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
+      "url": "https://n.news.naver.com/mnews/article/001/0016367992"
     },
     {
-      "title": "삼성전자 역대급 실적에 차익실현 매물…코스피 6600선까지 하락",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587051"
+      "title": "21주째 내린 기름값…휘발유·경유 1,800원대",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268695"
     },
     {
-      "title": "“삼전 들어온 게 인생 최대 업적” 성과급만 30억...맞벌이 부부가 세운 ‘은퇴 계획’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669636"
+      "title": "내주 향남역 그로브 스위첸 등 1천829가구 분양[부동산캘린더]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016367999"
     },
     {
-      "title": "서울 집값 87주째 상승 ‘최장 경신’…강남 낙폭 줄고 상승폭 확대",
-      "url": "https://n.news.naver.com/mnews/article/018/0006383651"
+      "title": "비트코인 박스권 깨졌다…방향은 하락[주간코인]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003141263"
     },
     {
-      "title": "박홍근 \"미래대응기금, 미래 살리는 기금\"…교부세 총량 안 줄어\"(종합2보)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009218496"
+      "title": "국내 은행 해킹에 악용된 中 AI 도구…개발자, 소스코드 비공개 전환",
+      "url": "https://n.news.naver.com/mnews/article/022/0004165427"
+    },
+    {
+      "title": "오픈AI 매출 실망…AI 낙관론에 '찬물'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005340891"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6625.93,
+      "change": -177.97,
+      "change_pct": -2.62
     },
     "kosdaq": {
-      "value": 898.43,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 892.27,
+      "change": -6.16,
+      "change_pct": -0.69
     },
     "nasdaq": {
-      "value": 27193.34,
-      "change": -345.35,
-      "change_pct": -1.25
+      "value": 27366.17,
+      "change": 172.83,
+      "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1343.87,
-      "change": 4.79,
-      "change_pct": 0.36
+      "value": 1340.02,
+      "change": 0.94,
+      "change_pct": 0.07
     }
   },
   "gold": {
-    "price_usd": 4168.0,
-    "price_krw": 5601250,
-    "change": 27.3,
-    "change_pct": 0.66
+    "price_usd": 4220.3,
+    "price_krw": 5655286,
+    "change": 63.3,
+    "change_pct": 1.52
   },
-  "updated": "2026-10-09 10:01",
+  "updated": "2026-10-10 09:32",
   "error": null
 }
