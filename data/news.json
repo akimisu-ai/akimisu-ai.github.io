@@ -1,44 +1,44 @@
 {
   "news": [
     {
+      "title": "국내 기름값 21주째 하락…휘발유·경유 1천800원대 지속",
+      "url": "https://n.news.naver.com/mnews/article/056/0012271163"
+    },
+    {
+      "title": "정부 농지 전수조사에 켜진 '거래 불능' 경고등",
+      "url": "https://n.news.naver.com/mnews/article/586/0000139702"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416667"
+      "url": "https://n.news.naver.com/mnews/article/055/0001394419"
     },
     {
-      "title": "삼성전자 주가, 1월까지 기다려봐?…결국 믿을 건 ‘주주환원’ [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002707228"
+      "title": "\"지금이야\" 금값 27% 폭락하자…은행서 불티나게 팔린 게",
+      "url": "https://n.news.naver.com/mnews/article/015/0005341027"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/025/0003556846"
+      "title": "韓금융권 노린 해커 정체는…“中디도스 대행 조직 배후 정황”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003556883"
     },
     {
-      "title": "쿠팡·쿠팡이츠·쿠팡플레이 새벽 동시 먹통…배송 인증도 2시간 넘게 차질",
-      "url": "https://n.news.naver.com/mnews/article/022/0004165339"
+      "title": "\"정찰은 옛말, 이젠 자폭·요격\"…방산 빅4, 무인기 생태계 만든다[K드론 경고등②]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014244362"
     },
     {
-      "title": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
-      "url": "https://n.news.naver.com/mnews/article/001/0016367992"
+      "title": "\"어차피 아파트 당첨돼도 수십억 못내요\" 요즘 20·30대, 청약통장 깨서 '여기' 투자한다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005587165"
     },
     {
-      "title": "21주째 내린 기름값…휘발유·경유 1,800원대",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268695"
+      "title": "AI해킹 알고도 당한 금융권…사고 2주전에도 '노출자산' 경고",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368597"
     },
     {
-      "title": "내주 향남역 그로브 스위첸 등 1천829가구 분양[부동산캘린더]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016367999"
+      "title": "GE헬스케어, 1.3조원에 방사성의약품 CMO 인수",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/648/0000051465?type=series&cid=2000043"
     },
     {
-      "title": "비트코인 박스권 깨졌다…방향은 하락[주간코인]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003141263"
-    },
-    {
-      "title": "국내 은행 해킹에 악용된 中 AI 도구…개발자, 소스코드 비공개 전환",
-      "url": "https://n.news.naver.com/mnews/article/022/0004165427"
-    },
-    {
-      "title": "오픈AI 매출 실망…AI 낙관론에 '찬물'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340891"
+      "title": "미워도 다시 한번…사노피, 리제네논과 맞손",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/648/0000051303?type=series&cid=2000043"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.02,
-      "change": 0.94,
-      "change_pct": 0.07
+      "value": 1340.9,
+      "change": -2.09,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4220.3,
-    "price_krw": 5655286,
-    "change": 63.3,
-    "change_pct": 1.52
+    "price_usd": 4216.3,
+    "price_krw": 5653636,
+    "change": 59.3,
+    "change_pct": 1.43
   },
-  "updated": "2026-10-10 09:32",
+  "updated": "2026-10-11 09:08",
   "error": null
 }
