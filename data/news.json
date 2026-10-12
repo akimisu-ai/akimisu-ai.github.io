@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "국내 기름값 21주째 하락…휘발유·경유 1천800원대 지속",
-      "url": "https://n.news.naver.com/mnews/article/056/0012271163"
+      "title": "불붙은 D램 삼국지… 밥줄 된 로봇",
+      "url": "https://n.news.naver.com/mnews/article/081/0003687850"
     },
     {
-      "title": "정부 농지 전수조사에 켜진 '거래 불능' 경고등",
-      "url": "https://n.news.naver.com/mnews/article/586/0000139702"
+      "title": "셀트리온, 3분기 영업익 5100억원…분기 최대 실적 경신",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197252"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001394419"
+      "title": "\"낙관주의 설 자리 없다…현실 직시해야\"",
+      "url": "https://n.news.naver.com/mnews/article/029/0003052299"
     },
     {
-      "title": "\"지금이야\" 금값 27% 폭락하자…은행서 불티나게 팔린 게",
-      "url": "https://n.news.naver.com/mnews/article/015/0005341027"
+      "title": "연체채권 시효 더 안 늘린다…금융권 ‘조건부 대손인정’ 시행",
+      "url": "https://n.news.naver.com/mnews/article/018/0006386137"
     },
     {
-      "title": "韓금융권 노린 해커 정체는…“中디도스 대행 조직 배후 정황”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003556883"
+      "title": "\"작년 한은 인수 위조지폐 9천700장…SNS엔 버젓이 판매글\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016369646"
     },
     {
-      "title": "\"정찰은 옛말, 이젠 자폭·요격\"…방산 빅4, 무인기 생태계 만든다[K드론 경고등②]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014244362"
+      "title": "HK이노엔 케이캡, 미국 3상서 가슴쓰림·위산 역류 개선",
+      "url": "https://n.news.naver.com/mnews/article/014/0005587588"
     },
     {
-      "title": "\"어차피 아파트 당첨돼도 수십억 못내요\" 요즘 20·30대, 청약통장 깨서 '여기' 투자한다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587165"
+      "title": "정의선 취임 6년…현대차그룹 '글로벌 빅3' 넘어 피지컬 AI로",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826762"
     },
     {
-      "title": "AI해킹 알고도 당한 금융권…사고 2주전에도 '노출자산' 경고",
-      "url": "https://n.news.naver.com/mnews/article/001/0016368597"
+      "title": "‘이미 기린은 우리 곁에 있다’…하이트진로, 기린 이치방 국내 생산 시작",
+      "url": "https://n.news.naver.com/mnews/article/022/0004165832"
     },
     {
-      "title": "GE헬스케어, 1.3조원에 방사성의약품 CMO 인수",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/648/0000051465?type=series&cid=2000043"
+      "title": "30년 쌓아온 쇼핑 노하우 푼다…롯데온, 12일부터 ‘온쇼페’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746678"
     },
     {
-      "title": "미워도 다시 한번…사노피, 리제네논과 맞손",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/648/0000051303?type=series&cid=2000043"
+      "title": "내일부터 출생연도 홀짝 무관 청년미래적금 신청…16일까지",
+      "url": "https://n.news.naver.com/mnews/article/056/0012271355"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6625.93,
-      "change": -177.97,
-      "change_pct": -2.62
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 892.27,
-      "change": -6.16,
-      "change_pct": -0.69
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 27366.17,
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.9,
-      "change": -2.09,
-      "change_pct": -0.16
+      "value": 1339.08,
+      "change": -3.91,
+      "change_pct": -0.29
     }
   },
   "gold": {
-    "price_usd": 4216.3,
-    "price_krw": 5653636,
-    "change": 59.3,
-    "change_pct": 1.43
+    "price_usd": 4216.8,
+    "price_krw": 5646632,
+    "change": 0.5,
+    "change_pct": 0.01
   },
-  "updated": "2026-10-11 09:08",
+  "updated": "2026-10-12 09:16",
   "error": null
 }
