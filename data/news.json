@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "금융위, 오늘 해킹사고 점검회의…새마을금고 추가 유출도 주시",
-      "url": "https://n.news.naver.com/mnews/article/055/0001395266"
+      "title": "“AI 메모리, HBM만으론 부족”…SK하이닉스, 차세대 메모리 기술 로드맵 제시",
+      "url": "https://n.news.naver.com/mnews/article/009/0005748476"
     },
     {
-      "title": "中 “韓 메모리 추월” 도전장… K반도체 ‘초격차 기술’로 추격 차단",
-      "url": "https://n.news.naver.com/mnews/article/022/0004166485"
+      "title": "차세대 반도체 기술력 과시한 ‘삼전닉스’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004166811"
     },
     {
-      "title": "코레일 사장 \"노조 위한 통합 아냐…철도공단 소송 중재기구 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014249777"
+      "title": "당국 \"금융사 16곳 해킹 침해…주민번호 등 10만건 유출\"",
+      "url": "https://n.news.naver.com/mnews/article/057/0001973419"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000915402"
+      "title": "CES 2027, '보여주는 AI'서 '일하는 AI'로⋯제조·로봇 전면에",
+      "url": "https://n.news.naver.com/mnews/article/031/0001066087"
     },
     {
-      "title": "모디 만난 정의선 “인도, 현대차 미래 이끌 전략거점...7년간 20조 투자”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005748118"
+      "title": "장인화 포스코그룹 회장, 2027년 세계철강협회 총회 서울 유치",
+      "url": "https://n.news.naver.com/mnews/article/031/0001065849"
     },
     {
-      "title": "홍라희, 이재용에 삼전 지분 0.17% 증여",
-      "url": "https://n.news.naver.com/mnews/article/014/0005588629"
+      "title": "공사비 검증 안 한 재개발·재건축 138곳…정부 특별점검",
+      "url": "https://n.news.naver.com/mnews/article/018/0006387888"
     },
     {
-      "title": "식약처장 “미프진 불법 복용은 사각지대…합법적 관리 필요”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006387398"
+      "title": "현대차, 인도 3번째 공장 가동…현지 생산 150만대 시대 연다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005342601"
     },
     {
-      "title": "'반쪽 세종' 채운다지만…\"보고하러 KTX 출장길\" 남은 숙제는",
-      "url": "https://n.news.naver.com/mnews/article/008/0005425910"
+      "title": "IMF, 한국 국가부채 비율 전망치 대폭 하향",
+      "url": "https://n.news.naver.com/mnews/article/005/0001878772"
     },
     {
-      "title": "이번엔 한화 '우주 태양광' 영화로…이노션, 시네마바이브랜드 출범",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342040"
+      "title": "JTBC \"10월 중 매각 공고\"...주관사 한영회계법인",
+      "url": "https://n.news.naver.com/mnews/article/052/0002418793"
     },
     {
-      "title": "손안의 AI부터 공장까지…삼성전자 '일상 속 AI'·LG전자 '산업까지 확장'[KES2026]",
-      "url": "https://n.news.naver.com/mnews/article/030/0003474430"
+      "title": "시부야 한복판에 약과 뜬다…신세계百, K-푸드·라이프 팝업",
+      "url": "https://n.news.naver.com/mnews/article/016/0002709457"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27204.38,
-      "change": -41.52,
-      "change_pct": -0.15
+      "value": 26692.87,
+      "change": -511.51,
+      "change_pct": -1.88
     },
     "usdkrw": {
-      "value": 1338.88,
-      "change": 4.75,
-      "change_pct": 0.36
+      "value": 1340.54,
+      "change": 0.23,
+      "change_pct": 0.02
     }
   },
   "gold": {
-    "price_usd": 4178.6,
-    "price_krw": 5594644,
-    "change": -12.0,
-    "change_pct": -0.29
+    "price_usd": 4123.3,
+    "price_krw": 5527448,
+    "change": -54.0,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-14 09:11",
+  "updated": "2026-10-15 08:45",
   "error": null
 }
