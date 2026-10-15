@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“AI 메모리, HBM만으론 부족”…SK하이닉스, 차세대 메모리 기술 로드맵 제시",
-      "url": "https://n.news.naver.com/mnews/article/009/0005748476"
+      "title": "이소영 장관 \"대전, 딥테크 창업거점으로…지원 정책 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829215"
     },
     {
-      "title": "차세대 반도체 기술력 과시한 ‘삼전닉스’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004166811"
+      "title": "금융권 가계대출 2.2조 감소…\"연말 대출절벽 우려는 제한적\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014255444"
     },
     {
-      "title": "당국 \"금융사 16곳 해킹 침해…주민번호 등 10만건 유출\"",
-      "url": "https://n.news.naver.com/mnews/article/057/0001973419"
+      "title": "\"주식시장에 대체 무슨 일이\"…코스피·코스닥 8% 폭락에 거래까지 멈췄다(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005828989"
     },
     {
-      "title": "CES 2027, '보여주는 AI'서 '일하는 AI'로⋯제조·로봇 전면에",
-      "url": "https://n.news.naver.com/mnews/article/031/0001066087"
+      "title": "한·미 경제계 “전략투자, 이제 기업의 시간”…인허가·비자 지원 촉구",
+      "url": "https://n.news.naver.com/mnews/article/025/0003558161"
     },
     {
-      "title": "장인화 포스코그룹 회장, 2027년 세계철강협회 총회 서울 유치",
-      "url": "https://n.news.naver.com/mnews/article/031/0001065849"
+      "title": "반도체 소재 공장 찾은 이소영 \"중소기업, 대기업 조연 아닌 주역 돼야\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004199333"
     },
     {
-      "title": "공사비 검증 안 한 재개발·재건축 138곳…정부 특별점검",
-      "url": "https://n.news.naver.com/mnews/article/018/0006387888"
+      "title": "외국인, 이달 코스피서 17.8조원 투매…'삼전·닉스'만 14조원 팔았다",
+      "url": "https://n.news.naver.com/mnews/article/654/0000205614"
     },
     {
-      "title": "현대차, 인도 3번째 공장 가동…현지 생산 150만대 시대 연다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342601"
+      "title": "李 “브라질산 계란 고가수입 예산낭비 주장은 정치목적 허위사실”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755189"
     },
     {
-      "title": "IMF, 한국 국가부채 비율 전망치 대폭 하향",
-      "url": "https://n.news.naver.com/mnews/article/005/0001878772"
+      "title": "'검은 목요일' 폭락장에 절정 달한 반대매매 공포…34조 빚투 개미들 '비명'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014254968"
     },
     {
-      "title": "JTBC \"10월 중 매각 공고\"...주관사 한영회계법인",
-      "url": "https://n.news.naver.com/mnews/article/052/0002418793"
+      "title": "“부도 위험 사상 최고인데 사라고?”…월가가 코어위브 매수 외친 이유",
+      "url": "https://n.news.naver.com/mnews/article/018/0006389012"
     },
     {
-      "title": "시부야 한복판에 약과 뜬다…신세계百, K-푸드·라이프 팝업",
-      "url": "https://n.news.naver.com/mnews/article/016/0002709457"
+      "title": "대구 취업자 수 6개월 연속 증가…건설·제조 고용 부진 장기화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009231192"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6035.35,
+      "value": 6008.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.03,
+      "value": 823.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26692.87,
-      "change": -511.51,
-      "change_pct": -1.88
+      "value": 26713.03,
+      "change": 20.16,
+      "change_pct": 0.08
     },
     "usdkrw": {
-      "value": 1340.54,
-      "change": 0.23,
-      "change_pct": 0.02
+      "value": 1340.49,
+      "change": 1.14,
+      "change_pct": 0.09
     }
   },
   "gold": {
-    "price_usd": 4123.3,
-    "price_krw": 5527448,
-    "change": -54.0,
-    "change_pct": -1.29
+    "price_usd": 4184.0,
+    "price_krw": 5608610,
+    "change": 76.1,
+    "change_pct": 1.85
   },
-  "updated": "2026-10-15 08:45",
+  "updated": "2026-10-16 08:34",
   "error": null
 }
