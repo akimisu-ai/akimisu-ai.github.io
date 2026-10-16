@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이소영 장관 \"대전, 딥테크 창업거점으로…지원 정책 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005829215"
+      "title": "수도권 9.9만 호 착공…정부 \"연말까지 20만 가구 이상 착공\"",
+      "url": "https://n.news.naver.com/mnews/article/660/0000119329"
     },
     {
-      "title": "금융권 가계대출 2.2조 감소…\"연말 대출절벽 우려는 제한적\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014255444"
+      "title": "이재용, 중동 파견 임직원 730명에 격려 선물…최대 500만원 지급",
+      "url": "https://n.news.naver.com/mnews/article/119/0003143590"
     },
     {
-      "title": "\"주식시장에 대체 무슨 일이\"…코스피·코스닥 8% 폭락에 거래까지 멈췄다(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005828989"
+      "title": "11차 석유 최고가격, 10차 수준으로 동결",
+      "url": "https://n.news.naver.com/mnews/article/448/0000645317"
     },
     {
-      "title": "한·미 경제계 “전략투자, 이제 기업의 시간”…인허가·비자 지원 촉구",
-      "url": "https://n.news.naver.com/mnews/article/025/0003558161"
+      "title": "한국투자증권, '베슬 AI'와 GPU 파이낸싱 업무협약 체결",
+      "url": "https://n.news.naver.com/mnews/article/030/0003475863"
     },
     {
-      "title": "반도체 소재 공장 찾은 이소영 \"중소기업, 대기업 조연 아닌 주역 돼야\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004199333"
+      "title": "한일 패션 교류 현장… 무신사, J패션 대표 日 조조타운과 첫 팝업",
+      "url": "https://n.news.naver.com/mnews/article/469/0000959942"
     },
     {
-      "title": "외국인, 이달 코스피서 17.8조원 투매…'삼전·닉스'만 14조원 팔았다",
-      "url": "https://n.news.naver.com/mnews/article/654/0000205614"
+      "title": "[속보] 9월 취업자 11.3만 명↑...청년층 14.7만 명↓, 47개월째 감소",
+      "url": "https://n.news.naver.com/mnews/article/052/0002419454"
     },
     {
-      "title": "李 “브라질산 계란 고가수입 예산낭비 주장은 정치목적 허위사실”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755189"
+      "title": "강호동 농협중앙회장 \"직선제 동의\"…외부 감사기구엔 '신중'[2026국감]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829627"
     },
     {
-      "title": "'검은 목요일' 폭락장에 절정 달한 반대매매 공포…34조 빚투 개미들 '비명'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014254968"
+      "title": "외국인 8거래일 만에 '사자'…코스피, 2% 상승해 5600선 마감",
+      "url": "https://n.news.naver.com/mnews/article/015/0005343352"
     },
     {
-      "title": "“부도 위험 사상 최고인데 사라고?”…월가가 코어위브 매수 외친 이유",
-      "url": "https://n.news.naver.com/mnews/article/018/0006389012"
+      "title": "유류할증료 3개월 연속 상승… 뉴욕 왕복 최대 9만원 올라",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755645"
     },
     {
-      "title": "대구 취업자 수 6개월 연속 증가…건설·제조 고용 부진 장기화",
-      "url": "https://n.news.naver.com/mnews/article/421/0009231192"
+      "title": "반도체 기업 역대급 실적, 그 밑단 인프라 업체들은 부채 위기",
+      "url": "https://n.news.naver.com/mnews/article/005/0001878998"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6008.81,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 823.88,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26713.03,
-      "change": 20.16,
-      "change_pct": 0.08
+      "value": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1340.49,
-      "change": 1.14,
-      "change_pct": 0.09
+      "value": 1334.2,
+      "change": -6.75,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4184.0,
-    "price_krw": 5608610,
-    "change": 76.1,
-    "change_pct": 1.85
+    "price_usd": 4186.7,
+    "price_krw": 5585895,
+    "change": 16.6,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-16 08:34",
+  "updated": "2026-10-17 08:17",
   "error": null
 }
