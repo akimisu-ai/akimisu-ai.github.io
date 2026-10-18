@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "비트코인 ‘급류’ 탔다…8만 달러선도 출렁[주간코인]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003143789"
+      "title": "롯데, 임직원-가족 초청 페스티벌",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755786"
     },
     {
-      "title": "삼성바이오 노조 ‘2차 파업’ 법원 제동…쟁의 금지 공정 9개로 확대",
-      "url": "https://n.news.naver.com/mnews/article/032/0003476801"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000538441"
     },
     {
-      "title": "삼성전자 옆 1800가구 단지 '아크메르 동탄'…국평 17억에도 관심",
-      "url": "https://n.news.naver.com/mnews/article/421/0009233275"
+      "title": "“11월에 기준금리 추가 인상…최종 3.5%까지 오를 것”[금통위 폴]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006391076"
     },
     {
-      "title": "버티지 못하는 기업들…파산 신청 4년 새 2.4배",
-      "url": "https://n.news.naver.com/mnews/article/374/0000538319"
+      "title": "\"주 17시간도 못 일해요\"…일자리 쪼개자 청년들 '직격탄'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005343696"
     },
     {
-      "title": "국내 기름값 22주 연속 내림세…휘발유·경유 1천800원대 지속",
-      "url": "https://n.news.naver.com/mnews/article/055/0001396164"
+      "title": "美, 관세 무기로 투자 압박… 韓 '원리금 회수' 원칙 흔들리나 [알래스카 투자 '딜레마']",
+      "url": "https://n.news.naver.com/mnews/article/014/0005590783"
     },
     {
-      "title": "시카고대 석사 최태원 “대학 졸업장? 굳이 필요 없다”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002825818"
+      "title": "\"전화번호·집 주소까지 털렸다\"…할리스, 외부 해킹에 고객 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/014/0005590856"
     },
     {
-      "title": "\"키 190㎝ 男에게도 넉넉한 공간\" 8세대 렉서스 ES, '정숙성·주행감' 다 잡아[시승기]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014259272"
+      "title": "최태원 \"20대로 돌아가면 무조건 창업\"…AI 시대 미래 인재상 제시",
+      "url": "https://n.news.naver.com/mnews/article/014/0005590624"
     },
     {
-      "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749969"
+      "title": "르노가 보여준 ‘자동차 순환경제’…엔진 등 수명 다한 ‘차 장기’들에 새 생명",
+      "url": "https://n.news.naver.com/mnews/article/032/0003477008"
     },
     {
-      "title": "‘삼전닉스’ 위협한 CXMT, 3분기 매출 600%대 급증…최대 4000억원 자사주 매입까지",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710632"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012275828"
     },
     {
-      "title": "CJ그룹, 중앙일보 인수전 '깜짝 다크호스'…다우키움과 연합전선 [fn마켓워치]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590432"
+      "title": "반값 한우에 싱글몰트 한정판까지…30일부터 '쓱데이'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006390535"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1329.6,
-      "change": -11.35,
-      "change_pct": -0.85
+      "value": 1334.66,
+      "change": -6.29,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 4181.1,
-    "price_krw": 5559190,
-    "change": 11.0,
-    "change_pct": 0.26
+    "price_usd": 4197.6,
+    "price_krw": 5602368,
+    "change": 16.5,
+    "change_pct": 0.39
   },
-  "updated": "2026-10-18 07:55",
+  "updated": "2026-10-19 07:50",
   "error": null
 }
