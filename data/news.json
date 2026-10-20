@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "롯데, 임직원-가족 초청 페스티벌",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755786"
+      "title": "이찬진 \"단일종목 ETF, 상장일정 맞추기 위해 심사 빨리 진행\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016385016"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000538441"
+      "title": "반도체 저가 매수에 나스닥 1.11% 반등… AI株 옥석 가리기 본격화",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198950"
     },
     {
-      "title": "“11월에 기준금리 추가 인상…최종 3.5%까지 오를 것”[금통위 폴]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006391076"
+      "title": "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016386227"
     },
     {
-      "title": "\"주 17시간도 못 일해요\"…일자리 쪼개자 청년들 '직격탄'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005343696"
+      "title": "비트코인, 8만2000달러대 상승…연내 10만달러 돌파 전망 엇갈려[코인브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009235380"
     },
     {
-      "title": "美, 관세 무기로 투자 압박… 韓 '원리금 회수' 원칙 흔들리나 [알래스카 투자 '딜레마']",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590783"
+      "title": "'월세민국' 속 서울…임대차 계약 절반이 월세",
+      "url": "https://n.news.naver.com/mnews/article/374/0000538659"
     },
     {
-      "title": "\"전화번호·집 주소까지 털렸다\"…할리스, 외부 해킹에 고객 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590856"
+      "title": "5대 은행장 '해킹 국감'서 줄사과…\"피해 재발 막겠다\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016386804"
     },
     {
-      "title": "최태원 \"20대로 돌아가면 무조건 창업\"…AI 시대 미래 인재상 제시",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590624"
+      "title": "LG 사업보고회 돌입… SK는 이달, 삼성은 다음달 사장단 인사 전망",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960272"
     },
     {
-      "title": "르노가 보여준 ‘자동차 순환경제’…엔진 등 수명 다한 ‘차 장기’들에 새 생명",
-      "url": "https://n.news.naver.com/mnews/article/032/0003477008"
+      "title": "피지컬 AI부터 인문학까지…중기중앙회, 리더스포럼 개최",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198814"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012275828"
+      "title": "벤츠 ‘새 얼굴’로 전기차 시장 ‘도전장’",
+      "url": "https://n.news.naver.com/mnews/article/082/0001403135"
     },
     {
-      "title": "반값 한우에 싱글몰트 한정판까지…30일부터 '쓱데이'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006390535"
+      "title": "기술유출 수사권 산업부에도 부여…처벌 강화 추진",
+      "url": "https://n.news.naver.com/mnews/article/422/0000917108"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5668.05,
-      "change": 113.83,
-      "change_pct": 2.05
+      "value": 5768.01,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 794.78,
-      "change": 33.96,
-      "change_pct": 4.46
+      "value": 808.89,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26140.03,
-      "change": -573.0,
-      "change_pct": -2.15
+      "value": 26430.89,
+      "change": 290.86,
+      "change_pct": 1.11
     },
     "usdkrw": {
-      "value": 1334.66,
-      "change": -6.29,
-      "change_pct": -0.47
+      "value": 1326.58,
+      "change": -6.85,
+      "change_pct": -0.51
     }
   },
   "gold": {
-    "price_usd": 4197.6,
-    "price_krw": 5602368,
-    "change": 16.5,
-    "change_pct": 0.39
+    "price_usd": 4152.2,
+    "price_krw": 5508225,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-19 07:50",
+  "updated": "2026-10-20 09:08",
   "error": null
 }
