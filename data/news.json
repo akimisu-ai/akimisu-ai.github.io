@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000917331"
+      "title": "개발목표 달성땐 사업부 상관 없이 보상... 메모리-비메모리 성과급 격차 줄어들까",
+      "url": "https://n.news.naver.com/mnews/article/014/0005592660"
     },
     {
-      "title": "김기문 \"AI 격차 양극화 가속, 중소기업 힘 모아 준비해야\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000960625"
+      "title": "KT, 인천서 도심항공교통 실증…AI 교통관리·5G·위성망 검증",
+      "url": "https://n.news.naver.com/mnews/article/421/0009240683"
     },
     {
-      "title": "김현정 의원 \"솔리다임 상장, 주주보호 없이 추진해선 안 돼\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014266464"
+      "title": "“중소기업도 능동적으로  AI 전환에 나서야”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004957"
     },
     {
-      "title": "두산에너빌, LIG D&A와 유도무기 개발 나선다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006391944"
+      "title": "김민석 \"가상자산 과세 해법 찾겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005592710"
     },
     {
-      "title": "원·달러 환율, 또 2년 만에 최저…2.2원 내린 1328.1원 마감",
-      "url": "https://n.news.naver.com/mnews/article/003/0014266427"
+      "title": "글로벌 AI주 흔든 엘리스, 하루 만에 상한가",
+      "url": "https://n.news.naver.com/mnews/article/011/0004673733"
     },
     {
-      "title": "무심코 먹은 매운 야식…나트륨 하루치 훌쩍, 맵기도 제각각",
-      "url": "https://n.news.naver.com/mnews/article/003/0014265443"
+      "title": "신한카드, 日 SBI 그룹과 엔화 스테이블코인 결제 검증 나서",
+      "url": "https://n.news.naver.com/mnews/article/421/0009241182"
     },
     {
-      "title": "“코스트코·트레이더스에 1.45조 썼다”…9월 결제액 나란히 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/020/0003756202"
+      "title": "삼성, 오디오브랜드 JBL 80주년 특별행사… \"오디오 혁신 이어갈 것\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960852"
     },
     {
-      "title": "배추 40% 넘게 올랐다…9월 생산자물가 0.2% 상승",
-      "url": "https://n.news.naver.com/mnews/article/374/0000538885"
+      "title": "HD현대로보틱스, 자체 개발 '지능형 양팔로봇' 첫선",
+      "url": "https://n.news.naver.com/mnews/article/052/0002421724"
     },
     {
-      "title": "정은경 \"국민연금 성과, 장기적·종합적으로 평가해야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009239743"
+      "title": "[속보] 반도체 222% 폭증…10월 1∼20일 수출 616억달러, 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/025/0003559384"
     },
     {
-      "title": "청약 10조 몰렸는데 \"AI 불안\"...'엘리스' 상장 첫날 28% 급락",
-      "url": "https://n.news.naver.com/mnews/article/008/0005428774"
+      "title": "“오후 4시면 문 닫으면서”…은행 정규직 4000명 사라졌다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006392862"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5768.01,
+      "value": 5552.74,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 808.89,
+      "value": 781.97,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26424.82,
-      "change": -6.07,
-      "change_pct": -0.02
+      "value": 26702.86,
+      "change": 278.04,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1325.47,
-      "change": -4.53,
-      "change_pct": -0.34
+      "value": 1326.09,
+      "change": 2.15,
+      "change_pct": 0.16
     }
   },
   "gold": {
-    "price_usd": 4134.6,
-    "price_krw": 5480288,
-    "change": -25.5,
-    "change_pct": -0.61
+    "price_usd": 4141.7,
+    "price_krw": 5492267,
+    "change": -0.9,
+    "change_pct": -0.02
   },
-  "updated": "2026-10-21 08:39",
+  "updated": "2026-10-22 08:55",
   "error": null
 }
