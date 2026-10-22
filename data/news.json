@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "개발목표 달성땐 사업부 상관 없이 보상... 메모리-비메모리 성과급 격차 줄어들까",
-      "url": "https://n.news.naver.com/mnews/article/014/0005592660"
+      "title": "신현송 “금리 동결은 호미질의 결실…물가 오름세 강해 긴축 기조 이어갈 것”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001880232"
     },
     {
-      "title": "KT, 인천서 도심항공교통 실증…AI 교통관리·5G·위성망 검증",
-      "url": "https://n.news.naver.com/mnews/article/421/0009240683"
+      "title": "영풍, 고려아연 8370억 주주대표소송 1심 패소",
+      "url": "https://n.news.naver.com/mnews/article/021/0002827117"
     },
     {
-      "title": "“중소기업도 능동적으로  AI 전환에 나서야”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004004957"
+      "title": "재경위 '가상자산 과세' 시각차…與 의견분분, 野 \"인프라 미비\"(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016395563"
     },
     {
-      "title": "김민석 \"가상자산 과세 해법 찾겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005592710"
+      "title": "LG디스플레이 \"플립 투자·양산 시점 미확정…성능·원가 경쟁력 우위\"[컨콜]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003145789"
     },
     {
-      "title": "글로벌 AI주 흔든 엘리스, 하루 만에 상한가",
-      "url": "https://n.news.naver.com/mnews/article/011/0004673733"
+      "title": "김정관 “메가특구법에 ‘주52시간 예외’ 포함돼야”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757033"
     },
     {
-      "title": "신한카드, 日 SBI 그룹과 엔화 스테이블코인 결제 검증 나서",
-      "url": "https://n.news.naver.com/mnews/article/421/0009241182"
+      "title": "테슬라 \"내년 무감독 자율주행 시동\" … 메타 \"설비투자 1350억달러로 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005752725"
     },
     {
-      "title": "삼성, 오디오브랜드 JBL 80주년 특별행사… \"오디오 혁신 이어갈 것\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000960852"
+      "title": "크리에이터-브랜드 연결 플랫폼 선언 CJ온스타일 첫 페스타 'CCFK' 가보니",
+      "url": "https://n.news.naver.com/mnews/article/092/0002442060"
     },
     {
-      "title": "HD현대로보틱스, 자체 개발 '지능형 양팔로봇' 첫선",
-      "url": "https://n.news.naver.com/mnews/article/052/0002421724"
+      "title": "SK하이닉스, 솔리다임 프리IPO 및 IPO 검토 중단…\"주주 이익 모색\"",
+      "url": "https://n.news.naver.com/mnews/article/437/0000517148"
     },
     {
-      "title": "[속보] 반도체 222% 폭증…10월 1∼20일 수출 616억달러, 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/025/0003559384"
+      "title": "한일, 'AI·로봇' 미래산업 협력 넓힌다…\"기업·연구기관간 협력방안 모색\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005832362"
     },
     {
-      "title": "“오후 4시면 문 닫으면서”…은행 정규직 4000명 사라졌다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006392862"
+      "title": "김기문 중기중앙회장 “경쟁력 이어가려면 중소기업도 AI 전환에 눈떠야”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003559848"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5552.74,
+      "value": 5735.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 781.97,
+      "value": 792.76,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26702.86,
-      "change": 278.04,
-      "change_pct": 1.05
+      "value": 26008.86,
+      "change": -694.0,
+      "change_pct": -2.6
     },
     "usdkrw": {
-      "value": 1326.09,
-      "change": 2.15,
-      "change_pct": 0.16
+      "value": 1325.91,
+      "change": 0.32,
+      "change_pct": 0.02
     }
   },
   "gold": {
-    "price_usd": 4141.7,
-    "price_krw": 5492267,
-    "change": -0.9,
-    "change_pct": -0.02
+    "price_usd": 4039.4,
+    "price_krw": 5355880,
+    "change": -110.6,
+    "change_pct": -2.67
   },
-  "updated": "2026-10-22 08:55",
+  "updated": "2026-10-23 08:54",
   "error": null
 }
