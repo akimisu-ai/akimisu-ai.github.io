@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "신현송 “금리 동결은 호미질의 결실…물가 오름세 강해 긴축 기조 이어갈 것”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001880232"
+      "title": "‘미쉐린 별 2개’ 손종원, 신세계그룹 전문임원 승진",
+      "url": "https://n.news.naver.com/mnews/article/366/0001199908"
     },
     {
-      "title": "영풍, 고려아연 8370억 주주대표소송 1심 패소",
-      "url": "https://n.news.naver.com/mnews/article/021/0002827117"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000918705"
     },
     {
-      "title": "재경위 '가상자산 과세' 시각차…與 의견분분, 野 \"인프라 미비\"(종합2보)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016395563"
+      "title": "GS칼텍스, AI·로보틱스로 업무 혁신…'DT 데이' 개최",
+      "url": "https://n.news.naver.com/mnews/article/119/0003146015"
     },
     {
-      "title": "LG디스플레이 \"플립 투자·양산 시점 미확정…성능·원가 경쟁력 우위\"[컨콜]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003145789"
+      "title": "3분기도 깜짝 성장?…신현송 \"고성장·고금리 대응해 정책\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001270275"
     },
     {
-      "title": "김정관 “메가특구법에 ‘주52시간 예외’ 포함돼야”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757033"
+      "title": "‘동전주’도 상폐 효력정지 가처분 신청…거래소, 정리매매 보류",
+      "url": "https://n.news.naver.com/mnews/article/011/0004674545"
     },
     {
-      "title": "테슬라 \"내년 무감독 자율주행 시동\" … 메타 \"설비투자 1350억달러로 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005752725"
+      "title": "홍지선 국토부 장관 “연말 집값 안정화”…조합원 지위 양도 제한 완화 검토[2026 국감]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003146442"
     },
     {
-      "title": "크리에이터-브랜드 연결 플랫폼 선언 CJ온스타일 첫 페스타 'CCFK' 가보니",
-      "url": "https://n.news.naver.com/mnews/article/092/0002442060"
+      "title": "국토장관 \"집값 폭등·폭락 대응책 마련\"…특별공급 제도도 손본다",
+      "url": "https://n.news.naver.com/mnews/article/586/0000140714"
     },
     {
-      "title": "SK하이닉스, 솔리다임 프리IPO 및 IPO 검토 중단…\"주주 이익 모색\"",
-      "url": "https://n.news.naver.com/mnews/article/437/0000517148"
+      "title": "임단협 실마리 찾은 HD현대重, 한화오션은 난항…\"조속한 타결을\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005430848"
     },
     {
-      "title": "한일, 'AI·로봇' 미래산업 협력 넓힌다…\"기업·연구기관간 협력방안 모색\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832362"
+      "title": "명동·잠실 이어 청량리도 ‘롯데타운’ 시대",
+      "url": "https://n.news.naver.com/mnews/article/081/0003691746"
     },
     {
-      "title": "김기문 중기중앙회장 “경쟁력 이어가려면 중소기업도 AI 전환에 눈떠야”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003559848"
+      "title": "KB증권, 기업 담당자 대상 '퇴직연금 세미나' 개최",
+      "url": "https://n.news.naver.com/mnews/article/003/0014273514"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5735.66,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 792.76,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26008.86,
-      "change": -694.0,
-      "change_pct": -2.6
+      "value": 25955.34,
+      "change": -53.52,
+      "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1325.91,
-      "change": 0.32,
-      "change_pct": 0.02
+      "value": 1323.66,
+      "change": -1.93,
+      "change_pct": -0.15
     }
   },
   "gold": {
-    "price_usd": 4039.4,
-    "price_krw": 5355880,
-    "change": -110.6,
-    "change_pct": -2.67
+    "price_usd": 4010.0,
+    "price_krw": 5307876,
+    "change": -50.4,
+    "change_pct": -1.24
   },
-  "updated": "2026-10-23 08:54",
+  "updated": "2026-10-24 08:45",
   "error": null
 }
