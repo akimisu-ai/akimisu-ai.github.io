@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "‘미쉐린 별 2개’ 손종원, 신세계그룹 전문임원 승진",
-      "url": "https://n.news.naver.com/mnews/article/366/0001199908"
+      "title": "반포·이수 아파트 리모델링 시공사 선정…삼성물산·포스코이앤씨 낙점",
+      "url": "https://n.news.naver.com/mnews/article/277/0005832976"
+    },
+    {
+      "title": "“수출·재정 확대가 수요 측 물가 압력 키워…건전성 관리 유의해야”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003478261"
+    },
+    {
+      "title": "“전기차 많이 탄게 천만다행이었어”…유가 폭등에 유럽 6개국 3조원 절감",
+      "url": "https://n.news.naver.com/mnews/article/009/0005753441"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000918705"
+      "url": "https://n.news.naver.com/mnews/article/449/0000365154"
     },
     {
-      "title": "GS칼텍스, AI·로보틱스로 업무 혁신…'DT 데이' 개최",
-      "url": "https://n.news.naver.com/mnews/article/119/0003146015"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000646659"
     },
     {
-      "title": "3분기도 깜짝 성장?…신현송 \"고성장·고금리 대응해 정책\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001270275"
+      "title": "1인 가구 늘어서?…서울 아파트 '전세→월세' 중형평형서 껑충",
+      "url": "https://n.news.naver.com/mnews/article/001/0016398392"
     },
     {
-      "title": "‘동전주’도 상폐 효력정지 가처분 신청…거래소, 정리매매 보류",
-      "url": "https://n.news.naver.com/mnews/article/011/0004674545"
+      "title": "포스코 노조, 임금협상 결렬 선언… 내달 2일부터 무기한 파업 돌입",
+      "url": "https://n.news.naver.com/mnews/article/029/0003054913"
     },
     {
-      "title": "홍지선 국토부 장관 “연말 집값 안정화”…조합원 지위 양도 제한 완화 검토[2026 국감]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003146442"
+      "title": "대한항공·아시아나 예약발권 운영사에서 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/214/0001531120"
     },
     {
-      "title": "국토장관 \"집값 폭등·폭락 대응책 마련\"…특별공급 제도도 손본다",
-      "url": "https://n.news.naver.com/mnews/article/586/0000140714"
+      "title": "\"세제 개편 시행땐 세부담 증가\"…곳곳서 '하소연'[중기 가업승계②]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014275527"
     },
     {
-      "title": "임단협 실마리 찾은 HD현대重, 한화오션은 난항…\"조속한 타결을\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430848"
-    },
-    {
-      "title": "명동·잠실 이어 청량리도 ‘롯데타운’ 시대",
-      "url": "https://n.news.naver.com/mnews/article/081/0003691746"
-    },
-    {
-      "title": "KB증권, 기업 담당자 대상 '퇴직연금 세미나' 개최",
-      "url": "https://n.news.naver.com/mnews/article/003/0014273514"
+      "title": "삼전·닉스에 '25조 선납' 거절당한 한전…사채 한도 19조 초과 위기",
+      "url": "https://n.news.naver.com/mnews/article/088/0001036237"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5550.3,
+      "change": 16.53,
+      "change_pct": 0.3
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 751.69,
+      "change": -12.41,
+      "change_pct": -1.62
     },
     "nasdaq": {
       "value": 25955.34,
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1323.66,
-      "change": -1.93,
-      "change_pct": -0.15
+      "value": 1325.4,
+      "change": -0.59,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4010.0,
-    "price_krw": 5307876,
-    "change": -50.4,
-    "change_pct": -1.24
+    "price_usd": 4007.9,
+    "price_krw": 5312070,
+    "change": -52.5,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-24 08:45",
+  "updated": "2026-10-25 07:57",
   "error": null
 }
