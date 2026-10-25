@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "반포·이수 아파트 리모델링 시공사 선정…삼성물산·포스코이앤씨 낙점",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832976"
+      "title": "“이뻐지기 위해서는 맞아야” vs “부작용이 겁난다”… 이 주사 맞아야 해? [수민이가 궁금해요]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004169429"
     },
     {
-      "title": "“수출·재정 확대가 수요 측 물가 압력 키워…건전성 관리 유의해야”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003478261"
+      "title": "한국 경상흑자 독일·일본 합계 첫 추월…중국에 이어 2위",
+      "url": "https://n.news.naver.com/mnews/article/057/0001975053"
     },
     {
-      "title": "“전기차 많이 탄게 천만다행이었어”…유가 폭등에 유럽 6개국 3조원 절감",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753441"
+      "title": "당일 도정한 쌀로 만드는 무균 밥… 햇반 年 2.8억개 만드는 CJ제일제당 진천공장[르포]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200096"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000365154"
+      "title": "삼성물산 반포서 1250억 리모델링 수주…'래미안 아스펠' 제안",
+      "url": "https://n.news.naver.com/mnews/article/629/0000545251"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000646659"
+      "title": "고유가·美금리 변수…1320원대로 내려온 환율 '갈림길'[주간외환전망]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006395592"
     },
     {
-      "title": "1인 가구 늘어서?…서울 아파트 '전세→월세' 중형평형서 껑충",
-      "url": "https://n.news.naver.com/mnews/article/001/0016398392"
+      "title": "이름·폰 번호에 계좌번호까지 '탈탈'...롯데 계열 '기프티엘' 해킹",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431315"
     },
     {
-      "title": "포스코 노조, 임금협상 결렬 선언… 내달 2일부터 무기한 파업 돌입",
-      "url": "https://n.news.naver.com/mnews/article/029/0003054913"
+      "title": "전세 부족은 구조적 변화, 공급 부족은 전 정부 책임···국토장관·LH사장의 ‘반쪽짜리’ 진단",
+      "url": "https://n.news.naver.com/mnews/article/032/0003478347"
     },
     {
-      "title": "대한항공·아시아나 예약발권 운영사에서 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/214/0001531120"
+      "title": "청년들 중소기업 꺼리는 이유…월급보다 근무환경·조직문화",
+      "url": "https://n.news.naver.com/mnews/article/417/0001161972"
     },
     {
-      "title": "\"세제 개편 시행땐 세부담 증가\"…곳곳서 '하소연'[중기 가업승계②]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014275527"
+      "title": "현대차 3분기 실적 ‘비상’… 판매 부진에 기아 추월 위기",
+      "url": "https://n.news.naver.com/mnews/article/005/0001880771"
     },
     {
-      "title": "삼전·닉스에 '25조 선납' 거절당한 한전…사채 한도 19조 초과 위기",
-      "url": "https://n.news.naver.com/mnews/article/088/0001036237"
+      "title": "‘20조 조달’ 무산… SK하닉 ‘솔리다임 IPO 철회’ 후 꺼낼 플랜B는",
+      "url": "https://n.news.naver.com/mnews/article/005/0001880701"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1325.4,
-      "change": -0.59,
-      "change_pct": -0.04
+      "value": 1323.4,
+      "change": -2.59,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4007.9,
-    "price_krw": 5312070,
-    "change": -52.5,
-    "change_pct": -1.29
+    "price_usd": 4016.2,
+    "price_krw": 5315039,
+    "change": 8.3,
+    "change_pct": 0.21
   },
-  "updated": "2026-10-25 07:57",
+  "updated": "2026-10-26 08:02",
   "error": null
 }
