@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“이뻐지기 위해서는 맞아야” vs “부작용이 겁난다”… 이 주사 맞아야 해? [수민이가 궁금해요]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004169429"
+      "title": "삼성SDI, 美 에너지기업과 ESS 2차 공급 계약 체결",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200244"
     },
     {
-      "title": "한국 경상흑자 독일·일본 합계 첫 추월…중국에 이어 2위",
-      "url": "https://n.news.naver.com/mnews/article/057/0001975053"
+      "title": "롯데百 ‘맛있는 경쟁’ 가세…잠실 식품관 대수술",
+      "url": "https://n.news.naver.com/mnews/article/011/0004675391"
     },
     {
-      "title": "당일 도정한 쌀로 만드는 무균 밥… 햇반 年 2.8억개 만드는 CJ제일제당 진천공장[르포]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001200096"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000539742"
     },
     {
-      "title": "삼성물산 반포서 1250억 리모델링 수주…'래미안 아스펠' 제안",
-      "url": "https://n.news.naver.com/mnews/article/629/0000545251"
+      "title": "거래대금 64% 급감했는데 '바닥권'…증권주 반등 근거 충분할까",
+      "url": "https://n.news.naver.com/mnews/article/014/0005594825"
     },
     {
-      "title": "고유가·美금리 변수…1320원대로 내려온 환율 '갈림길'[주간외환전망]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006395592"
+      "title": "EU 포장규제 시행…韓 수출기업 10곳 중 8곳 \"잘 몰라\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009251341"
     },
     {
-      "title": "이름·폰 번호에 계좌번호까지 '탈탈'...롯데 계열 '기프티엘' 해킹",
-      "url": "https://n.news.naver.com/mnews/article/008/0005431315"
+      "title": "수소차 5만대 돌파…생태계는 고사위기",
+      "url": "https://n.news.naver.com/mnews/article/009/0005754308"
     },
     {
-      "title": "전세 부족은 구조적 변화, 공급 부족은 전 정부 책임···국토장관·LH사장의 ‘반쪽짜리’ 진단",
-      "url": "https://n.news.naver.com/mnews/article/032/0003478347"
+      "title": "“K-뷰티까지 달린다”…올 3분기 중소기업 수출 ‘역대 최고’",
+      "url": "https://n.news.naver.com/mnews/article/662/0000107004"
     },
     {
-      "title": "청년들 중소기업 꺼리는 이유…월급보다 근무환경·조직문화",
-      "url": "https://n.news.naver.com/mnews/article/417/0001161972"
+      "title": "뉴욕증시, 앤트로픽 IPO·중동 긴장 완화에 상승 출발",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200444"
     },
     {
-      "title": "현대차 3분기 실적 ‘비상’… 판매 부진에 기아 추월 위기",
-      "url": "https://n.news.naver.com/mnews/article/005/0001880771"
+      "title": "가계대출 수요 여전한데…은행권 4분기도 '깐깐'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000539757"
     },
     {
-      "title": "‘20조 조달’ 무산… SK하닉 ‘솔리다임 IPO 철회’ 후 꺼낼 플랜B는",
-      "url": "https://n.news.naver.com/mnews/article/005/0001880701"
+      "title": "홍라희 리움 명예관장 국민훈장 동백장",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757839"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5550.3,
-      "change": 16.53,
-      "change_pct": 0.3
+      "value": 5469.47,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 751.69,
-      "change": -12.41,
-      "change_pct": -1.62
+      "value": 727.21,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25955.34,
-      "change": -53.52,
-      "change_pct": -0.21
+      "value": 26169.38,
+      "change": 214.04,
+      "change_pct": 0.82
     },
     "usdkrw": {
-      "value": 1323.4,
-      "change": -2.59,
-      "change_pct": -0.2
+      "value": 1324.18,
+      "change": 2.42,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 4016.2,
-    "price_krw": 5315039,
-    "change": 8.3,
-    "change_pct": 0.21
+    "price_usd": 4020.6,
+    "price_krw": 5323998,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-26 08:02",
+  "updated": "2026-10-27 09:15",
   "error": null
 }
