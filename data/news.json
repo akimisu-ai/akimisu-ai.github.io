@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'26조' 체코 원전 팀코리아 깨졌다… 시공계약 결국 결렬",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596722"
+      "title": "바이낸스 해킹 가능성에 긴장…국내 거래소 잇달아 ‘출금 금지’ 경고",
+      "url": "https://n.news.naver.com/mnews/article/081/0003694221"
     },
     {
-      "title": "[2보] 9월 생산, 15년 6개월 만에 최대폭↑…석달만에 트리플 증가",
-      "url": "https://n.news.naver.com/mnews/article/001/0016410781"
+      "title": "유진이엔티, 방미통위에 YTN 최대주주 변경승인 취소 절차 보류 요청",
+      "url": "https://n.news.naver.com/mnews/article/421/0009261374"
     },
     {
-      "title": "조선 순항·방산 주춤 … 삼성重 영업익 42%↑",
-      "url": "https://n.news.naver.com/mnews/article/009/0005756145"
+      "title": "[단독] 코인 1억 털린 ‘프라뱅’… 빗썸, 고객 정보도 유출",
+      "url": "https://n.news.naver.com/mnews/article/081/0003694003"
     },
     {
-      "title": "\"190억원에 샀는데 6개월 만에\"…옥주현 '한남더힐' 경매로",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596558"
+      "title": "9월 생산·소비·투자, 석 달 만에 '트리플 증가'",
+      "url": "https://n.news.naver.com/mnews/article/422/0000921058"
     },
     {
-      "title": "삼성전자, 주주환원 '1월로 미루자' 실망한 시장",
-      "url": "https://n.news.naver.com/mnews/article/008/0005433820"
+      "title": "현대제철 3분기 영업이익 871억원…제품값 인상에 2분기 대비 51%↑",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716738"
     },
     {
-      "title": "신세계, 롯데 센텀시티점 전격 인수…부산 해운대에 초대형 '신세계 타운'",
-      "url": "https://n.news.naver.com/mnews/article/660/0000120178"
+      "title": "주택공급 급한데…국토부·서울시 협의 ‘헛바퀴’ 우려",
+      "url": "https://n.news.naver.com/mnews/article/119/0003149587"
     },
     {
-      "title": "퇴직연금 '위험자산 70% 상한' 완화, 국민연금 참여도 검토…'쥐꼬리 수익률' 개선될까",
-      "url": "https://n.news.naver.com/mnews/article/008/0005433764"
+      "title": "\"9월까지\" 체코 제시한 기한 이미 지났는데...원전 '팀코리아' 흔들",
+      "url": "https://n.news.naver.com/mnews/article/008/0005434051"
     },
     {
-      "title": "서울 5㎞ 안쪽 경기권 택지 6곳…GTX·지하철 연계부터 문화거점 조성까지",
-      "url": "https://n.news.naver.com/mnews/article/666/0000129689"
+      "title": "SK그룹, 반도체는 안정·에너지는 재편…전력·AI 확장 포석[종합]",
+      "url": "https://n.news.naver.com/mnews/article/031/0001070783"
     },
     {
-      "title": "삼성전자 \"HBM4 매출 3배 급증·내년 완판…시설투자 84.4조 '역대 최대'\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005835240"
+      "title": "애플, 엔비디아 꺾고 시총 1위 탈환…7월 이후 석달 만",
+      "url": "https://n.news.naver.com/mnews/article/056/0012284701"
     },
     {
-      "title": "가상자산 거래소까지 이어진 해킹…빗썸·프라뱅도 유출 外 [한강로 경제브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004171025"
+      "title": "2026년 수소발전입찰 시장 개설…청정수소 물량 13분의 1토막",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836052"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5731.12,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 732.99,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26184.72,
-      "change": -365.12,
-      "change_pct": -1.38
+      "value": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1338.58,
-      "change": -1.76,
-      "change_pct": -0.13
+      "value": 1337.98,
+      "change": -2.36,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 4023.8,
-    "price_krw": 5386178,
-    "change": -27.8,
-    "change_pct": -0.69
+    "price_usd": 3884.9,
+    "price_krw": 5197918,
+    "change": -146.5,
+    "change_pct": -3.63
   },
-  "updated": "2026-10-30 09:39",
+  "updated": "2026-10-31 09:30",
   "error": null
 }
