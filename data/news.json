@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "바이낸스 해킹 가능성에 긴장…국내 거래소 잇달아 ‘출금 금지’ 경고",
-      "url": "https://n.news.naver.com/mnews/article/081/0003694221"
+      "title": "안동 간 韓 총리 \"대한민국 대세일 시작…삶 더 나아지는 대한민국 만들 것\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836180"
     },
     {
-      "title": "유진이엔티, 방미통위에 YTN 최대주주 변경승인 취소 절차 보류 요청",
-      "url": "https://n.news.naver.com/mnews/article/421/0009261374"
+      "title": "올트먼이 삼성 사장단에 선물한 30만원대 ‘코덱스 키보드’ 뭐길래",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201692"
     },
     {
-      "title": "[단독] 코인 1억 털린 ‘프라뱅’… 빗썸, 고객 정보도 유출",
-      "url": "https://n.news.naver.com/mnews/article/081/0003694003"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000921441"
     },
     {
-      "title": "9월 생산·소비·투자, 석 달 만에 '트리플 증가'",
-      "url": "https://n.news.naver.com/mnews/article/422/0000921058"
+      "title": "\"2400만원에 푼다\" 한국 안방 점령한 '2만대 중국車'…현대·기아 中점유율은?",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836168"
     },
     {
-      "title": "현대제철 3분기 영업이익 871억원…제품값 인상에 2분기 대비 51%↑",
-      "url": "https://n.news.naver.com/mnews/article/016/0002716738"
+      "title": "증권사도 코인거래소도 뚫렸다…금융권 해킹 공포 확산[비즈토크<하>]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000547524"
     },
     {
-      "title": "주택공급 급한데…국토부·서울시 협의 ‘헛바퀴’ 우려",
-      "url": "https://n.news.naver.com/mnews/article/119/0003149587"
+      "title": "“내년도 남는 현금 없다”면서도…인텔, 투자 더 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006400229"
     },
     {
-      "title": "\"9월까지\" 체코 제시한 기한 이미 지났는데...원전 '팀코리아' 흔들",
-      "url": "https://n.news.naver.com/mnews/article/008/0005434051"
+      "title": "가격·공기 자신하던 K원전…체코 시공협상 결렬에 추가 수주 '시험대'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009262399"
     },
     {
-      "title": "SK그룹, 반도체는 안정·에너지는 재편…전력·AI 확장 포석[종합]",
-      "url": "https://n.news.naver.com/mnews/article/031/0001070783"
+      "title": "골프존홀딩스는 왜 골프존카운티 매각에 반발할까",
+      "url": "https://n.news.naver.com/mnews/article/018/0006400611"
     },
     {
-      "title": "애플, 엔비디아 꺾고 시총 1위 탈환…7월 이후 석달 만",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284701"
+      "title": "내주 고덕강일3단지 등 전국 4천928가구 청약 접수[부동산캘린더]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413066"
     },
     {
-      "title": "2026년 수소발전입찰 시장 개설…청정수소 물량 13분의 1토막",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836052"
+      "title": "건설사 해킹에 부각된 입주민 정보보안…아파트 첨단화의 그늘",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413559"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5730.74,
+      "change": -206.92,
+      "change_pct": -3.48
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 724.38,
+      "change": -28.85,
+      "change_pct": -3.83
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": -2.36,
-      "change_pct": -0.18
+      "value": 1335.1,
+      "change": -2.88,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 3884.9,
-    "price_krw": 5197918,
-    "change": -146.5,
-    "change_pct": -3.63
+    "price_usd": 3898.9,
+    "price_krw": 5205421,
+    "change": -132.5,
+    "change_pct": -3.29
   },
-  "updated": "2026-10-31 09:30",
+  "updated": "2026-11-01 08:58",
   "error": null
 }
