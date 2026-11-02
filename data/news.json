@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "안동 간 韓 총리 \"대한민국 대세일 시작…삶 더 나아지는 대한민국 만들 것\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836180"
+      "title": "한 달에도 여러 번 일본행…이재용, 3대째 이어온 ‘日 셔틀 경영’ 가속",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561974"
     },
     {
-      "title": "올트먼이 삼성 사장단에 선물한 30만원대 ‘코덱스 키보드’ 뭐길래",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201692"
+      "title": "다시 한국 찾은 샘 올트먼, 삼성·SK와 회동…1년 전 ‘AI 동맹’ 실체는?[산업이(異)면]",
+      "url": "https://n.news.naver.com/mnews/article/032/0003479884"
+    },
+    {
+      "title": "한공회 \"서울시 민간위탁, 현행 제도 유지해야\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836431"
+    },
+    {
+      "title": "\"기아, 글로벌 점유율 역대 최고…전기차 수익성도 반전\"하나證",
+      "url": "https://n.news.naver.com/mnews/article/014/0005597697"
+    },
+    {
+      "title": "韓 수출 첫 9000억 달러 돌파…\"11월 중 1조 돌파 확실시\"(상보)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009262531"
+    },
+    {
+      "title": "삼성證, 에이피알 목표주가 27%↓ \"환율 상승, 단기조정 불가피\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009263564"
+    },
+    {
+      "title": "삼정KPMG “ESS 경쟁력, 가격보다 공급망·안전 인증·시스템 운영 역량이 좌우”",
+      "url": "https://n.news.naver.com/mnews/article/123/0002393059"
+    },
+    {
+      "title": "중진공, ‘청년창업사관학교’ 졸업기업 산업AI 엑스포 참가 지원",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201840"
+    },
+    {
+      "title": "한화, 미 해군 함정 첫 수주…필리조선소 인수 2년 만에 ‘마스가’ 본격화",
+      "url": "https://n.news.naver.com/mnews/article/028/0002830126"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000921441"
-    },
-    {
-      "title": "\"2400만원에 푼다\" 한국 안방 점령한 '2만대 중국車'…현대·기아 中점유율은?",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836168"
-    },
-    {
-      "title": "증권사도 코인거래소도 뚫렸다…금융권 해킹 공포 확산[비즈토크<하>]",
-      "url": "https://n.news.naver.com/mnews/article/629/0000547524"
-    },
-    {
-      "title": "“내년도 남는 현금 없다”면서도…인텔, 투자 더 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006400229"
-    },
-    {
-      "title": "가격·공기 자신하던 K원전…체코 시공협상 결렬에 추가 수주 '시험대'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009262399"
-    },
-    {
-      "title": "골프존홀딩스는 왜 골프존카운티 매각에 반발할까",
-      "url": "https://n.news.naver.com/mnews/article/018/0006400611"
-    },
-    {
-      "title": "내주 고덕강일3단지 등 전국 4천928가구 청약 접수[부동산캘린더]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016413066"
-    },
-    {
-      "title": "건설사 해킹에 부각된 입주민 정보보안…아파트 첨단화의 그늘",
-      "url": "https://n.news.naver.com/mnews/article/001/0016413559"
+      "url": "https://n.news.naver.com/mnews/article/422/0000921609"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5730.74,
-      "change": -206.92,
-      "change_pct": -3.48
+      "value": 5627.77,
+      "change": -102.97,
+      "change_pct": -1.8
     },
     "kosdaq": {
-      "value": 724.38,
-      "change": -28.85,
-      "change_pct": -3.83
+      "value": 720.1,
+      "change": -4.28,
+      "change_pct": -0.59
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1335.1,
-      "change": -2.88,
-      "change_pct": -0.22
+      "value": 1333.92,
+      "change": -4.06,
+      "change_pct": -0.3
     }
   },
   "gold": {
-    "price_usd": 3898.9,
-    "price_krw": 5205421,
-    "change": -132.5,
-    "change_pct": -3.29
+    "price_usd": 3909.5,
+    "price_krw": 5214960,
+    "change": 10.6,
+    "change_pct": 0.27
   },
-  "updated": "2026-11-01 08:58",
+  "updated": "2026-11-02 09:22",
   "error": null
 }
