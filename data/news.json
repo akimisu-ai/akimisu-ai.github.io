@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한 달에도 여러 번 일본행…이재용, 3대째 이어온 ‘日 셔틀 경영’ 가속",
-      "url": "https://n.news.naver.com/mnews/article/025/0003561974"
+      "title": "영풍 “고려아연 자금, 카카오 거쳐 최윤범 투자사로…150억 불어났다”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003481131"
     },
     {
-      "title": "다시 한국 찾은 샘 올트먼, 삼성·SK와 회동…1년 전 ‘AI 동맹’ 실체는?[산업이(異)면]",
-      "url": "https://n.news.naver.com/mnews/article/032/0003479884"
+      "title": "대우건설, 4647억 의정부 가능4구역 재개발정비사업 시공사 선정",
+      "url": "https://n.news.naver.com/mnews/article/003/0014295613"
     },
     {
-      "title": "한공회 \"서울시 민간위탁, 현행 제도 유지해야\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836431"
+      "title": "현대차 제네시스 생산라인 일부 중단…신차 투입, 노사 마찰",
+      "url": "https://n.news.naver.com/mnews/article/003/0014296023"
     },
     {
-      "title": "\"기아, 글로벌 점유율 역대 최고…전기차 수익성도 반전\"하나證",
-      "url": "https://n.news.naver.com/mnews/article/014/0005597697"
+      "title": "신한은행·삼성운용, 퇴직연금 고객 서비스 강화 MOU",
+      "url": "https://n.news.naver.com/mnews/article/421/0009266430"
     },
     {
-      "title": "韓 수출 첫 9000억 달러 돌파…\"11월 중 1조 돌파 확실시\"(상보)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009262531"
+      "title": "대통령 전용기 탑승자 개인정보, 5개월간 유료사이트 노출[손병관의 뉴스프레소]",
+      "url": "https://n.news.naver.com/mnews/article/047/0002534402"
     },
     {
-      "title": "삼성證, 에이피알 목표주가 27%↓ \"환율 상승, 단기조정 불가피\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009263564"
+      "title": "기름값 뛰고 생활물가도 상승…부산 10월 소비자물가 2.8%↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009266555"
     },
     {
-      "title": "삼정KPMG “ESS 경쟁력, 가격보다 공급망·안전 인증·시스템 운영 역량이 좌우”",
-      "url": "https://n.news.naver.com/mnews/article/123/0002393059"
+      "title": "한양증권에서도 해킹…고객정보 등 일부 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/374/0000541301"
     },
     {
-      "title": "중진공, ‘청년창업사관학교’ 졸업기업 산업AI 엑스포 참가 지원",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201840"
+      "title": "中 전기차 공세에 현대차 찾은 이형일…업계 “생산세액공제 필요”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003694899"
     },
     {
-      "title": "한화, 미 해군 함정 첫 수주…필리조선소 인수 2년 만에 ‘마스가’ 본격화",
-      "url": "https://n.news.naver.com/mnews/article/028/0002830126"
+      "title": "GC녹십자, '국민성장펀드' 1700억원 조달…美 피하주사제 개발 속도",
+      "url": "https://n.news.naver.com/mnews/article/030/0003481413"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000921609"
+      "title": "에이피알, 뉴욕·런던 등 4개 도시 팝업에 1만5000명 방문",
+      "url": "https://n.news.naver.com/mnews/article/277/0005837188"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5627.77,
-      "change": -102.97,
-      "change_pct": -1.8
+      "value": 5708.79,
+      "change": -150.29,
+      "change_pct": -2.57
     },
     "kosdaq": {
-      "value": 720.1,
-      "change": -4.28,
-      "change_pct": -0.59
+      "value": 716.72,
+      "change": -17.64,
+      "change_pct": -2.4
     },
     "nasdaq": {
-      "value": 25437.0,
-      "change": -747.72,
-      "change_pct": -2.86
+      "value": 25164.36,
+      "change": -272.64,
+      "change_pct": -1.07
     },
     "usdkrw": {
-      "value": 1333.92,
-      "change": -4.06,
-      "change_pct": -0.3
+      "value": 1340.28,
+      "change": 14.76,
+      "change_pct": 1.11
     }
   },
   "gold": {
-    "price_usd": 3909.5,
-    "price_krw": 5214960,
-    "change": 10.6,
-    "change_pct": 0.27
+    "price_usd": 3953.9,
+    "price_krw": 5299332,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-02 09:22",
+  "updated": "2026-11-03 11:47",
   "error": null
 }
