@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "영풍 “고려아연 자금, 카카오 거쳐 최윤범 투자사로…150억 불어났다”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003481131"
+      "title": "“CEO까지 책임 묻겠다”…금융권 해킹 사고에 칼 빼든 금감원",
+      "url": "https://n.news.naver.com/mnews/article/029/0003056861"
     },
     {
-      "title": "대우건설, 4647억 의정부 가능4구역 재개발정비사업 시공사 선정",
-      "url": "https://n.news.naver.com/mnews/article/003/0014295613"
+      "title": "정부 “체감 물가 여전히 높아…640억원 역대급 김장 대책 마련”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003562424"
     },
     {
-      "title": "현대차 제네시스 생산라인 일부 중단…신차 투입, 노사 마찰",
-      "url": "https://n.news.naver.com/mnews/article/003/0014296023"
+      "title": "10월 외환보유액 4천432억달러로 늘어…국제 순위 9위로↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016420082"
     },
     {
-      "title": "신한은행·삼성운용, 퇴직연금 고객 서비스 강화 MOU",
-      "url": "https://n.news.naver.com/mnews/article/421/0009266430"
+      "title": "메디큐브, 캐나다 '샤퍼스' 입점…모공패드 등 13개 제품 판매",
+      "url": "https://n.news.naver.com/mnews/article/001/0016420209"
     },
     {
-      "title": "대통령 전용기 탑승자 개인정보, 5개월간 유료사이트 노출[손병관의 뉴스프레소]",
-      "url": "https://n.news.naver.com/mnews/article/047/0002534402"
+      "title": "한국항공우주, 완제기 수출 확대에 실적 성장…목표가 15만원으로 상향-한화",
+      "url": "https://n.news.naver.com/mnews/article/018/0006403283"
     },
     {
-      "title": "기름값 뛰고 생활물가도 상승…부산 10월 소비자물가 2.8%↑",
-      "url": "https://n.news.naver.com/mnews/article/421/0009266555"
+      "title": "풍작에 김장철 부담 완화…정부, 역대 최대 640억원 할인 지원",
+      "url": "https://n.news.naver.com/mnews/article/422/0000922263"
     },
     {
-      "title": "한양증권에서도 해킹…고객정보 등 일부 정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/374/0000541301"
+      "title": "코스피, 美기술주 반등에 1%대↑…장중 상승탄력 둔화(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016420388"
     },
     {
-      "title": "中 전기차 공세에 현대차 찾은 이형일…업계 “생산세액공제 필요”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003694899"
+      "title": "LG엔솔 \"4분기 매출 10%↑…북미 ESS 2028년 물량 대부분 확정\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001400232"
     },
     {
-      "title": "GC녹십자, '국민성장펀드' 1700억원 조달…美 피하주사제 개발 속도",
-      "url": "https://n.news.naver.com/mnews/article/030/0003481413"
+      "title": "\"세금은 내는데 건보료는 제외\"…분리과세소득에 건보료 부과 검토",
+      "url": "https://n.news.naver.com/mnews/article/001/0016420109"
     },
     {
-      "title": "에이피알, 뉴욕·런던 등 4개 도시 팝업에 1만5000명 방문",
-      "url": "https://n.news.naver.com/mnews/article/277/0005837188"
+      "title": "'퇴직연금 고객 잡자'…은행권, 마케팅 봇물",
+      "url": "https://n.news.naver.com/mnews/article/277/0005837730"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5708.79,
-      "change": -150.29,
-      "change_pct": -2.57
+      "value": 5695.17,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 716.72,
-      "change": -17.64,
-      "change_pct": -2.4
+      "value": 698.64,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25164.36,
-      "change": -272.64,
-      "change_pct": -1.07
+      "value": 25372.01,
+      "change": 207.7,
+      "change_pct": 0.83
     },
     "usdkrw": {
-      "value": 1340.28,
-      "change": 14.76,
-      "change_pct": 1.11
+      "value": 1343.48,
+      "change": -1.33,
+      "change_pct": -0.1
     }
   },
   "gold": {
-    "price_usd": 3953.9,
-    "price_krw": 5299332,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3940.1,
+    "price_krw": 5293445,
+    "change": -29.5,
+    "change_pct": -0.74
   },
-  "updated": "2026-11-03 11:47",
+  "updated": "2026-11-04 10:05",
   "error": null
 }
