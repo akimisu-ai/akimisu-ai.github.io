@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“CEO까지 책임 묻겠다”…금융권 해킹 사고에 칼 빼든 금감원",
-      "url": "https://n.news.naver.com/mnews/article/029/0003056861"
+      "title": "셀트리온, 브라질 공략 속도...신규 바이오의약품 3종 출시",
+      "url": "https://n.news.naver.com/mnews/article/014/0005599712"
     },
     {
-      "title": "정부 “체감 물가 여전히 높아…640억원 역대급 김장 대책 마련”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003562424"
+      "title": "삼성바이오 노사, 재교섭도 불발… 노조는 6일 부터 2차 파업 예고",
+      "url": "https://n.news.naver.com/mnews/article/366/0001202649"
     },
     {
-      "title": "10월 외환보유액 4천432억달러로 늘어…국제 순위 9위로↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016420082"
+      "title": "코스피, 1%대 하락 출발…삼전·닉스↓현대차↑",
+      "url": "https://n.news.naver.com/mnews/article/029/0003057276"
     },
     {
-      "title": "메디큐브, 캐나다 '샤퍼스' 입점…모공패드 등 13개 제품 판매",
-      "url": "https://n.news.naver.com/mnews/article/001/0016420209"
+      "title": "기아, '무브 앤 커넥트' 2기 진행…돌봄기관에 전기차 18대 순차 기부",
+      "url": "https://n.news.naver.com/mnews/article/421/0009271487"
     },
     {
-      "title": "한국항공우주, 완제기 수출 확대에 실적 성장…목표가 15만원으로 상향-한화",
-      "url": "https://n.news.naver.com/mnews/article/018/0006403283"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002428539"
     },
     {
-      "title": "풍작에 김장철 부담 완화…정부, 역대 최대 640억원 할인 지원",
-      "url": "https://n.news.naver.com/mnews/article/422/0000922263"
+      "title": "이인아 현대차 상무 \"모빌리티는 수소 활성화 해법..정책도 뒷받침돼야\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436687"
     },
     {
-      "title": "코스피, 美기술주 반등에 1%대↑…장중 상승탄력 둔화(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016420388"
+      "title": "다우·CJ컨소시엄, 중앙일보 신주인수계약...5천2백억 규모",
+      "url": "https://n.news.naver.com/mnews/article/052/0002428335"
     },
     {
-      "title": "LG엔솔 \"4분기 매출 10%↑…북미 ESS 2028년 물량 대부분 확정\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001400232"
+      "title": "금융위, 홍콩ELS 과징금 3천700억원 확정 '역대 최대'",
+      "url": "https://n.news.naver.com/mnews/article/088/0001038428"
     },
     {
-      "title": "\"세금은 내는데 건보료는 제외\"…분리과세소득에 건보료 부과 검토",
-      "url": "https://n.news.naver.com/mnews/article/001/0016420109"
+      "title": "'그냥 쉬는' 한국인 4년 만에 꺾였다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005599525"
     },
     {
-      "title": "'퇴직연금 고객 잡자'…은행권, 마케팅 봇물",
-      "url": "https://n.news.naver.com/mnews/article/277/0005837730"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000922976"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5695.17,
+      "value": 5465.85,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 698.64,
+      "value": 691.96,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25372.01,
-      "change": 207.7,
-      "change_pct": 0.83
+      "value": 25736.51,
+      "change": 364.5,
+      "change_pct": 1.44
     },
     "usdkrw": {
-      "value": 1343.48,
-      "change": -1.33,
-      "change_pct": -0.1
+      "value": 1339.59,
+      "change": -3.31,
+      "change_pct": -0.25
     }
   },
   "gold": {
-    "price_usd": 3940.1,
-    "price_krw": 5293445,
-    "change": -29.5,
-    "change_pct": -0.74
+    "price_usd": 4106.8,
+    "price_krw": 5501427,
+    "change": 166.4,
+    "change_pct": 4.22
   },
-  "updated": "2026-11-04 10:05",
+  "updated": "2026-11-05 10:20",
   "error": null
 }
