@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전자 '제6노조' 설립 추진…수일 내 설립신고증 교부될 듯",
-      "url": "https://n.news.naver.com/mnews/article/088/0001038695"
+      "title": "신세계 백화점부문 첫 '사령탑'에 이석구…계열분리 중책",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052369"
     },
     {
-      "title": "SK바이오팜, 3분기 영업익 1163억…엑스코프리 美 판매 호조",
-      "url": "https://n.news.naver.com/mnews/article/011/0004679006"
+      "title": "삼양식품, 3Q 영업익 1962억·49.9%↑…\"해외매출 성장에 분기 최대 실적\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014306712"
     },
     {
-      "title": "방경만號 KT&G, 사상 최대 분기 실적…글로벌 성장-주주환원 '투트랙' 가속",
-      "url": "https://n.news.naver.com/mnews/article/030/0003482729"
+      "title": "증시폭락 후폭풍에 휘말린 비트코인…하루새 8만달러서 7만6000달러로",
+      "url": "https://n.news.naver.com/mnews/article/009/0005759963"
     },
     {
-      "title": "美 ‘블루웨이브’발 AI 투자 지연 우려에… 삼전·닉스 프리장 4%대 급락 [이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678914"
+      "title": "원/달러 환율 1357원 급등, AI 규제 쇼크에 출렁",
+      "url": "https://n.news.naver.com/mnews/article/417/0001163501"
     },
     {
-      "title": "美증시 폭락에 안전자산 '우르르'...국채 가격 '급등'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271867"
+      "title": "공정위, 독과점 '고가 책정·유지' 규율 강화…25년 만에 정비",
+      "url": "https://n.news.naver.com/mnews/article/421/0009273872"
     },
     {
-      "title": "코스피, AI데이터센터 건설 차질 우려에 5천선 붕괴",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271879"
+      "title": "코스메카코리아, 3분기 영업이익 272억원…전년比 0.1% 증가",
+      "url": "https://n.news.naver.com/mnews/article/629/0000549626"
     },
     {
-      "title": "BGF리테일, 소비쿠폰 기저 부담에도 이익 성장…목표가 18만원 유지-NH",
-      "url": "https://n.news.naver.com/mnews/article/018/0006404696"
+      "title": "고팍스, 코인 매매 일시 중단…“해커 협박 받아”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405369"
     },
     {
-      "title": "여의도 목화아파트 재건축…여의나루·한강 잇는 416가구 공급",
-      "url": "https://n.news.naver.com/mnews/article/003/0014305480"
+      "title": "롯데케미칼, 3분기 매출 늘었지만 영업손실 2814억…적자폭↑",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203147"
     },
     {
-      "title": "주식은 떨어지고 금값은 오르고…다시 주목받는 '금테크'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006404773"
+      "title": "정부, 증시 급락에 반대매매 차단…증권사 담보비율 유지의무 3개월 면제",
+      "url": "https://n.news.naver.com/mnews/article/421/0009274250"
     },
     {
-      "title": "[속보] 뉴욕 3대 증시, 중간선거 상승분 모두 반납하며 급락…나스닥 5.5%↓",
-      "url": "https://n.news.naver.com/mnews/article/079/0004207068"
+      "title": "백화점이 끌고 마트가 밀었다…롯데쇼핑, 3분기 영업익 34.5%↑",
+      "url": "https://n.news.naver.com/mnews/article/119/0003152106"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4928.74,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 632.01,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 24315.0,
-      "change": -1421.51,
-      "change_pct": -5.52
+      "value": 24579.42,
+      "change": 264.42,
+      "change_pct": 1.09
     },
     "usdkrw": {
-      "value": 1354.78,
-      "change": 14.71,
-      "change_pct": 1.1
+      "value": 1356.34,
+      "change": 16.27,
+      "change_pct": 1.21
     }
   },
   "gold": {
-    "price_usd": 4101.5,
-    "price_krw": 5556630,
-    "change": 28.5,
-    "change_pct": 0.7
+    "price_usd": 4079.5,
+    "price_krw": 5533189,
+    "change": -34.0,
+    "change_pct": -0.83
   },
-  "updated": "2026-11-06 10:24",
+  "updated": "2026-11-07 09:40",
   "error": null
 }
