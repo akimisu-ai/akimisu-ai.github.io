@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "title": "신세계 백화점부문 첫 '사령탑'에 이석구…계열분리 중책",
-      "url": "https://n.news.naver.com/mnews/article/648/0000052369"
+      "title": "국장 급락에 등 돌린 개미…일주일 새 3조 폭풍매수 '간 큰 베팅'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271982"
     },
     {
-      "title": "삼양식품, 3Q 영업익 1962억·49.9%↑…\"해외매출 성장에 분기 최대 실적\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014306712"
+      "title": "급락장 지나도 안심 못 한다…코스피 반등 vs 추가 하락 ‘안갯속’ [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003152485"
     },
     {
-      "title": "증시폭락 후폭풍에 휘말린 비트코인…하루새 8만달러서 7만6000달러로",
-      "url": "https://n.news.naver.com/mnews/article/009/0005759963"
+      "title": "이번 주 국내 기름값 동반 하락…휘발유·경유 1800원대",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405431"
     },
     {
-      "title": "원/달러 환율 1357원 급등, AI 규제 쇼크에 출렁",
-      "url": "https://n.news.naver.com/mnews/article/417/0001163501"
+      "title": "MS, 오라클과 클라우드 계약 단계적 종료…AI 열기 식나",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405437"
     },
     {
-      "title": "공정위, 독과점 '고가 책정·유지' 규율 강화…25년 만에 정비",
-      "url": "https://n.news.naver.com/mnews/article/421/0009273872"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002429552"
     },
     {
-      "title": "코스메카코리아, 3분기 영업이익 272억원…전년比 0.1% 증가",
-      "url": "https://n.news.naver.com/mnews/article/629/0000549626"
+      "title": "\"연금 오르면 뭐하나, 생계급여 깎이는데\"…커지는 빈곤 노인 '한숨'",
+      "url": "https://n.news.naver.com/mnews/article/666/0000131046"
     },
     {
-      "title": "고팍스, 코인 매매 일시 중단…“해커 협박 받아”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405369"
+      "title": "중도금 대출금리 5% 육박…고금리에 수분양자 이자 부담 가중",
+      "url": "https://n.news.naver.com/mnews/article/660/0000120836"
     },
     {
-      "title": "롯데케미칼, 3분기 매출 늘었지만 영업손실 2814억…적자폭↑",
-      "url": "https://n.news.naver.com/mnews/article/366/0001203147"
+      "title": "포스코 노조, 임금교섭 잠정합의안 찬반투표 부결…51.7% 반대",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542312"
     },
     {
-      "title": "정부, 증시 급락에 반대매매 차단…증권사 담보비율 유지의무 3개월 면제",
-      "url": "https://n.news.naver.com/mnews/article/421/0009274250"
+      "title": "329만원짜리 폰, 모시고 살아야 하나…아이폰 듀오 써보니",
+      "url": "https://n.news.naver.com/mnews/article/025/0003563472"
     },
     {
-      "title": "백화점이 끌고 마트가 밀었다…롯데쇼핑, 3분기 영업익 34.5%↑",
-      "url": "https://n.news.naver.com/mnews/article/119/0003152106"
+      "title": "오를 땐 팔고 급락하니 산다…'떨어지는 칼날' 잡는 개미들",
+      "url": "https://n.news.naver.com/mnews/article/421/0009276358"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5059.69,
+      "change": -324.11,
+      "change_pct": -6.02
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 644.27,
+      "change": -34.14,
+      "change_pct": -5.03
     },
     "nasdaq": {
-      "value": 24579.42,
-      "change": 264.42,
+      "value": 24579.43,
+      "change": 264.43,
       "change_pct": 1.09
     },
     "usdkrw": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4079.5,
-    "price_krw": 5533189,
-    "change": -34.0,
-    "change_pct": -0.83
+    "price_usd": 4074.9,
+    "price_krw": 5526949,
+    "change": -38.6,
+    "change_pct": -0.94
   },
-  "updated": "2026-11-07 09:40",
+  "updated": "2026-11-08 09:14",
   "error": null
 }
