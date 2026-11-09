@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "국장 급락에 등 돌린 개미…일주일 새 3조 폭풍매수 '간 큰 베팅'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271982"
+      "title": "금호타이어, 폭스바겐 세아트 뚫었다…유럽 공략 가속",
+      "url": "https://n.news.naver.com/mnews/article/014/0005601174"
     },
     {
-      "title": "급락장 지나도 안심 못 한다…코스피 반등 vs 추가 하락 ‘안갯속’ [주간 증시 전망]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003152485"
+      "title": "현대차그룹 HTWO 광저우, 중국 수소 상용차 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/417/0001163643"
     },
     {
-      "title": "이번 주 국내 기름값 동반 하락…휘발유·경유 1800원대",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405431"
+      "title": "삼성바이오에피스, 키트루다 시밀러 임상 3상서 동등성 확인",
+      "url": "https://n.news.naver.com/mnews/article/018/0006406459"
     },
     {
-      "title": "MS, 오라클과 클라우드 계약 단계적 종료…AI 열기 식나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405437"
+      "title": "“인턴 합격 축하합니다” 영국 파견 안내까지 받았는데…채용팀은 존재하지 않았다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004679959"
+    },
+    {
+      "title": "메모리 시장 진출설 불거진 TSMC “파운드리 집중” 부인",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203321"
+    },
+    {
+      "title": "농심 첫 수출전문공장 가동···100여개국 겨냥한 ‘다품종 대량생산’ 체계 구축",
+      "url": "https://n.news.naver.com/mnews/article/032/0003481293"
+    },
+    {
+      "title": "이재용·정의선 한자리…삼성·현대차 첫 그룹 교류 행사",
+      "url": "https://n.news.naver.com/mnews/article/654/0000209972"
+    },
+    {
+      "title": "‘美국채·나스닥에 반반 투자’ 삼성운용, 美나스닥100미국채혼합50 ETF 신규 상장",
+      "url": "https://n.news.naver.com/mnews/article/016/0002720596"
+    },
+    {
+      "title": "“국민연금 받는 급여만큼 기초생활 수급비 깎여”…조기연금 신청하는 저소득층 노인들",
+      "url": "https://n.news.naver.com/mnews/article/022/0004173545"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002429552"
-    },
-    {
-      "title": "\"연금 오르면 뭐하나, 생계급여 깎이는데\"…커지는 빈곤 노인 '한숨'",
-      "url": "https://n.news.naver.com/mnews/article/666/0000131046"
-    },
-    {
-      "title": "중도금 대출금리 5% 육박…고금리에 수분양자 이자 부담 가중",
-      "url": "https://n.news.naver.com/mnews/article/660/0000120836"
-    },
-    {
-      "title": "포스코 노조, 임금교섭 잠정합의안 찬반투표 부결…51.7% 반대",
-      "url": "https://n.news.naver.com/mnews/article/374/0000542312"
-    },
-    {
-      "title": "329만원짜리 폰, 모시고 살아야 하나…아이폰 듀오 써보니",
-      "url": "https://n.news.naver.com/mnews/article/025/0003563472"
-    },
-    {
-      "title": "오를 땐 팔고 급락하니 산다…'떨어지는 칼날' 잡는 개미들",
-      "url": "https://n.news.naver.com/mnews/article/421/0009276358"
+      "url": "https://n.news.naver.com/mnews/article/437/0000519727"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5059.69,
-      "change": -324.11,
-      "change_pct": -6.02
+      "value": 5058.54,
+      "change": -1.15,
+      "change_pct": -0.02
     },
     "kosdaq": {
-      "value": 644.27,
-      "change": -34.14,
-      "change_pct": -5.03
+      "value": 638.82,
+      "change": -5.45,
+      "change_pct": -0.85
     },
     "nasdaq": {
       "value": 24579.43,
@@ -58,17 +58,17 @@
       "change_pct": 1.09
     },
     "usdkrw": {
-      "value": 1356.34,
-      "change": 16.27,
-      "change_pct": 1.21
+      "value": 1360.04,
+      "change": 3.7,
+      "change_pct": 0.27
     }
   },
   "gold": {
-    "price_usd": 4074.9,
-    "price_krw": 5526949,
-    "change": -38.6,
-    "change_pct": -0.94
+    "price_usd": 4080.0,
+    "price_krw": 5548963,
+    "change": 5.1,
+    "change_pct": 0.13
   },
-  "updated": "2026-11-08 09:14",
+  "updated": "2026-11-09 09:36",
   "error": null
 }
