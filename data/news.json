@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "금호타이어, 폭스바겐 세아트 뚫었다…유럽 공략 가속",
-      "url": "https://n.news.naver.com/mnews/article/014/0005601174"
+      "title": "무신사, 오프라인 진출 5년 만에 100호점…올해만 40곳 출점",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680139"
     },
     {
-      "title": "현대차그룹 HTWO 광저우, 중국 수소 상용차 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/417/0001163643"
+      "title": "금융연구원 \"내년 韓 GDP 성장률 3.1%…2년 연속 3%대 성장 전망\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009280787"
     },
     {
-      "title": "삼성바이오에피스, 키트루다 시밀러 임상 3상서 동등성 확인",
-      "url": "https://n.news.naver.com/mnews/article/018/0006406459"
+      "title": "발 대신 바퀴 단 아틀라스…피겨선수처럼 공중 360도 회전(영상)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407043"
     },
     {
-      "title": "“인턴 합격 축하합니다” 영국 파견 안내까지 받았는데…채용팀은 존재하지 않았다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004679959"
+      "title": "반포현대 재초환 179억원 통지",
+      "url": "https://n.news.naver.com/mnews/article/081/0003697497"
     },
     {
-      "title": "메모리 시장 진출설 불거진 TSMC “파운드리 집중” 부인",
-      "url": "https://n.news.naver.com/mnews/article/366/0001203321"
+      "title": "“공사비 협상은 나중에, 설계부터”…가덕도신공항 건설 다시 시동",
+      "url": "https://n.news.naver.com/mnews/article/021/0002831511"
     },
     {
-      "title": "농심 첫 수출전문공장 가동···100여개국 겨냥한 ‘다품종 대량생산’ 체계 구축",
-      "url": "https://n.news.naver.com/mnews/article/032/0003481293"
+      "title": "온플법 없어도 '과징금 폭탄'…배달앱 다음은 누구?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005438554"
     },
     {
-      "title": "이재용·정의선 한자리…삼성·현대차 첫 그룹 교류 행사",
-      "url": "https://n.news.naver.com/mnews/article/654/0000209972"
+      "title": "삼성SDI·LG엔솔, 'CES 혁신상' 수상…\"K배터리 차별화 기술력 입증\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014312267"
     },
     {
-      "title": "‘美국채·나스닥에 반반 투자’ 삼성운용, 美나스닥100미국채혼합50 ETF 신규 상장",
-      "url": "https://n.news.naver.com/mnews/article/016/0002720596"
+      "title": "제일약품 '자큐보', 출시 2년 만에 월 처방액 100억원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/008/0005438900"
     },
     {
-      "title": "“국민연금 받는 급여만큼 기초생활 수급비 깎여”…조기연금 신청하는 저소득층 노인들",
-      "url": "https://n.news.naver.com/mnews/article/022/0004173545"
+      "title": "[속보] 코스피·코스닥 장 초반 5%대 급등…매수 사이드카 잇따라 발동",
+      "url": "https://n.news.naver.com/mnews/article/654/0000210400"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000519727"
+      "title": "이찬진 “회계법인 내부통제 부실, 경영진 책임까지 묻겠다”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203668"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5058.54,
-      "change": -1.15,
-      "change_pct": -0.02
+      "value": 5238.4,
+      "change": 219.55,
+      "change_pct": 4.37
     },
     "kosdaq": {
-      "value": 638.82,
-      "change": -5.45,
-      "change_pct": -0.85
+      "value": 663.69,
+      "change": 24.72,
+      "change_pct": 3.87
     },
     "nasdaq": {
-      "value": 24579.43,
-      "change": 264.43,
-      "change_pct": 1.09
+      "value": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74
     },
     "usdkrw": {
-      "value": 1360.04,
-      "change": 3.7,
-      "change_pct": 0.27
+      "value": 1346.56,
+      "change": -16.14,
+      "change_pct": -1.18
     }
   },
   "gold": {
-    "price_usd": 4080.0,
-    "price_krw": 5548963,
-    "change": 5.1,
-    "change_pct": 0.13
+    "price_usd": 4121.9,
+    "price_krw": 5550385,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-09 09:36",
+  "updated": "2026-11-10 12:15",
   "error": null
 }
