@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "무신사, 오프라인 진출 5년 만에 100호점…올해만 40곳 출점",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680139"
+      "title": "고소득 의사 부부가 위장퇴사…부정청약 354건 적발",
+      "url": "https://n.news.naver.com/mnews/article/449/0000366972"
     },
     {
-      "title": "금융연구원 \"내년 韓 GDP 성장률 3.1%…2년 연속 3%대 성장 전망\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009280787"
+      "title": "이마트24, 트렌드랩 성수점 '욕구방앗간' 콜라보 떡 팝업 오픈",
+      "url": "https://n.news.naver.com/mnews/article/629/0000550633"
     },
     {
-      "title": "발 대신 바퀴 단 아틀라스…피겨선수처럼 공중 360도 회전(영상)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006407043"
+      "title": "정부, 거주-비거주 차등원칙 견지…이형일 \"실거주 우대해야\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000924783"
     },
     {
-      "title": "반포현대 재초환 179억원 통지",
-      "url": "https://n.news.naver.com/mnews/article/081/0003697497"
+      "title": "'외국인 쇼핑' 덕본 백화점 3분기 실적도 '함박웃음'",
+      "url": "https://n.news.naver.com/mnews/article/009/0005761804"
     },
     {
-      "title": "“공사비 협상은 나중에, 설계부터”…가덕도신공항 건설 다시 시동",
-      "url": "https://n.news.naver.com/mnews/article/021/0002831511"
+      "title": "“과거 성공 안주 안 돼”…김준하 동아오츠카 사장, 변화 강조",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407981"
     },
     {
-      "title": "온플법 없어도 '과징금 폭탄'…배달앱 다음은 누구?",
-      "url": "https://n.news.naver.com/mnews/article/008/0005438554"
+      "title": "삼성화재, 英 캐노피우스 경영권 확보…2조2647억원 투입",
+      "url": "https://n.news.naver.com/mnews/article/003/0014311946"
     },
     {
-      "title": "삼성SDI·LG엔솔, 'CES 혁신상' 수상…\"K배터리 차별화 기술력 입증\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014312267"
+      "title": "무신사, 본진 성수동에 400평 뷰티 단독 매장 출격…‘무신사 타운’ 시너지 키운다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003761364"
     },
     {
-      "title": "제일약품 '자큐보', 출시 2년 만에 월 처방액 100억원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/008/0005438900"
+      "title": "취업자 13.9만 명 증가·넉달 째 10만 명대↑...청년층 4년째 감소",
+      "url": "https://n.news.naver.com/mnews/article/052/0002431168"
     },
     {
-      "title": "[속보] 코스피·코스닥 장 초반 5%대 급등…매수 사이드카 잇따라 발동",
-      "url": "https://n.news.naver.com/mnews/article/654/0000210400"
+      "title": "장인화 '트리플 코어' 결실…포스코그룹, 전남광주 대규모 투자로 에너지·자원 거점 가속",
+      "url": "https://n.news.naver.com/mnews/article/003/0014314307"
     },
     {
-      "title": "이찬진 “회계법인 내부통제 부실, 경영진 책임까지 묻겠다”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001203668"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012291106"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5238.4,
-      "change": 219.55,
-      "change_pct": 4.37
+      "value": 5211.92,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 663.69,
-      "change": 24.72,
-      "change_pct": 3.87
+      "value": 687.6,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25253.14,
-      "change": 673.71,
-      "change_pct": 2.74
+      "value": 25065.88,
+      "change": -187.27,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1346.56,
-      "change": -16.14,
-      "change_pct": -1.18
+      "value": 1337.48,
+      "change": -6.36,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 4121.9,
-    "price_krw": 5550385,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4040.0,
+    "price_krw": 5403419,
+    "change": -74.5,
+    "change_pct": -1.81
   },
-  "updated": "2026-11-10 12:15",
+  "updated": "2026-11-11 10:05",
   "error": null
 }
