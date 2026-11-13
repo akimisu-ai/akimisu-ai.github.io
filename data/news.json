@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG전자, ‘이페이퍼 디스플레이’ 스마트폰 관리 앱 출시",
-      "url": "https://n.news.naver.com/mnews/article/082/0001406596"
+      "title": "김정관 \"원전 기업 간 분쟁, 조정위서 해법 찾도록 법 제정 추진\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009286272"
     },
     {
-      "title": "전세사기피해자 480건 추가 인정…누적 4만2039건",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603039"
+      "title": "\"믿었던 엔비디아마저\"…젠슨 황 사임에 시총 242조 증발",
+      "url": "https://n.news.naver.com/mnews/article/119/0003154746"
     },
     {
-      "title": "와이즈버즈 3분기 영업이익 37억원 ‘분기 최대’… 3개 분기 만에 작년 연간 실적 돌파",
-      "url": "https://n.news.naver.com/mnews/article/081/0003698565"
+      "title": "무신사, 日 오사카 팝업에 8만명 방문…역대 최대 흥행",
+      "url": "https://n.news.naver.com/mnews/article/421/0009284795"
     },
     {
-      "title": "대한전선, ESG 평가 6년 연속 ‘A등급’… 지속가능경영 체계 고도화",
-      "url": "https://n.news.naver.com/mnews/article/081/0003698091"
+      "title": "국토장관 \"매물 쌓이고 거래 감소…주택가격 하락기 시그널\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016438079"
     },
     {
-      "title": "셀트리온, 호주에 자가면역질환 치료제 '비세큐마' 허가 신청",
-      "url": "https://n.news.naver.com/mnews/article/001/0016437507"
+      "title": "납품업체에 ‘광고비 떠넘기기’ 제동…대금 지급기준도 손질",
+      "url": "https://n.news.naver.com/mnews/article/016/0002722980"
     },
     {
-      "title": "코어위브 실적 호조에 나스닥 1.2% 상승[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005841421"
+      "title": "한국지역난방공사, ESG 평가 7년 연속 A등급…상장공기업 최고",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353180"
     },
     {
-      "title": "은행지주CEO 연임할수록 의결 까다롭게…임추위 전원 독립이사로",
-      "url": "https://n.news.naver.com/mnews/article/001/0016437255"
+      "title": "LS엠트론, 멕시코 플라스티마헨 참가…현지 테크센터 신설",
+      "url": "https://n.news.naver.com/mnews/article/001/0016439825"
     },
     {
-      "title": "국고채 발행 담합 사건, 증권사·은행 15곳에 역대 최대 과징금 1.6조원 철퇴",
-      "url": "https://n.news.naver.com/mnews/article/437/0000520247"
+      "title": "세라젬, 과천에 신사옥 ‘헬스케어 이노타운’ 건립…2029년 준공",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204536"
     },
     {
-      "title": "9월 나라살림 대폭 개선…관리재정수지 적자폭 70조 원 줄어",
-      "url": "https://n.news.naver.com/mnews/article/079/0004208978"
+      "title": "안경 벗은 이재용 모습에 '깜짝'…\"돌아가신 이건희 회장인 줄\" [영상]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353377"
     },
     {
-      "title": "양극화 완화 TF 가동…“재정·세제·금융·규제개선 등에 집중”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012292303"
+      "title": "한은 \"전자장비 등 가격 올라 10월 수출물가 상승\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002432194"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5401.52,
+      "value": 5475.92,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 702.84,
+      "value": 723.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25466.19,
-      "change": 400.32,
-      "change_pct": 1.6
+      "value": 25366.09,
+      "change": -100.1,
+      "change_pct": -0.39
     },
     "usdkrw": {
-      "value": 1333.38,
-      "change": -8.53,
-      "change_pct": -0.64
+      "value": 1331.48,
+      "change": -4.78,
+      "change_pct": -0.36
     }
   },
   "gold": {
-    "price_usd": 3988.5,
-    "price_krw": 5318186,
-    "change": -41.7,
-    "change_pct": -1.03
+    "price_usd": 3916.1,
+    "price_krw": 5214208,
+    "change": -84.4,
+    "change_pct": -2.11
   },
-  "updated": "2026-11-12 11:08",
+  "updated": "2026-11-13 10:42",
   "error": null
 }
