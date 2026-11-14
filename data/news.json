@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "김정관 \"원전 기업 간 분쟁, 조정위서 해법 찾도록 법 제정 추진\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009286272"
+      "title": "현대차, 쏘카 손잡고 '한국형 자율주행' 키운다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603840"
     },
     {
-      "title": "\"믿었던 엔비디아마저\"…젠슨 황 사임에 시총 242조 증발",
-      "url": "https://n.news.naver.com/mnews/article/119/0003154746"
+      "title": "2차 '모두의 창업' 818명 개인정보 유출…AI 업체 해킹당해",
+      "url": "https://n.news.naver.com/mnews/article/422/0000925948"
     },
     {
-      "title": "무신사, 日 오사카 팝업에 8만명 방문…역대 최대 흥행",
-      "url": "https://n.news.naver.com/mnews/article/421/0009284795"
+      "title": "은행연합회장 '민간 5명 vs 관료 1명' 후보 압축…23일 최종 결정(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009287140"
     },
     {
-      "title": "국토장관 \"매물 쌓이고 거래 감소…주택가격 하락기 시그널\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016438079"
+      "title": "롯데건설, 3분기 영업이익 349억원…누적 기준 126% 증가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353495"
     },
     {
-      "title": "납품업체에 ‘광고비 떠넘기기’ 제동…대금 지급기준도 손질",
-      "url": "https://n.news.naver.com/mnews/article/016/0002722980"
+      "title": "삼성메디슨, 500억 투입 홍천 제조동 증설… 글로벌 의료기기 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604080"
     },
     {
-      "title": "한국지역난방공사, ESG 평가 7년 연속 A등급…상장공기업 최고",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353180"
+      "title": "현대해상, 3분기 순익 9.6% 감소…투자 손실 영향",
+      "url": "https://n.news.naver.com/mnews/article/374/0000543535"
     },
     {
-      "title": "LS엠트론, 멕시코 플라스티마헨 참가…현지 테크센터 신설",
-      "url": "https://n.news.naver.com/mnews/article/001/0016439825"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012293724"
     },
     {
-      "title": "세라젬, 과천에 신사옥 ‘헬스케어 이노타운’ 건립…2029년 준공",
-      "url": "https://n.news.naver.com/mnews/article/366/0001204536"
+      "title": "세종 첫 맥도날드에 300명 오픈런...새벽 2시부터 줄을 선 이유는 [100투더세종-22]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004174912"
     },
     {
-      "title": "안경 벗은 이재용 모습에 '깜짝'…\"돌아가신 이건희 회장인 줄\" [영상]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353377"
+      "title": "내년 5월부터 쌓아둔 카드 포인트 지역화폐로 바꿔 쓴다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000965403"
     },
     {
-      "title": "한은 \"전자장비 등 가격 올라 10월 수출물가 상승\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002432194"
+      "title": "한화에어로, 1만파운드급 항공엔진 개발 과제 수주…1773억원 규모",
+      "url": "https://n.news.naver.com/mnews/article/016/0002723222"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5475.92,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 723.34,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25366.09,
-      "change": -100.1,
-      "change_pct": -0.39
+      "value": 25136.27,
+      "change": -229.82,
+      "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1331.48,
-      "change": -4.78,
-      "change_pct": -0.36
+      "value": 1333.78,
+      "change": -2.48,
+      "change_pct": -0.19
     }
   },
   "gold": {
-    "price_usd": 3916.1,
-    "price_krw": 5214208,
-    "change": -84.4,
-    "change_pct": -2.11
+    "price_usd": 3887.6,
+    "price_krw": 5185203,
+    "change": 2.3,
+    "change_pct": 0.06
   },
-  "updated": "2026-11-13 10:42",
+  "updated": "2026-11-14 10:19",
   "error": null
 }
