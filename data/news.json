@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "현대차, 쏘카 손잡고 '한국형 자율주행' 키운다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603840"
+      "title": "젠슨 황 쇼크에도 개미 엔비디아 '1억달러 줍줍'…'실적발표' 긴장",
+      "url": "https://n.news.naver.com/mnews/article/421/0009289283"
     },
     {
-      "title": "2차 '모두의 창업' 818명 개인정보 유출…AI 업체 해킹당해",
-      "url": "https://n.news.naver.com/mnews/article/422/0000925948"
+      "title": "55만원 순금 케이크부터 1만원대까지…호텔가 성탄절 디저트 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682173"
     },
     {
-      "title": "은행연합회장 '민간 5명 vs 관료 1명' 후보 압축…23일 최종 결정(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009287140"
+      "title": "젠슨 황 사임 후 엔비디아 실적 발표… 미·중 정상회담 열려[주간증시전망]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204774"
     },
     {
-      "title": "롯데건설, 3분기 영업이익 349억원…누적 기준 126% 증가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353495"
+      "title": "'사장님 퇴직금' 노란우산 뚫렸나…\"개인정보유출 의심\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014322145"
     },
     {
-      "title": "삼성메디슨, 500억 투입 홍천 제조동 증설… 글로벌 의료기기 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/014/0005604080"
+      "title": "중기부 “민간 연계 서비스도 점검 강화”…창업사업 정보 유출 사흘 만에 사과",
+      "url": "https://n.news.naver.com/mnews/article/016/0002723477"
     },
     {
-      "title": "현대해상, 3분기 순익 9.6% 감소…투자 손실 영향",
-      "url": "https://n.news.naver.com/mnews/article/374/0000543535"
+      "title": "한전KDN, ‘대한민국소통어워즈’ 3개 부문 석권·AI브랜드대상 수상…4관왕",
+      "url": "https://n.news.naver.com/mnews/article/082/0001407076"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012293724"
+      "title": "전북 강타한 '토마토 갈색주름 바이러스' 확산…이원택 도지사·한병도 의원 익산 농가 '급거 방문'",
+      "url": "https://n.news.naver.com/mnews/article/002/0002465903"
     },
     {
-      "title": "세종 첫 맥도날드에 300명 오픈런...새벽 2시부터 줄을 선 이유는 [100투더세종-22]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004174912"
+      "title": "엔비디아 악재에 기술주 압박…S&P500·나스닥 하락 마감[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009288702"
     },
     {
-      "title": "내년 5월부터 쌓아둔 카드 포인트 지역화폐로 바꿔 쓴다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000965403"
+      "title": "장밋빛 '수소특별시' 창원, 왜 멈춰 섰나",
+      "url": "https://n.news.naver.com/mnews/article/006/0000138747"
     },
     {
-      "title": "한화에어로, 1만파운드급 항공엔진 개발 과제 수주…1773억원 규모",
-      "url": "https://n.news.naver.com/mnews/article/016/0002723222"
+      "title": "\"엔비디아 11% 빠질 때 30% 급등\"…돈 몰린 '이 종목'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353761"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5290.53,
+      "change": -52.2,
+      "change_pct": -0.98
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 699.66,
+      "change": 3.13,
+      "change_pct": 0.45
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1333.78,
-      "change": -2.48,
-      "change_pct": -0.19
+      "value": 1336.2,
+      "change": 2.42,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 3887.6,
-    "price_krw": 5185203,
-    "change": 2.3,
-    "change_pct": 0.06
+    "price_usd": 3886.3,
+    "price_krw": 5192874,
+    "change": 1.0,
+    "change_pct": 0.03
   },
-  "updated": "2026-11-14 10:19",
+  "updated": "2026-11-15 09:49",
   "error": null
 }
