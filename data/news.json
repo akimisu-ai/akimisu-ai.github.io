@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "[속보] 산업은행, 한국투자금융지주와 KDB생명 매각협상 결렬",
-      "url": "https://n.news.naver.com/mnews/article/015/0005355120"
+      "title": "“살아보면 차이 난다”… ‘구미 파크원 데시앙’ 보이지 않는 디테일까지 챙긴 설계",
+      "url": "https://n.news.naver.com/mnews/article/277/0005844872"
     },
     {
-      "title": "금융권 해킹 잇따르자…금감원, 자산운용사 소집해 보안 점검 주문",
-      "url": "https://n.news.naver.com/mnews/article/018/0006411645"
+      "title": "국토부, 최저주거기준 15년 만에 손본다…보편형 공공임대 도입 논의",
+      "url": "https://n.news.naver.com/mnews/article/119/0003157087"
     },
     {
-      "title": "삼성바이오, 3대축 확장 전략 가속화… ‘글로벌 톱티어 CDMO’ 도약 박차[POWER COMPANY]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003059687"
+      "title": "“한창 케이크 팔 때인데”…투썸플레이스, 공정위 조사에 발목",
+      "url": "https://n.news.naver.com/mnews/article/009/0005766025"
     },
     {
-      "title": "\"2027년엔 중국이 역전\"…위기의 K배터리, '신무기'로 반격 노린다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005442611"
+      "title": "“성장 결실 직원과 나눌 것” 대한전선 김준석 사장, 첫 임직원 소통",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683841"
     },
     {
-      "title": "한국콜마, AI로 화장품 안전성 검증…제품 만들기 전 피부 반응 예측",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683461"
+      "title": "금융권 해외 부동산 투자 소폭 감소…부실 우려 규모는 반년 만에 27% 급증",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010506"
     },
     {
-      "title": "정재준 아리바이오 대표 “치매약 3상 효과…내년초 FDA 허가 협의”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683351"
+      "title": "이병철 삼성 창업회장 39주기…범삼성가 용인서 추도식",
+      "url": "https://n.news.naver.com/mnews/article/001/0016450474"
     },
     {
-      "title": "“6800명에서 1만명대로”...미래에셋생명 해킹 유출 규모 확대",
-      "url": "https://n.news.naver.com/mnews/article/666/0000132571"
+      "title": "KB증권, 지역 관광 AI 펀드에 20억 출자",
+      "url": "https://n.news.naver.com/mnews/article/003/0014332005"
     },
     {
-      "title": "보스턴다이나믹스 '아틀라스', 반도체도 만든다",
-      "url": "https://n.news.naver.com/mnews/article/079/0004210975"
+      "title": "이혜훈, ‘로또 청약’ 반포 아파트 날리나?…국토부, 취소 요청",
+      "url": "https://n.news.naver.com/mnews/article/009/0005765399"
     },
     {
-      "title": "무신사 스탠다드, 제주에 깃발…전국 오프라인 거점 확대",
-      "url": "https://n.news.naver.com/mnews/article/374/0000544427"
+      "title": "펩트론, 월 1회 비만약 ‘PT403’ 1상 승인…12월 첫 투여 목표",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683870"
     },
     {
-      "title": "뉴욕증시, AI 투자 불안에 4거래일째 하락…S&P500 7월 이후 최저 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002724848"
+      "title": "\"홀로서기 청년의 든든한 버팀목\"…키움증권, 법률지원까지 팔 걷었다",
+      "url": "https://n.news.naver.com/mnews/article/119/0003157004"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4980.49,
-      "change": 12.01,
-      "change_pct": 0.24
+      "value": 5030.46,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 651.39,
-      "change": 1.33,
-      "change_pct": 0.2
+      "value": 658.87,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24328.38,
-      "change": -181.38,
-      "change_pct": -0.74
+      "value": 24429.88,
+      "change": 101.5,
+      "change_pct": 0.42
     },
     "usdkrw": {
-      "value": 1329.18,
-      "change": -6.49,
-      "change_pct": -0.49
+      "value": 1330.68,
+      "change": -2.33,
+      "change_pct": -0.17
     }
   },
   "gold": {
-    "price_usd": 3804.1,
-    "price_krw": 5056333,
-    "change": -48.9,
-    "change_pct": -1.27
+    "price_usd": 3748.2,
+    "price_krw": 4987654,
+    "change": -116.0,
+    "change_pct": -3.0
   },
-  "updated": "2026-11-18 11:45",
+  "updated": "2026-11-19 11:20",
   "error": null
 }
