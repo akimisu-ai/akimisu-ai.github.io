@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“살아보면 차이 난다”… ‘구미 파크원 데시앙’ 보이지 않는 디테일까지 챙긴 설계",
-      "url": "https://n.news.naver.com/mnews/article/277/0005844872"
+      "title": "국토부 재초환 해석에 서초구 ‘유감’…“제도 폐지 촉구”",
+      "url": "https://n.news.naver.com/mnews/article/119/0003157401"
     },
     {
-      "title": "국토부, 최저주거기준 15년 만에 손본다…보편형 공공임대 도입 논의",
-      "url": "https://n.news.naver.com/mnews/article/119/0003157087"
+      "title": "이 대통령, 수출 1조 달러 달성에 \"국민 모두의 노력이 만든 결실\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000966567"
     },
     {
-      "title": "“한창 케이크 팔 때인데”…투썸플레이스, 공정위 조사에 발목",
-      "url": "https://n.news.naver.com/mnews/article/009/0005766025"
+      "title": "KB증권 “반도체 비관 정점…삼전닉스 내년 D램 판가 40%↑”[줍줍리포트]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684266"
     },
     {
-      "title": "“성장 결실 직원과 나눌 것” 대한전선 김준석 사장, 첫 임직원 소통",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683841"
+      "title": "CJ제일제당, 질병관리청과 '햇반 저단백밥' 민·관 협력 강화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009300567"
     },
     {
-      "title": "금융권 해외 부동산 투자 소폭 감소…부실 우려 규모는 반년 만에 27% 급증",
-      "url": "https://n.news.naver.com/mnews/article/023/0004010506"
+      "title": "앤트로픽 108조원 '세기의 상장'… AI 투심 되살릴까",
+      "url": "https://n.news.naver.com/mnews/article/009/0005766385"
     },
     {
-      "title": "이병철 삼성 창업회장 39주기…범삼성가 용인서 추도식",
-      "url": "https://n.news.naver.com/mnews/article/001/0016450474"
+      "title": "LG그룹, 하범종 LG경영개발원 대표 내정",
+      "url": "https://n.news.naver.com/mnews/article/082/0001408074"
     },
     {
-      "title": "KB증권, 지역 관광 AI 펀드에 20억 출자",
-      "url": "https://n.news.naver.com/mnews/article/003/0014332005"
+      "title": "사장 승진자 ‘0명’ 삼성 DX… 스마트폰 내려놓은 노태문, 신사업 수익 창출 특명",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206205"
     },
     {
-      "title": "이혜훈, ‘로또 청약’ 반포 아파트 날리나?…국토부, 취소 요청",
-      "url": "https://n.news.naver.com/mnews/article/009/0005765399"
+      "title": "두산에너빌 야월해상풍력 터빈, 글로벌 표준 보험조건 확보",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684312"
     },
     {
-      "title": "펩트론, 월 1회 비만약 ‘PT403’ 1상 승인…12월 첫 투여 목표",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683870"
+      "title": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010727"
     },
     {
-      "title": "\"홀로서기 청년의 든든한 버팀목\"…키움증권, 법률지원까지 팔 걷었다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003157004"
+      "title": "떠나는 양종희 KB금융 회장, 마지막 당부는 '내부통제·소비자보호'",
+      "url": "https://n.news.naver.com/mnews/article/629/0000553937"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5030.46,
+      "value": 4910.39,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 658.87,
+      "value": 656.19,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24429.88,
-      "change": 101.5,
-      "change_pct": 0.42
+      "value": 23879.2,
+      "change": -550.68,
+      "change_pct": -2.25
     },
     "usdkrw": {
-      "value": 1330.68,
-      "change": -2.33,
-      "change_pct": -0.17
+      "value": 1337.85,
+      "change": 7.45,
+      "change_pct": 0.56
     }
   },
   "gold": {
-    "price_usd": 3748.2,
-    "price_krw": 4987654,
-    "change": -116.0,
-    "change_pct": -3.0
+    "price_usd": 3564.3,
+    "price_krw": 4768498,
+    "change": -177.6,
+    "change_pct": -4.75
   },
-  "updated": "2026-11-19 11:20",
+  "updated": "2026-11-20 11:03",
   "error": null
 }
