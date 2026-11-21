@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국토부 재초환 해석에 서초구 ‘유감’…“제도 폐지 촉구”",
-      "url": "https://n.news.naver.com/mnews/article/119/0003157401"
+      "title": "삼성전자 사장 승진 3명 모두 반도체서 나왔다",
+      "url": "https://n.news.naver.com/mnews/article/082/0001408183"
     },
     {
-      "title": "이 대통령, 수출 1조 달러 달성에 \"국민 모두의 노력이 만든 결실\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000966567"
+      "title": "포스코 노사, 기본임금 2.6% 인상 잠정합의…28일 찬반투표",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684528"
     },
     {
-      "title": "KB증권 “반도체 비관 정점…삼전닉스 내년 D램 판가 40%↑”[줍줍리포트]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684266"
+      "title": "고려아연, 아주기업경영연구소 ESG 평가서 최고등급 'AAA'",
+      "url": "https://n.news.naver.com/mnews/article/119/0003157615"
     },
     {
-      "title": "CJ제일제당, 질병관리청과 '햇반 저단백밥' 민·관 협력 강화",
-      "url": "https://n.news.naver.com/mnews/article/421/0009300567"
+      "title": "수능 끝난 자녀만 챙기나요?…세라젬·호텔·리조트, 부모도 함께 혜택",
+      "url": "https://n.news.naver.com/mnews/article/022/0004176730"
     },
     {
-      "title": "앤트로픽 108조원 '세기의 상장'… AI 투심 되살릴까",
-      "url": "https://n.news.naver.com/mnews/article/009/0005766385"
+      "title": "코스피 이어 코스닥도 매도 사이드카…삼성전자·하이닉스 6%대 급락",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356328"
     },
     {
-      "title": "LG그룹, 하범종 LG경영개발원 대표 내정",
-      "url": "https://n.news.naver.com/mnews/article/082/0001408074"
+      "title": "MBK 같은 주장 반복에 고려아연 “소모적 여론전 또 억지 공세”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005766870"
     },
     {
-      "title": "사장 승진자 ‘0명’ 삼성 DX… 스마트폰 내려놓은 노태문, 신사업 수익 창출 특명",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206205"
+      "title": "정부, 테슬라 FSD 특례 신청 반려…승인 장기화 전망",
+      "url": "https://n.news.naver.com/mnews/article/003/0014336281"
     },
     {
-      "title": "두산에너빌 야월해상풍력 터빈, 글로벌 표준 보험조건 확보",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684312"
+      "title": "버거에 입힌 무신사 감성은 어떤 맛…롯데리아, '무진장 버거' 출시",
+      "url": "https://n.news.naver.com/mnews/article/003/0014334911"
     },
     {
-      "title": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환",
-      "url": "https://n.news.naver.com/mnews/article/023/0004010727"
+      "title": "KB금융 떠나는 양종희 회장 “고객 앞에선 하나의 KB가 돼 달라”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206328"
     },
     {
-      "title": "떠나는 양종희 KB금융 회장, 마지막 당부는 '내부통제·소비자보호'",
-      "url": "https://n.news.naver.com/mnews/article/629/0000553937"
+      "title": "국산 첫 CAR-T '림카토', 내달 건강보험 적용",
+      "url": "https://n.news.naver.com/mnews/article/031/0001077130"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4910.39,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 656.19,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 23879.2,
-      "change": -550.68,
-      "change_pct": -2.25
+      "value": 22617.73,
+      "change": -1261.47,
+      "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1337.85,
-      "change": 7.45,
-      "change_pct": 0.56
+      "value": 1334.79,
+      "change": 4.39,
+      "change_pct": 0.33
     }
   },
   "gold": {
-    "price_usd": 3564.3,
-    "price_krw": 4768498,
-    "change": -177.6,
-    "change_pct": -4.75
+    "price_usd": 3539.0,
+    "price_krw": 4723821,
+    "change": -146.5,
+    "change_pct": -3.98
   },
-  "updated": "2026-11-20 11:03",
+  "updated": "2026-11-21 10:59",
   "error": null
 }
