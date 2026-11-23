@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "MBK, 日 디지털 펜 강자 와콤 1조1600억원에 인수 추진",
-      "url": "https://n.news.naver.com/mnews/article/016/0002726552"
+      "title": "6년 만에 수장 교체… 삼성물산 건설부문장에 최영재 사장 승진",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206582"
     },
     {
-      "title": "'6만달러' 붕괴된 비트코인, 5만5000달러대까지 하락",
-      "url": "https://n.news.naver.com/mnews/article/018/0006413496"
+      "title": "서울신라호텔, 화이트 트러플·샤토 디켐 담은 홀리데이 케이크 4종 출시",
+      "url": "https://n.news.naver.com/mnews/article/421/0009304109"
     },
     {
-      "title": "배달앱 없이 장사 안 되는데...\"30만원 팔면 17만원 남는다\" 한숨",
-      "url": "https://n.news.naver.com/mnews/article/008/0005444490"
+      "title": "“美 반도체 10% 폭락에도”…코스피 2.27% 하락, 증안펀드 기대에 낙폭 축소",
+      "url": "https://n.news.naver.com/mnews/article/138/0002249515"
     },
     {
-      "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356592"
+      "title": "SK바이오팜 뇌전증 신약 '세노바메이트' 소아·청소년으로 확대",
+      "url": "https://n.news.naver.com/mnews/article/421/0009304150"
     },
     {
-      "title": "4년 만에 대중국 무역수지 흑자의 역설...반도체 빼면 적자폭 확대",
-      "url": "https://n.news.naver.com/mnews/article/028/0002833295"
+      "title": "메리츠證, '모음' 신규 고객에 연 5.9% 발행어음 특판…최대 300만원",
+      "url": "https://n.news.naver.com/mnews/article/421/0009304201"
     },
     {
-      "title": "앤스로픽 주가 급락한 날…아모데이 CEO는 이탈리아 리조트로",
-      "url": "https://n.news.naver.com/mnews/article/018/0006413403"
+      "title": "美 기관투자자, 비트코인 ETF 3분기 순매수 전환…보유량 사상 최대",
+      "url": "https://n.news.naver.com/mnews/article/092/0002446354"
     },
     {
-      "title": "최태원 “한일 기업·대학, AI 인재 함께 키우자”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005767010"
+      "title": "DL이앤씨, 2조원 규모 성수2지구 재개발 수주",
+      "url": "https://n.news.naver.com/mnews/article/022/0004177302"
     },
     {
-      "title": "삼전닉스, 3분기 배당성향 큰 폭 상승…상반기 대비 4.4배·21배",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206436"
+      "title": "아마존, AI 스타트업 '데카르트' 인수 막판 협상",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846243"
     },
     {
-      "title": "삼성전자 7% 폭락에 개미 1.5조 쓸어담았다…목표가도 줄하향 [숫자 뒤의 진실]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004176893"
+      "title": "10년 새 9.4%p 줄었지만…한국 남녀 임금격차 OECD 최대",
+      "url": "https://n.news.naver.com/mnews/article/421/0009304136"
     },
     {
-      "title": "\"대전 1억·대구 6천\"…과천·광명·수원도 억대 부담금 예고",
-      "url": "https://n.news.naver.com/mnews/article/001/0016455987"
+      "title": "한전 152만여명 개인정보 유출…계좌·카드·주민번호 싹 털렸다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003701931"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4869.96,
-      "change": -267.93,
-      "change_pct": -5.21
+      "value": 4689.84,
+      "change": -180.12,
+      "change_pct": -3.7
     },
     "kosdaq": {
-      "value": 645.68,
-      "change": -39.13,
-      "change_pct": -5.71
+      "value": 631.18,
+      "change": -14.5,
+      "change_pct": -2.25
     },
     "nasdaq": {
       "value": 22617.73,
@@ -58,17 +58,17 @@
       "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1334.79,
-      "change": 4.39,
-      "change_pct": 0.33
+      "value": 1345.28,
+      "change": 10.49,
+      "change_pct": 0.79
     }
   },
   "gold": {
-    "price_usd": 3515.4,
-    "price_krw": 4692320,
-    "change": -170.1,
-    "change_pct": -4.62
+    "price_usd": 3615.7,
+    "price_krw": 4864128,
+    "change": 100.3,
+    "change_pct": 2.85
   },
-  "updated": "2026-11-22 10:00",
+  "updated": "2026-11-23 10:26",
   "error": null
 }
