@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "CJ프레시웨이, 기부금으로 일감 따냈나…200억 과징금 위기",
-      "url": "https://n.news.naver.com/mnews/article/018/0006415291"
+      "title": "포스코1%나눔재단, 산불 취약마을 4곳에 AI 감지시스템 구축",
+      "url": "https://n.news.naver.com/mnews/article/014/0005610013"
     },
     {
-      "title": "아파트 안으로 들어온 배달로봇…엘리베이터 타고 집 앞까지[1일IT템]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005609343"
+      "title": "공정위, 애플 '아이폰16 AI 기만광고' 제재 착수…\"관련매출액 3.4조\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005446790"
     },
     {
-      "title": "한국노총, 연내 정년연장 ‘경고’…사회적 대화 중단 시사",
-      "url": "https://n.news.naver.com/mnews/article/011/0004685976"
+      "title": "한화오션, 특수선 협력사 58곳과 '원팀'…함정 공급망 결속력 강화",
+      "url": "https://n.news.naver.com/mnews/article/018/0006415696"
     },
     {
-      "title": "\"스테이블코인 출시 앞당기려면…예비인가 미리 진행해야\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006414820"
+      "title": "안덕수 국세청장 후보 “주식·부동산·민생 불공정행위엔 조사 더 집중”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006415840"
     },
     {
-      "title": "'코리아 핀테크 위크' 개막…AI·디지털자산 한자리에",
-      "url": "https://n.news.naver.com/mnews/article/374/0000545743"
+      "title": "\"직원 출산하면 1000만원\"…파격 복지 내걸자 '놀라운 결과'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005358419"
     },
     {
-      "title": "청소년도 ‘모두의카드’ 이용 가능… 교통비 20% 환급",
-      "url": "https://n.news.naver.com/mnews/article/022/0004177958"
+      "title": "현대엔지니어링 신임 대표에 나태준 부사장…건축사업본부장서 승진",
+      "url": "https://n.news.naver.com/mnews/article/011/0004686409"
     },
     {
-      "title": "한전 \"해커와 협상한 사실 없어…정보 유출 대상자 통지 완료\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009307669"
+      "title": "안동자원봉사센터, '홀로 사는 어르신 194명에 김장 나눔'",
+      "url": "https://n.news.naver.com/mnews/article/088/0001042191"
     },
     {
-      "title": "에쓰오일, 9조원 샤힌 프로젝트 완공…50년 역사 새 이정표",
-      "url": "https://n.news.naver.com/mnews/article/001/0016461964"
+      "title": "살 빼려다 생돈 날리고, 피부 관리 받다 화상…미용시술 피해 속출",
+      "url": "https://n.news.naver.com/mnews/article/015/0005358538"
     },
     {
-      "title": "전주역 일대, 정부 도심융합특구 최종 후보지 선정",
-      "url": "https://n.news.naver.com/mnews/article/079/0004213406"
+      "title": "주병기 \"재벌 대기업집단이 성장 성과 독차지…친족 경영권 세습, 청산해야\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005446715"
     },
     {
-      "title": "“거품 터진다” 경고에도 불구하고…457개나 더 사들인 ‘간 큰’ 스트래티지",
-      "url": "https://n.news.naver.com/mnews/article/009/0005768134"
+      "title": "한남뉴타운 첫 삽 떴다...서울 최대 재개발 한남3구역, 5970가구로",
+      "url": "https://n.news.naver.com/mnews/article/014/0005610109"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4738.99,
-      "change": -267.04,
-      "change_pct": -5.33
+      "value": 4725.83,
+      "change": 28.32,
+      "change_pct": 0.6
     },
     "kosdaq": {
-      "value": 653.63,
-      "change": -12.25,
-      "change_pct": -1.84
+      "value": 658.93,
+      "change": 8.29,
+      "change_pct": 1.27
     },
     "nasdaq": {
-      "value": 23733.54,
-      "change": -356.03,
-      "change_pct": -1.48
+      "value": 23585.8,
+      "change": -147.74,
+      "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1342.99,
-      "change": 1.97,
-      "change_pct": 0.15
+      "value": 1343.79,
+      "change": 1.14,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 3548.1,
-    "price_krw": 4765062,
-    "change": -103.3,
-    "change_pct": -2.83
+    "price_usd": 3608.2,
+    "price_krw": 4848663,
+    "change": 46.3,
+    "change_pct": 1.3
   },
-  "updated": "2026-11-25 12:58",
+  "updated": "2026-11-26 12:23",
   "error": null
 }
