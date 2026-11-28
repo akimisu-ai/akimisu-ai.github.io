@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "3분기 해외에서 쓴 돈 ‘역대 최대’",
-      "url": "https://n.news.naver.com/mnews/article/032/0003485510"
-    },
-    {
-      "title": "로봇 순찰·스마트팜 품은 첫 미래형 단지… 세종 5-1생활권 ‘엘 수자인’ 견본주택 개관",
-      "url": "https://n.news.naver.com/mnews/article/014/0005610770"
-    },
-    {
-      "title": "\"치킨도 사치다\"…30조 푼다는데 웃지 못하는 삼전 개미들 [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005358878"
-    },
-    {
-      "title": "금감원 검사 '적발'에서 '예방'으로…중간 검사결과 공개 금지",
-      "url": "https://n.news.naver.com/mnews/article/215/0001274181"
-    },
-    {
-      "title": "LG생활건강, '올해의 상생기업' 국무총리 표창 수상",
-      "url": "https://n.news.naver.com/mnews/article/629/0000556151"
-    },
-    {
-      "title": "가계대출 금리 5% 돌파…“이자부담 허리 휠 듯”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003703637"
-    },
-    {
-      "title": "올리브영, K뷰티 '슈퍼루키' 10곳 키운다…글로벌몰까지 판로 확대",
-      "url": "https://n.news.naver.com/mnews/article/421/0009313650"
-    },
-    {
-      "title": "시내버스 2대 중 1대는 저상버스…국민 3명 중 1명은 교통약자",
-      "url": "https://n.news.naver.com/mnews/article/001/0016466761"
-    },
-    {
-      "title": "시공사 협약 종료된 체코 원전…정부, 새 선정 속도전",
-      "url": "https://n.news.naver.com/mnews/article/023/0004011895"
+      "title": "역대 최대 3차 ESS 정부 입찰서 삼성SDI 63%·SK온 37% 수주",
+      "url": "https://n.news.naver.com/mnews/article/001/0016467119"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/001/0016466151"
+      "url": "https://n.news.naver.com/mnews/article/449/0000368874"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002438734"
+    },
+    {
+      "title": "장재훈 현대차 부회장 \"중국과 원가 30% 차이…3년내 격차 줄일것\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006416654"
+    },
+    {
+      "title": "국민연금 9월 말 수익률 13.28%…기금규모 1664조 원 [시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004687048"
+    },
+    {
+      "title": "홍지선 국토부 장관 “부전~마산 복선전철, 내년 4월 부분 개통 총력”",
+      "url": "https://n.news.naver.com/mnews/article/119/0003160415"
+    },
+    {
+      "title": "은행 절반이 ‘최우수’…지역재투자 평가, 상대평가로 바꾼다",
+      "url": "https://n.news.naver.com/mnews/article/366/0001207805"
+    },
+    {
+      "title": "주식으로 100억원 번 95년생 투자 과정 공개…\"사실상 '이것'만 계속 거래\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005849019"
+    },
+    {
+      "title": "\"7만전자? 아니, 삼성 4만원 간다\"는 전문가…서늘한 전망, 이유는",
+      "url": "https://n.news.naver.com/mnews/article/088/0001042800"
+    },
+    {
+      "title": "샌디스크 16%↑…메모리주, '이익절벽' 우려 속 주간 반등",
+      "url": "https://n.news.naver.com/mnews/article/001/0016468562"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4856.38,
-      "change": 145.17,
-      "change_pct": 3.08
+      "value": 4915.68,
+      "change": 204.47,
+      "change_pct": 4.34
     },
     "kosdaq": {
-      "value": 694.79,
-      "change": 39.08,
-      "change_pct": 5.96
+      "value": 708.99,
+      "change": 53.28,
+      "change_pct": 8.13
     },
     "nasdaq": {
-      "value": 23585.8,
-      "change": -147.74,
-      "change_pct": -0.62
+      "value": 24129.5,
+      "change": 543.7,
+      "change_pct": 2.31
     },
     "usdkrw": {
-      "value": 1340.58,
-      "change": -2.39,
-      "change_pct": -0.18
+      "value": 1343.53,
+      "change": 0.56,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 3655.6,
-    "price_krw": 4900624,
-    "change": 119.8,
-    "change_pct": 3.39
+    "price_usd": 3668.5,
+    "price_krw": 4928739,
+    "change": 132.7,
+    "change_pct": 3.75
   },
-  "updated": "2026-11-27 12:31",
+  "updated": "2026-11-28 12:07",
   "error": null
 }
